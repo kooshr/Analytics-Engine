@@ -1,0 +1,1397 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11	col_12	col_13	col_14
+2	268 kg	0.1421	Fish	SAM, FABRICE	0.5891	1.2637	775	292	456 m^2	LISE	803	rat	157	0.0643	running
+1	183 kg	0.73	guinea pig	Chris	1.1782	-0.2426	-190	450	151 m^2	Sam	366	rat	1053	0.3384	motor sports
+4	1002 kg	-0.0335	rat	Eriq	0.6246	0.693	377	1094	388 m^2	Michael	170	ferret	522	0.8777	ice hockey
+3	783 kg	0.6535	rabbit	Michael	0.0406	0.5602	716	841	85 m^2	Eriq	107	guinea pig	585	0.8413	volleyball
+1	9 kg	0.7392	pig	Chris	0.9498	-0.0583	70	439	-420 m^2	Michael	476	rat	830	0.5758	soccer
+0	487 kg	0.5475	fish	Reilly	0.0443	?	309	142	947 m^2	Michael	817	cat, pig, bird	176	-0.2232	badminton
+2	658 kg	0.0386	CHICKEN	Sam, Fabrice	1.0443	0.8443	827	67	578 m^2	Chris	805	reptile	115	0.6436	basketball
+1	372 kg	0.6912	rabbit	Reilly	0.8444	0.242	117	340	409 m^2	Sam	513	rat	792	0.6332	soccer
+4	786 kg	0.3406	ferret	Tony	0.3295	0.7258	351	1230	908 m^2	Vani	131	ferret	699	0.6974	football
+1	57 kg	0.552	pig	Chris	0.8191	0.2983	180	456	536 m^2	Michael	173	rat	918	0.9672	motor sports
+4	835 kg	0.2957	dog	Eriq	0.6452	0.6037	438	731	376 m^2	Inan	437	ferret	514	0.8367	football
+0	544 kg	0.4213	reptile	Reilly	0.3493	0.5741	267	70	1115 m^2	Inan	647	bird, guinea pig, hamster	283	-0.0719	baseball
+3	962 kg	0.78	bird	Michael	0.024	0.1269	782	787	119 m^2	Eriq	-7	rabbit	520	0.8866	golf
+4	916 kg	0.2692	dog	Tony	0.7107	0.5477	410	1006	646 m^2	Vani	576	ferret	704	0.9426	football
+4	812 kg	0.3732	rat	Eriq	1.0264	0.5407	459	1165	757 m^2	Reilly	83	ferret	576	0.9865	football
+1	238 kg	0.6123	guinea pig	Andrew	0.6428	-0.0926	137	226	480 m^2	Sam	889	rat	968	0.852	motor sports
+2	397 kg	0.0953	fish	Sam	0.5337	1.114	975	99	576 m^2	N/A	1062	ferret	136	0.3283	BASKETBALL
+1	417 kg	0.6778	pig	Chris	1.1292	0.014	23	474	112 m^2	Sam	470	rat	829	0.6276	motor sports
+1	38 kg	None	guinea pig	Chris	0.7877	-0.1422	192	662	96 m^2	Sam	621	rat	512	0.5222	soccer
+0	282 kg	0.1901	cat	Vani, Andrew	0.0866	0.4366	650	275	888 m^2	Inan	671	chicken, fish	280	-0.1031	badminton, baseball
+0	377 kg	0.5242	reptile	Andrew, Reilly	0.1901	0.4449	110	-234	853 m^2	Inan	634	bird, pig, guinea pig, cat	458	0.1493	boxing, badminton
+0	407 kg	0.5554	cat	Reilly, Vani	0.5508	0.4523	441	503	1092 m^2	Inan	1236	bird, pig, cat	302	-0.084	boxing
+1	265 kg	0.4295	guinea pig	Inan	1.0614	0.2496	-15	351		Sam	340	RAT	921	0.5294	soccer
+1	-130 kg	0.6503	guinea pig	Chris	0.8737	-0.2204	283	235	515 m^2	Sam	516	ferret	1105	0.5906	soccer
+0	354 kg	0.4494	reptile	Andrew, Reilly	0.4509	0.1654	297	-206	872 m^2	Inan	682	CAT, HAMSTER, PIG, GUINEA PIG	418	0.122	boxing, baseball
+1	431 kg	0.9223	guinea pig	Chris	0.7914	0.0922	150	541	175 m^2	Michael	617	rat	924	0.5257	motor sports
+4	856 kg	0.1396	rat	Eriq	0.5367	0.5148	-94	1140	600 m^2	Andrew	175	ferret	649	1.0652	track & field
+1	436 kg	0.9036	pig	Chris	0.8101	-0.064	391	527	-290 m^2	Sam	447	rat	787	0.4691	motor sports
+1	275 kg	0.756	guinea pig	Chris	0.975	0.1061	108	409	264 m^2	Sam	594	bird, hamster, guinea pig	738	0.3987	soccer
+4	739 kg	0.1905	bird	Eriq	0.8104	0.7931	638	1216	965 m^2	Andrew	-34	ferret	652	0.9467	track & field
+2	327 kg	0.0099	fish	Fabrice	0.6139	0.8032	1119	-104	1016 m^2	Inan	645	reptile, dog	114	-0.0735	basketball
+0	167 kg	0.2665	cat	Andrew, Reilly	0.4098	0.6854	28	152	1057 m^2	Inan	1031	hamster	284	0.1356	badminton
+4	723 kg	0.4264	rat	Tony	0.7092	0.7822	451	723	685 m^2	Reilly	302	rabbit	679	0.9446	ice hockey, football
+1	67 kg	0.2921	pig	Chris	0.5714	-0.0433	-241	445	249 m^2	Sam	849	rat	997	0.7146	Soccer
+4	736 kg	0.3341	ferret	Eriq	0.6442	0.6092	358	1002	651 m^2	Vani	516	ferret	510	0.732	track & field, football
+2	701 kg	-0.1508	chicken	Lise, Fabrice	0.7927	0.9599	997	294	780 m^2	Fabrice	1237	reptile, fish	187	0.2595	running
+2	558 kg	-0.1589	chicken	Sam, Lise	0.5167	1.1285	834	288	1097 m^2	Lise	533	bird, guinea pig, hamster	134	0.4659	running
+2	601 kg	-0.0445	fish	Sam, Fabrice	0.4656	0.887	635	564	809 m^2	Fabrice	724	chicken, fish, reptile	-19	0.0893	basketball
+1	48 kg	0.3972	pig	Chris	0.9654	0.3096	163	324	1 m^2	Michael	710	rat	872	0.412	motor sports
+3	597 kg	1.1834	bird	Inan	-0.0216	0.2961	911	417	12 m^2	Eriq	225	rabbit	793	0.7599	volleyball
+4	1080 kg	0.5924	cat	Tony	0.6256	0.7418	447	1020	1156 m^2	Vani	432	reptile, dog	482	0.8097	ice hockey, track & field
+4	776 kg	0.3171	ferret	Tony	0.8494	0.5225	427	1036	786 m^2	Andrew	93	ferret	481	0.7036	ice hockey, football
+4	859 kg	0.1578	rat	Eriq	0.6084	0.8612	503	1140	532 m^2	Vani	262	ferret	843	1.0047	track & field
+2	467 kg	0.0589	fish	Sam	0.4327	1.2089	604	470	1096 m^2	Chris	789	rabbit	-4	0.3947	running
+4	887 kg	-0.0125	n/a	Tony	0.4673	0.7642	291	1227	663 m^2	andrew	87	rat	671	1.1587	TRACK & FIELD
+1	174 kg	0.6867	guinea pig	Chris	0.6813	0.2169	48	391	165 m^2	Michael	384	ferret	892	0.5	soccer
+1	334 kg	0.5741	guinea pig	Chris	1.0035	-0.2621	-240	328	177 m^2	Reilly	281	rabbit	907	0.2863	motor sports
+3	1040 kg	0.777	rabbit	Michael	0.0778	0.3782	706	970	137 m^2	Eriq	-86	rabbit	598	0.8583	GOLF
+1	348 kg	0.9706	rat	Chris	0.6682	0.1682	-169	317	480 m^2	Sam	555	rat	807	0.1858	soccer
+0	523 kg	0.238	reptile	Vani	0.2337	0.2061	395	156	1235 m^2	Eriq	432	guinea pig, pig	267	0.035	boxing, badminton
+0	282 kg	0.5489	cat	Andrew, Vani	0.0703	0.459	315	242	720 m^2	Inan	893	bird	347	0.279	boxing
+4	604 kg	0.1574	rat	eRIQ	0.6634	0.8592	317	1056	294 m^2	Reilly	287	ferret	523	0.9569	football
+2	736 kg	0.3279	fish	Sam	0.49	0.7053	884	237	527 m^2	Lise	819	RABBIT	-41	0.2585	basketball
+0	260 kg	0.473	hamster	Andrew	0.5716	0.3833	241	140	1075 m^2	Inan	1101	bird	277	-0.109	boxing, badminton
+3	820 kg	0.4239	rabbit	Michael	0.0425	-0.1909	631	883	184 m^2	Eriq	-197	rabbit	625	0.9903	volleyball
+3	859 kg	0.9419	rabbit	Inan	-0.039	0.8005	899	193	156 m^2	Eriq	-431	rabbit	620	0.8397	golf
+0	29 kg	0.2869	rabbit	Reilly	0.2189	0.4804	351	143	769 m^2	Inan	644	bird, pig, hamster, cat	356	-0.0232	baseball, badminton
+1	176 kg	0.8526	guinea pig	Chris	0.7249	-0.1399	105	500	-272 m^2	Michael	258	pig, hamster, cat, bird	723	0.3889	soccer
+3	1088 kg	0.5919	bird	Inan	0.0283	0.1024	756	825	-1 m^2	Eriq	228	fish, dog, chicken	630	0.8389	volleyball, golf
+2	629 kg	0.075	chicken	Fabrice, Sam	0.6562	1.162	830	284	849 m^2	Tony	1013	chicken, dog	185	0.5684	basketball
+3	843 kg	0.9301	guinea pig	Michael	0.0249	0.7526	487	837	323 m^2	Eriq	422		540	1.0119	tennis
+2	1021 kg	0.1523	chicken	Sam, Lise	0.5847	0.9643	None	-127	742 m^2	Tony	791	dog, chicken, reptile	148	0.2867	basketball
+3	723 kg	0.8251	bird	Michael	0.2213	0.2421	502	668	132 m^2	Eriq	378	rabbit	638	0.8081	golf
+4	865 kg	0.3367	dog	Chris	0.7851	0.9107	-39	1150	739 m^2	Vani	269	rat	610	1.1881	ice hockey, track & field
+3	992 kg	0.6473	bird	Inan	-0.0714	0.2386	783	697	17 m^2	Eriq	243	rabbit	653	0.9858	volleyball
+1	54 kg	0.7652	pig	Chris	0.992	0.1109	263	514	42 m^2	Vani	459	rat	727	0.5929	motor sports
+2	673 kg	0.3155	chicken	Fabrice, Lise	0.7531	1.1721	608	239	682 m^2	Vani	1148	chicken, reptile, fish	33	0.2394	basketball
+0	66 kg	0.3112	hamster	Reilly, Andrew	-0.0135	0.5565	117	338	1245 m^2	Inan	687	ferret	319	0.0074	badminton, baseball
+0	166 kg	0.4782	hamster	Andrew, Reilly	0.1858	0.232	589	63	1126 m^2	Inan	816	hamster	325	-0.0421	boxing, badminton
+1	86 kg	0.7	pig	n/a	0.8974	-0.1961	219	278	355 m^2	Sam	558	rat	976	0.6418	motor sports
+2	409 kg	0.1817	guinea pig	Fabrice	0.4849	1.432	1261	273	632 m^2	Chris	994	fish, chicken	63	0.1529	running
+2	765 kg	-0.1842	fish	Fabrice	0.5244	1.0776	497	113	994 m^2	Lise	691	reptile	-14	0.2726	running
+4	534 kg	0.3445	PIG	Eriq	0.7559	1.0879	531	845	569 m^2	Vani	599	ferret	594	0.9753	ice hockey, football
+0	-41 kg	0.3476	cat	Andrew	0.122	0.3851	330	46	1070 m^2	Inan	1347	guinea pig, pig, cat, hamster	305	0.0359	baseball, boxing
+3	762 kg	0.5428	bird	Michael	-0.0979	0.4576	531	1004	96 m^2	Lise	-290	rabbit	632	0.9139	golf
+1	195 kg	0.4938	guinea pig	Chris	0.8548	-0.3173	-32	527	511 m^2	MICHAEL	715	rat	1005	0.7403	soccer
+4	?	0.3398	dog	n/a	0.7651	0.579	417	814	1035 m^2	Vani	-4		510	0.8145	football, ice hockey
+3	711 kg	0.8794	rabbit	Michael	-0.212	0.2817	779	894	502 m^2	Eriq	56	ferret	609	0.9922	golf, tennis
+4	462 kg	0.4254	rat	Eriq	0.341	0.8354	635	896	382 m^2	Vani	193	ferret	726	0.8677	ice hockey, track & field
+4	893 kg	0.1731	dog	Eriq	0.6117	0.5468	409	747	952 m^2	Reilly	197	ferret	567	0.6836	football
+0	520 kg	0.5551	pig	Vani	0.6024	0.4819	558	185	867 m^2	Inan	475	ferret	366	0.3086	BADMINTON
+4	584 kg	0.1058		Tony	0.7693	0.7306	532	1233	349 m^2	Andrew	65	ferret	568	0.8633	track & field, ice hockey
+4	849 kg	0.3179	None	Tony	0.8185	0.7191	635	1174	943 m^2	Andrew	247	ferret	545	0.8246	ice hockey, football
+3	888 kg	0.8117	bird	Inan	N/A	0.1136	533	688	126 m^2	Eriq	-12	rabbit	651	0.8033	tennis
+2	496 kg	-0.0913	chicken	Lise, Sam	0.739	0.7444	806	562	564 m^2	Fabrice	1481	reptile, chicken	-227	0.5404	basketball
+0	384 kg	0.3794	cat	Reilly, Vani	0.2209	0.5502	364	105	975 m^2	Inan	458	guinea pig, bird, cat	285	-0.25	baseball, badminton
+0	-12 kg	0.5603	cat	Reilly	0.546	0.6086	297	455	1184 m^2	Inan	879	cat, hamster, bird	403	-0.1443	baseball, badminton
+1	234 kg	0.5182	guinea pig	Chris	1.0162	-0.0621	150	775	-647 m^2	Michael	383	rat	791	0.637	
+0	414 kg	0.6292	hamster	Vani	0.6834	0.5506	137	153	1231 m^2	Inan	838	cat, pig	290	0.1711	badminton, boxing
+0	602 kg	0.6991	hamster	Vani	0.1059	0.2771	235	180	1152 m^2	Inan	988	pig, cat, bird, guinea pig	230	0.0732	?
+0	97 kg	0.2131	reptile	Andrew, Vani	0.3387	0.5883	469	0	642 m^2	Inan	709	bird, cat, pig, hamster	534	0.0886	football, ice hockey
+1	300 kg	0.6774	guinea pig	Chris	0.7416	0.1225	92	375	173 m^2	Sam	326	hamster	875	0.6844	motor sports
+4	237 kg	0.3605	rat	Tony	0.7868	0.7219	638	772	863 m^2	Reilly	201	ferret	275	0.9942	ice hockey, track & field
+0	275 kg	0.1416	reptile	Vani, Reilly	0.3762	0.5003	381	-373	1124 m^2	Inan	763	guinea pig	457	-0.2258	badminton, boxing
+2	542 kg	-0.0748	fish	Sam	0.7328	1.1181	756	272	370 m^2	Inan	1022	chicken, dog, reptile	36	-0.1188	running
+3	780 kg	0.8852	rabbit	Michael	0.0272	0.1443	605	674	389 m^2	INAN	108	rabbit	562	0.8956	golf, tennis
+1	-157 kg	0.935	PIG	Chris	0.8972	-0.2449	NULL	330	375 m^2	Michael	602	rat	975	0.5041	soccer
+3	961 kg	0.8586	rabbit	Michael	0.1518	0.4651	539	802	229 m^2	Eriq	92	rabbit	602	0.5272	golf, tennis
+2	478 kg	-0.143	fish	Lise	0.464	0.9737	778	213	905 m^2	Tony	958	fish	183	-0.0227	running
+4	472 kg	0.1077	ferret	Eriq	0.8029	0.3475	269	722	770 m^2	Vani	65	ferret	813	1.105	ice hockey, football
+3	943 kg	0.8072	rabbit	Michael	-0.0188	0.165	645	921	217 m^2	Eriq	287	ferret	672	0.7915	golf
+3	942 kg	0.8178	rabbit	Inan	-0.0903	-0.0859	612	799	548 m^2	Eriq	207	rabbit	613	None	golf
+0	590 kg	0.2776	fish	Vani, Reilly	0.3918	0.794	524	65	662 m^2	Inan	1120	cat, pig, hamster, guinea pig	473	0.1998	baseball
+4	679 kg	0.1918	pig	Eriq	0.4722	0.8917	294	920	622 m^2	Michael	111	ferret	433	0.9092	track & field
+0	538 kg	0.1823		Andrew, Reilly	0.502	0.6365	139	-71	906 m^2	Inan	888	pig, bird, cat, hamster	441	-0.0735	badminton
+0	356 kg	0.3975	reptile	Reilly	0.3175	0.5797	150	364	1087 m^2	Tony	702	guinea pig, pig, cat	456	0.1863	badminton
+0	332 kg	0.1826	cat	Andrew	0.251	0.5011	447	-254	773 m^2	Inan	698	cat, pig, hamster	640	-0.1483	baseball, boxing
+3	979 kg	0.588	rabbit	Inan	0.0353	0.2788	691	829	222 m^2	Eriq	n/a	rabbit	713	0.739	golf, tennis
+3	1054 kg	0.6658	rabbit	Michael	0.0361	0.364	478	1265	-173 m^2	Eriq	167	rabbit	724	0.8075	golf
+2	718 kg	-0.2234	fish	Fabrice	0.4538	0.8492	736	160	737 m^2	Eriq	718	rat	292	0.0292	basketball
+4	983 kg	0.3422	rat	Eriq	0.5219	1.0006	628	1001	707 m^2	Reilly	474	ferret	557	0.8915	track & field, football
+0	235 kg	0.716	cat	Vani, Andrew	0.3063	0.6292	48	-264	963 m^2	Inan	867	guinea pig, cat, pig	420	-0.4382	boxing
+4	986 kg	0.4587	ferret	Eriq	0.3568	0.7682	622	927	668 m^2	Vani	-48	ferret	793	0.9182	ice hockey
+1	352 kg	0.6553	pig	Chris	0.6039	0.0696	118	501	-39 m^2	Sam	357	ferret	822	0.4418	motor sports
+4	699 kg	0.3667	ferret	Tony	1.1132	0.9659	411	875	996 m^2	Vani	260	ferret	553	1.0414	football
+1	200 kg	0.7078	guinea pig	Chris	0.713	-0.1493	182	621	39 m^2	Michael	336	rat	1074	0.8476	motor sports
+0	226 kg	0.6912	hamster	Andrew, Vani	0.4369	0.3119	394	79	1175 m^2	Inan	894	rat	401	-0.0315	baseball, boxing
+4	931 kg	0.2566	ferret	Tony	0.8671	0.6407	219	1058	686 m^2	Vani	98	Bird	765	1.0377	ice hockey, track & field
+1	432 kg	0.8497	pig	Chris	0.787	0.2758	-22	645	46 m^2	Sam	357	pig, guinea pig	773	0.674	soccer
+1	314 kg	0.7476	fish	Chris	0.8086	-0.277	-91	525	421 m^2	Sam	294	rabbit	762	0.5844	soccer
+2	578 kg	0.072	chicken	Lise	0.0082	0.7283	997	480	808 m^2	Chris	903	reptile	72	0.5254	running
+3	1201 kg	0.912	rabbit	Inan	0.2166	0.4178	884	903	495 m^2	Eriq	296	rabbit	583	0.6133	volleyball, tennis
+1	96 kg	0.3843	pig	Chris	0.6625	-0.1061	-211	407	4 m^2	Sam	653	rat	820	0.7706	soccer
+2	689 kg	0.0812	chicken	Sam, Fabrice	0.8978	0.9658	693	177	742 m^2	Fabrice	653	fish, reptile	18	0.2063	basketball
+3	1234 kg	1.1628	rabbit	Michael	0.0335	0.4073	772	731	171 m^2	Eriq	-194	rabbit	967	0.4485	golf
+1	327 kg	0.7607	pig	Chris	0.8955	-0.2372	109	313	459 m^2	SAM	288	rat	931	0.6893	motor sports
+2	515 kg	-0.3816	FISH	Vani	0.6848	0.8934	1083	17	677 m^2	Sam	729	fish, dog	-122	-0.0698	running
+4	535 kg	0.1188	dog	Eriq	0.7007	1.0015	365	1220	585 m^2	Vani	450	ferret	468	0.6266	ice hockey, track & field
+2	397 kg	0.4132	chicken	Sam	0.4098	0.9387	915	82	650 m^2	Lise	623	fish, reptile	27	0.1277	basketball
+1	85 kg	0.9061	guinea pig	Chris	0.6992	-0.2666	194	426	441 m^2	Michael	289	rat	728	0.806	soccer
+1	45 kg	0.7056	guinea pig	n/a	0.9163	-0.0644	264	330	553 m^2	Michael	679	chicken, fish	895	0.3341	motor sports
+3	691 kg	0.6584	bird	Michael	0.0633	0.2215	614	977	241 m^2	Eriq	153	rabbit	796	0.7575	volleyball
+1	430 kg	0.3198	chicken	Chris	0.5261	-0.1492	39	596	47 m^2	Michael	128	rabbit	736	0.4609	soccer
+4	554 kg	0.2201	rat	Eriq	0.7478	0.839		1181	347 m^2	Andrew	3	ferret	783	0.9161	N/A
+3	849 kg	1.0468	rabbit	Inan	0.0127	0.1666	709	905	593 m^2	Eriq	-33	rabbit	506	0.6781	volleyball
+2	1009 kg	0.1742	fish	Lise, Fabrice	0.4501	0.9951	715	395	383 m^2	Inan	1113	fish	-39	0.3244	basketball
+0	566 kg	0.4017	hamster	Andrew	0.4755	0.5176	402	107	888 m^2	INAN	640	hamster, bird, cat	364	0.0059	baseball
+1	317 kg	0.5775	Pig	Chris	0.8454	0.0268	181	318	291 m^2	Sam	455	Rat	683	0.3805	soccer
+1	112 kg	0.285	pig	Chris	0.9541	-0.2703	253	428	157 m^2	Michael	202	rat	744	0.5567	soccer
+3	827 kg	0.9292	bird	Inan	-0.0074	0.1898	696	609	6 m^2	Eriq	220	rabbit	794	0.9138	volleyball, tennis
+4	475 kg	0.3216	ferret	eriq	0.9131	0.6557	645	1119	941 m^2	Reilly	128	ferret	592	0.7564	track & field, football
+0	402 kg	0.4633	hamster	Reilly, Andrew	0.0088	0.4269	256	283	1123 m^2	sam	888	cat	484	-0.3464	baseball
+4	671 kg	0.3932	rat	Tony	0.7105	0.383	627	794	655 m^2	Andrew	113	ferret	635	0.9293	ice hockey, football
+0	406 kg	0.3962		Vani	0.4766	0.6907	375	72	1127 m^2	Eriq	1056	rabbit	337	-0.0118	badminton
+3	967 kg	1.0424	Bird	Inan	0.1108	0.4263	558	667	531 m^2	Reilly	-2	rabbit	474	0.5884	golf, tennis
+0	540 kg	0.1366	hamster	Reilly	0.2912	0.1707	312	145	999 m^2	Inan	641	bird, hamster, guinea pig	517	0.0347	badminton
+4	770 kg	0.3494	ferret	Tony	0.9154	0.8269	306	922	626 m^2	Michael	355	ferret	670	0.7931	track & field, ice hockey
+1	-37 kg	0.867	guinea pig	Chris	0.6981	0.2599	-225	272	156 m^2	Sam	180	rat	1010	0.5962	soccer
+2	505 kg	0.3013	chicken	Sam, Fabrice	0.7032	0.9854	690	275	733 m^2	Tony	847	fish, reptile, chicken	36	-0.0134	running
+0	-177 kg	0.618	cat	Vani	0.0245	0.4335	339	93	1133 m^2	Inan	459	hamster, bird, cat, guinea pig	422	0.4546	boxing, baseball
+3	772 kg	0.8446	rabbit	inan	0.3082	0.3006	476	845	-55 m^2	Eriq	-4	ferret	440	0.5013	golf
+2	432 kg	-0.2535	chicken	Fabrice, Lise	0.3988	0.9306	808	324	926 m^2	Chris	1108	chicken	191	0.2088	running
+4	756 kg	0.4144	rat	Eriq	0.7377	0.5252	613	769	264 m^2	Vani	27	ferret	648	0.7902	ice hockey, football
+3	740 kg	0.8225	rabbit	Michael	-0.1613	0.3554	529	723	475 m^2	Eriq	42	rabbit	736	0.6956	volleyball, tennis
+1	39 kg	0.7698	guinea pig	Chris	1.0681	0.0593	124	610	-109 m^2	Sam	705	rat	947	0.1519	soccer
+0	173 kg	0.2753	cat	Vani, Andrew	0.4096	0.0094	-118	280	1163 m^2	Inan	624	guinea pig	464	0.1504	badminton
+4	717 kg	0.1546	rat	tony	0.8323	0.7596	532	816	658 m^2	Andrew	131	ferret	564	0.957	football
+1	279 kg	0.734	fish	Chris	0.5425	-0.1253	-156	261	-69 m^2	Michael	455	rat	872	0.4896	soccer
+3	1108 kg	0.7811	bird	Inan	0.405	0.0943	841	844	201 m^2	Eriq	-26	ferret	601	0.8725	tennis, volleyball
+2	461 kg	0.3129	fish	Sam, Lise	0.7808	0.6506	1237	135	729 m^2	Inan	868	ferret	73	0.197	football, ice hockey
+2	286 kg	-0.2286	fish	Fabrice	0.5403	0.7609	927	35	713 m^2	chris	678	reptile	161	0.4712	basketball
+4	534 kg	0.2134	dog	Tony	0.7625	0.6199	299	959	380 m^2	Reilly	291	ferret	470	0.8914	track & field
+4	825 kg	None	dog	Eriq	0.9141	0.8403	288	1285	717 m^2	NULL	260	ferret	636	0.5992	ice hockey, football
+1	179 kg	0.5886	pig	Reilly, Vani	0.987	-0.2194	124	689	195 m^2	Michael	154	rat	1055	0.5734	motor sports
+4	671 kg	0.435	rat	Tony	0.3556	0.6723	326	995	563 m^2	Inan	165	ferret	392	0.7973	football, ice hockey
+4	875 kg	-0.0235	rat	Eriq	0.819	0.8866	498	1014	646 m^2	Inan	95	ferret	597	1.1844	ice hockey, track & field
+2	615 kg	0.2119	chicken	Sam	0.9043	0.8858	798	354	729 m^2	Tony	1080	chicken, reptile	-158	0.1617	basketball
+1	128 kg	0.86	pig	chris	0.5972	-0.1551	164	345	-194 m^2	Sam	397	rat	947	0.4914	soccer
+2	403 kg	0.0507	chicken	Sam	0.7077	0.9682	705	108	514 m^2	Fabrice	920	dog, reptile, fish	-123	0.3163	running
+3	803 kg	0.8887	chicken	Michael	0.0279	0.2294	831	962	126 m^2	Eriq	437	rabbit	706	0.6497	tennis, volleyball
+1	524 kg	0.8096	hamster	Chris	0.4811	-0.0085	-21	497	22 m^2	Michael	687	rat	864	0.6503	soccer
+3	620 kg	0.9221	bird	Inan	0.1777	0.0081	883	881	314 m^2	Eriq	-11	rabbit	N/A	0.6322	Tennis, Golf
+0	227 kg	0.8051	reptile	Andrew	0.0616	0.9643	606	165	1168 m^2	Inan	1006	cat, hamster	397	0.5688	badminton
+4	764 kg	0.4432	rat	TONY	0.6383	0.6442	494	683	678 m^2	Andrew	561	ferret	761	0.9159	ice hockey
+0	205 kg	0.4633	Reptile	Vani, Andrew	-0.114	0.2852	437	189	1132 m^2	Inan	687	bird, pig, hamster	343	-0.2125	badminton
+2	1051 kg	-0.2052	fish	Sam, Lise	0.7942	0.8113	784	573	789 m^2	Fabrice	905	fish, chicken	-102	0.3586	basketball
+1	363 kg	0.7044	ferret	Chris	0.7676	0.0654	-74	330	221 m^2	Sam	683	rat	987	0.5984	motor sports
+1	192 kg	0.5063	HAMSTER	Chris	0.8366	0.1173	-168	323	61 m^2	Michael	578	pig, cat, hamster, guinea pig	730	0.3736	soccer
+2	610 kg	-0.1446	chicken	Lise, Fabrice	0.75	1.6286	707	97	525 m^2	Lise	1103	chicken	85	0.4721	basketball
+0	283 kg	0.4349	hamster	Chris	0.2387	0.4147	373	315	1037 m^2	Inan	1075	hamster, pig, cat, bird	323	0.0153	baseball, boxing
+3	932 kg	0.78	bird	Michael	-0.2602	0.2611	665	774	388 m^2	Eriq	116	rabbit	672	0.8465	volleyball
+1	n/a	0.9445	guinea pig	Chris	0.7201	-0.0729	60	384	426 m^2	Sam	43	rat	724	0.4055	soccer
+0	176 kg	N/A	hamster	Andrew	0.269	0.3174	15	269	1134 m^2	Inan	747	bird, cat, hamster, guinea pig	443	0.4043	boxing, badminton
+0	230 kg	0.0455	hamster	ANDREW, REILLY	0.5198	0.5248	428	-45	754 m^2	Inan	981	hamster, cat, bird	643	-0.3982	badminton, boxing
+3	1040 kg	0.8431	bird	Michael	0.2269	0.3292	515	583	257 m^2	Eriq	294	NULL	573	0.7584	golf
+0	126 kg	0.1629	hamster	Andrew	0.4017	0.8656	271	-259	1097 m^2	Inan	1004	Hamster, Bird	674	0.0439	BOXING, BASEBALL
+0	295 kg	0.3278	reptile	Andrew, Vani	0.2313	0.6351	538	179	977 m^2	Eriq	701	pig	320	-0.0247	boxing
+2	646 kg	0.1095	chicken	Sam, Fabrice	0.6369	1.1607	815	178	496 m^2	Fabrice	1025	RAT	-84	0.221	running
+3	1007 kg	0.8176	rabbit	Michael	-0.0625	0.0543	699	1101	281 m^2	Sam	-159	rabbit	577	0.6499	volleyball
+3	789 kg	0.8594	bird	Inan	-0.1148	0.1014	591	702	308 m^2	Eriq	-52	rabbit	676	0.6224	volleyball, tennis
+1	-63 kg	0.8511	PIG	Chris	1.0662	0.028	136	540	469 m^2	Sam	665	rat	741	0.8745	motor sports
+0	172 kg	0.5708	hamster	Vani, Reilly	0.3545	0.3017	431	210	930 m^2	Inan	737	pig, guinea pig	135	-0.0966	badminton, boxing
+2	500 kg	-0.0076	chicken	Sam, Fabrice	0.5683	0.7111	None	93	719 m^2	Chris	772	reptile, dog	14	0.2413	basketball
+2	509 kg	0.0534	fish	Lise	0.5125	1.0472	829	204	656 m^2	Tony	952	reptile	-108	0.1464	basketball
+1	518 kg	0.8905	guinea pig	Chris	0.9408	0.1085	119	726	128 m^2	Sam	483	pig	751	0.5632	soccer
+2	346 kg	-0.2827	fish	Sam	0.3891	0.9237	841	504	762 m^2	Fabrice	1052	fish	-153		running
+0	43 kg	0.6069	cat	Reilly, Andrew	0.2358	0.8334	125	545	1485 m^2	Inan	684	pig, bird, hamster	433	0.0041	boxing, baseball
+2	390 kg	-0.0955	chicken	Lise, Fabrice	0.5972	1.1492	950	627	1005 m^2	Chris	792	dog, reptile	-53	0.1748	basketball
+1	182 kg	0.8692	pig	Chris	0.7505	0.2195	-24	179	-80 m^2	Michael	316	rat	765	0.6353	soccer
+0	352 kg	0.2807	cat	Reilly, Andrew	-0.0738	0.2937	344	256	1172 m^2	Inan	552	pig, hamster	443	0.1492	boxing
+2	269 kg		fish	Lise	0.588	1.243	724	-4	807 m^2	Fabrice	855	dog, reptile, chicken	None	0.313	basketball
+1	20 kg	0.7838	guinea pig	Chris	0.8861	-0.2502	114	233	354 m^2	Sam	375	reptile, fish	876	NULL	soccer
+0	406 kg	0.4051	hamster	Andrew	0.4263	0.4618	248	65	1349 m^2	Inan	662	hamster, guinea pig, pig	477	-0.029	boxing, baseball
+4	590 kg	0.1938	ferret	Tony	0.455	0.472	366	820	864 m^2	andrew	417	ferret	307	1.0029	football
+0	206 kg	0.4846	reptile	Vani, Andrew	0.6207	0.8761	401	184	789 m^2	Inan	740	pig, cat, hamster, guinea pig	534	-0.0514	badminton, boxing
+4	383 kg	0.552	rat	Tony	0.6125	0.9117	167	1077	568 m^2	Vani	26	pig, hamster, cat	465	1.1515	ice hockey, track & field
+2	480 kg	0.0377	chicken	Fabrice	0.7837	0.9819	1166	415	483 m^2	Lise	951	cat, hamster	129	0.2337	basketball
+1	25 kg	N/A	pig	Chris	0.8657	-0.0508	308	?	416 m^2	Inan	614	Rat	1029	0.4344	soccer
+2	557 kg	0.4918	fish	Fabrice	0.5018	0.774	856	280	688 m^2	Fabrice	955	chicken, fish, reptile	18	0.2948	running
+1	279 kg	0.929	guinea pig	Chris	0.4288	0.0599	-93	448	185 m^2	Michael	288	rabbit	847	0.8233	motor sports
+2	485 kg	-0.1419	chicken	Fabrice, Lise	0.7201	0.9225	969	-82	424 m^2	Fabrice	?	fish, dog	284	?	track & field, ice hockey
+1	190 kg	0.6121	pig	Chris	0.6317	-0.1599	153	434	282 m^2	Michael	293	rat	1023	0.4684	motor sports
+2		0.1203	hamster	Sam	0.886	1.0351	856	-159	726 m^2	Fabrice	998	fish	243	0.6049	running
+0	427 kg	0.5737	reptile	Andrew, Vani	0.332	0.5841	230	133	1209 m^2	Inan	565	fish	475	-0.0166	badminton
+0	397 kg	0.7145	hamster	Andrew, Vani	0.5851	0.4229	493	17	958 m^2	Reilly	804	pig, guinea pig	364	-0.2294	badminton
+1	304 kg	0.7246	cat	Chris	0.878	-0.0756	278	96	-140 m^2	Michael	433	rat	1148	0.202	motor sports
+3	646 kg	0.8061	bird	Michael	-0.0695	0.0951	505	693	133 m^2	Eriq	257	rabbit	624	0.809	tennis, golf
+1	143 kg	0.7071	pig	Chris	0.5132	0.0527	-184	274	133 m^2	Michael	616	rat	906	0.1686	motor sports
+4	760 kg	0.2407	ferret	Tony	0.6235	0.422	132	1046	612 m^2	Reilly	-230	ferret	577	1.0112	track & field
+3	1000 kg	N/A	rabbit	Michael	0.0249	0.506	344	702	385 m^2	Inan	438	rabbit	557	0.8702	volleyball
+4	457 kg	0.3325	RAT	Eriq	0.9262	0.7797	581	1095	386 m^2	VANI	296	bird	684	0.7874	football
+3	1268 kg	0.8186	bird	Inan	0.1626	-0.1896	626	911	206 m^2	Tony	234	?	469	0.5423	golf, volleyball
+0	312 kg	0.4601	cat	Andrew, Reilly	0.4728	0.3836	179	327	1266 m^2	Inan	508	pig, guinea pig, bird, cat	N/A	0.0359	baseball, badminton
+3	1146 kg	0.7329	bird	Inan	NULL	0.2483	723	1064	54 m^2	Eriq	174	rabbit	569	1.2076	volleyball, tennis
+4	632 kg	0.3846	dog	Reilly, Andrew	0.5904	0.1	350	1189	361 m^2	Andrew	-55	ferret	526	1.0787	track & field
+0	262 kg	0.0379	hamster	Vani	0.178	0.3087	267	177	1253 m^2	Michael	836	pig, hamster	317	0.0487	basketball
+1	451 kg	0.6685	guinea pig	Chris	0.7775	-0.063	0	402	179 m^2	Sam	548	rat	860	1.0256	motor sports
+2	342 kg	0.1494	fish	Sam	0.6146	1.1946	978	411	462 m^2	Tony	981	reptile	81	0.275	running
+3	1234 kg	0.7967	bird	Inan	-0.2968	0.1106	726	890	-43 m^2	Eriq	17	rabbit	719	0.4945	tennis, golf
+3	877 kg	0.9148	rabbit	Inan	-0.1317	0.3775	611	864	511 m^2	Eriq	-168	rabbit	573	0.7657	tennis, golf
+0	24 kg	0.4917	cat	Fabrice	0.3744	0.4139	583	104	633 m^2	Inan	935	cat	354	0.1421	boxing
+3	631 kg	0.7432	bird	michael	-0.0697	0.2834	871	945	316 m^2	Eriq	-170	RABBIT	785	0.9016	volleyball, tennis
+3	850 kg	0.5571	rabbit	Michael	0.1005	0.2984	661	675	294 m^2	NULL	-302	rabbit	492	0.6633	tennis
+4	1027 kg	0.1868	dog	Eriq	1.1486	0.1681	675	1232	788 m^2	Andrew	-13	ferret	475	0.953	ice hockey
+3	619 kg	1.0791	fish	Michael	0.0191	0.0468	828	1008	449 m^2	Eriq	443	rabbit	600	0.6653	golf
+4	497 kg	0.2213	ferret	Tony	0.899	0.8105	498	913	345 m^2	Reilly	194	ferret	340	0.8232	football, ice hockey
+4	940 kg	0.1266	dog	Tony	0.7784	0.6643	433	972	684 m^2	Reilly	330	ferret	632	1.3659	track & field, ice hockey
+2	768 kg	-0.0272	Fish	Fabrice	0.7092	0.7383	734	426	868 m^2	CHRIS	941	reptile, dog, fish	37	0.2172	basketball
+4	627 kg	0.3066	dog	Tony	0.5652	0.7717	298	707	811 m^2	Andrew	319	cat, pig	559	0.8397	TRACK & FIELD, ICE HOCKEY
+3	827 kg	0.9603	bird	Michael	-0.3202	0.0495	672	854	301 m^2	Eriq	-155	rabbit	468	1.0463	volleyball, tennis
+4	930 kg	0.2102	dog	Tony	1.0999	0.8573	632	972	497 m^2	Vani	540	ferret	787	0.8604	ice hockey, football
+4	214 kg	0.4954	dog	Tony	0.6059	0.79	495	1097	662 m^2	Andrew	-305	ferret	340	1.3405	ice hockey, track & field
+1	190 kg	0.5127	guinea pig	Chris	0.6856	-0.1021	241	524	110 m^2	Michael	345	rat	1027	0.7225	motor sports
+4	1038 kg	0.1023	rat	Tony	0.5792	0.584	717	1131	850 m^2	Andrew	255	ferret	642	0.8201	ice hockey, track & field
+2	526 kg	0.267	fish	Fabrice	0.908	0.9345	759	214	853 m^2	None	991	dog	306	-0.0427	running
+2	458 kg	0.2374	fish	Fabrice	0.7513	1.0719	1005	-113	696 m^2	Chris	881	reptile	-64	0.2095	basketball
+4	820 kg	0.1151	dog	Eriq	0.5591	0.2179	621	930	675 m^2	Reilly	250	ferret	502	1.0034	track & field
+1	45 kg	0.8131	pig	Chris	0.8417	-0.0602	137	412	76 m^2	Sam	162	rat	899	0.2921	soccer
+4	488 kg	0.0405	rat	Eriq	0.9366	0.3582	554	830	541 m^2	Vani	460	ferret	433	0.9042	ice hockey
+4	613 kg	0.1054	rat	Reilly	0.811	0.7098	n/a	913	892 m^2	Vani	-202	ferret	741	0.829	football
+4	731 kg	0.3944	dog	Tony	0.6951	0.4034	492	881	360 m^2	Reilly	251	ferret	404	0.8346	track & field
+4	969 kg	0.2151	pig	Eriq	0.6862	0.4983	259	1370	603 m^2	Andrew	-61	ferret	682	0.6706	ice hockey
+3	638 kg	0.8055	RABBIT	Inan	0.2826	0.4602	591	591	-144 m^2	Eriq	175	rabbit	628	0.9429	volleyball, tennis
+0	4 kg	0.381	hamster	Vani, Andrew	0.2638	0.7805	231	-25	951 m^2	iNAN	1049	ferret	333	0.0339	boxing
+2	724 kg	0.3404	fish	Fabrice	0.8563	1.1656	1012	425	626 m^2	Chris	963	dog, reptile	229	0.2052	Basketball
+4	428 kg	0.2153	ferret	eRIQ	N/A	0.5901	412	695	646 m^2	Chris	626	ferret	586	0.866	football, track & field
+0	305 kg	0.162	hamster	Reilly	0.2372	0.656	443	-258	1109 m^2	Eriq	852	guinea pig, hamster	237	0.0628	BADMINTON
+1	427 kg	0.2518	guinea pig	Chris	0.487	0.2699	46	162	-4 m^2	Sam	178	chicken, reptile, fish	940	0.7506	soccer
+4	696 kg	0.3336	ferret	Tony	0.64	0.5207	309	1025	542 m^2	Reilly	591	ferret	626	0.7571	track & field
+4	651 kg	0.2684	dog	Tony	0.7149	0.6367	348	1013	N/A	Andrew	137	ferret	447	1.0655	track & field, ice hockey
+3	747 kg	0.7983	rabbit	Inan	-0.3452	0.3571	759	1222	732 m^2	Eriq	-75	rabbit	730	0.8855	tennis
+0	248 kg	0.5072	cat	Andrew	0.2456	0.4225	292	-199	1075 m^2	Inan	821	pig, cat, bird	179	-0.077	badminton, boxing
+1	14 kg	0.7593	guinea pig	Chris	0.8948	0.3591	380	415	201 m^2	Michael	431	rat	790	0.7875	soccer
+0	501 kg	0.5098	cat	Vani	0.603	0.3961	366	-32	713 m^2	Inan	1203	bird, guinea pig, hamster	141	-0.1386	badminton
+3	944 kg	0.9708	bird	Inan	0.1141	0.1195	444	854	98 m^2	eRIQ	-62	rabbit	442	1.0079	golf, tennis
+0	397 kg	0.3886	cat	Vani	0.6141	0.4853	309	-135	1161 m^2	Inan	1167	hamster, pig	463	0.0934	badminton
+1	195 kg	0.6895	guinea pig	Chris	0.7632	-0.2423	7	215	341 m^2	Sam	784	rat	880	0.8898	motor sports
+4	549 kg	0.2673	rabbit	Tony	0.7072	0.4234	426	1001	736 m^2	Vani	-152	ferret	287	0.8789	football, ice hockey
+1	476 kg	0.6412	pig	Chris	1.0024	0.0575	9	331	476 m^2	Inan	335	rat	859	0.7044	motor sports
+1	106 kg	0.8787	guinea pig	Chris	0.9299	0.0409	141	327	-91 m^2	Michael	717	rat	808	0.433	motor sports
+0	173 kg	-0.0958	reptile	Andrew, Reilly	NULL	0.6571	289	31	1013 m^2	Inan	785	guinea pig, pig, hamster	198	0.0141	baseball, boxing
+2	576 kg	0.1445	chicken	Lise	0.6513	0.954	902	234	582 m^2	Tony	929	rat	237	0.0998	golf
+0	348 kg	0.4185	hamster	Reilly, Andrew	0.7733	0.5474	243	149	1022 m^2	Inan	453	guinea pig	403	0.2862	badminton, baseball
+3	521 kg	0.7216	bird	Michael	0.0517	0.2147	542	831	429 m^2	Eriq	59	rabbit	565	0.7027	badminton, baseball
+1	109 kg	0.7429	Guinea Pig	Chris	0.6648	0.1534	19	658	241 m^2	Sam	405	rat	731	0.7059	soccer
+1	489 kg	0.5392	guinea pig	Tony	0.6649	-0.0333	205	706	449 m^2	Michael	397	rat	896	0.2352	soccer
+2	548 kg	0.2028	chicken	Fabrice	0.2692	1.2367	1007	269	523 m^2	Chris	1009	chicken	-142	0.5117	running
+4	549 kg	0.3317	rat	Tony	0.449	0.6898	500	874	844 m^2	Reilly	91	ferret	722	1.0302	track & field, football
+4	938 kg	0.1992	dog	Reilly, Andrew	0.6007	0.577	522	830	1254 m^2	Andrew	363	rabbit	NULL	0.8702	boxing
+4	878 kg	0.1212	dog	Eriq	0.6179	0.586	139	1403	429 m^2	Vani	531	ferret	637	0.7803	track & field, ice hockey
+3	802 kg	0.9988	rat	Inan	-0.1911	0.1381	590	945	515 m^2	Eriq	33	rabbit	725	0.5191	running
+2	681 kg	0.3843	chicken	Lise, Sam	0.8292	1.2449	567	190	726 m^2	Fabrice	950	rabbit	52	0.2516	basketball
+3	1171 kg	0.7727	rabbit	Michael	0.0058	0.2328	516	815	534 m^2	Eriq	96	rabbit	601	0.906	golf, tennis
+0	207 kg	?	reptile	Reilly	0.3156	0.3414	-28	-28	694 m^2	Inan	938	guinea pig	368	0.2073	boxing
+4	368 kg	0.3539	ferret	Tony	0.4222	0.556	326	929	830 m^2	Reilly	457	ferret	627	1.0195	ice hockey, football
+4	519 kg	-0.0435	rat	Andrew	0.6629	0.6569	894	1013	749 m^2	Andrew	162	reptile	554	0.8409	ice hockey
+3	859 kg	1.0317	rabbit	Michael	0.3075	0.1642	923	793	19 m^2	Eriq	-66	rabbit	515	0.5775	tennis
+3	788 kg	0.6566	rabbit	Michael	-0.1126	0.2843	650	805	636 m^2	eriq	-8	rat	475	0.3838	tennis
+0	231 kg	0.4299	reptile	Reilly	0.2186	0.4947	453	46	525 m^2	Inan	469	bird	589	0.1738	baseball
+0	387 kg	0.4885	hamster	Vani, Andrew	0.3865	0.6264	658	66	1412 m^2	Inan	711	hamster, guinea pig	374	-0.1158	baseball, boxing
+1	178 kg	0.8472	guinea pig	Chris	0.7757	-0.1652	103	778	401 m^2	Sam	744	rat	881	0.7666	motor sports
+0	-27 kg	0.3085	hamster	Andrew, Reilly	0.3319	0.3396	491	148	838 m^2	Inan	964	guinea pig, hamster, bird	198	-0.003	baseball
+4	461 kg	0.4509	fish	Eriq	0.758	0.2578	489	1049	609 m^2	Reilly	315	ferret	555	0.8831	ice hockey
+0	304 kg	0.6487	hamster	Andrew, Vani	0.4253	0.3939	239	31	549 m^2	Inan	808	reptile, chicken, dog	356	-0.1381	baseball, boxing
+1	155 kg	0.653	guinea pig	Chris	0.9226	0.2382	9	458	215 m^2	Michael	271	RAT	752	0.4375	motor sports
+1	51 kg	0.7835	guinea pig	Chris	0.6126	-0.2114	72	227	531 m^2	Sam	908	hamster, guinea pig, cat, pig	997	0.4761	soccer
+1	240 kg	0.7948	guinea pig	Chris	0.8781	0.3689	333	374	169 m^2	Michael	504	rat	1035	0.6089	motor sports
+2	358 kg	0.0961	chicken	Sam, Lise	0.6054	0.999	838	225	766 m^2	Fabrice	1206	chicken	-1	0.4643	running
+4	854 kg	0.1234	rat	Eriq	0.9614	0.8852	887	1141	763 m^2	Andrew	321	ferret	450	1.0503	ice hockey, football
+3	1061 kg	0.9511	rabbit	Inan	-0.0958	0.4946	936	596	414 m^2	Eriq	-118	rabbit	716	0.6951	TENNIS
+2	552 kg	0.1406	fish	Fabrice, Sam		0.7622	1122	277	1190 m^2	Lise	835	fish	-190	0.2731	basketball
+3	903 kg	1.0292	rabbit	Eriq	-0.2199	0.2976	800	973	271 m^2	Eriq	101	guinea pig, bird, pig	489	0.4772	golf, volleyball
+0	358 kg	0.5284	reptile	Vani	0.2308	0.7364	325	123	1301 m^2	Inan	738	rat	315	-0.1162	boxing
+1	31 kg	0.7053	pig	Chris	0.5388	-0.0097	166	374	339 m^2	Sam	585	rat	901	0.5472	soccer
+1	204 kg	0.6531	pig	Chris	0.9651	0.2054	-36	695	367 m^2	Sam	571	rat	977	0.1962	SOCCER
+4	712 kg	0.172	rat	Eriq	0.7185	0.4758	340	1101	955 m^2	Vani	100	ferret	477	None	ice hockey, track & field
+4	1155 kg	0.3843	rat	Eriq	0.8586	0.5368	174	1001	675 m^2	Vani	-193	ferret	646	0.7694	golf
+3	791 kg	1.0852	bird	Michael	0.188	0.1795	388	1116	-100 m^2	Eriq	341	rabbit	508	0.806	tennis
+4	786 kg	0.1955	reptile	Tony	0.3418	0.5637	297	1311	820 m^2	Andrew	300	ferret	611	1.2728	ice hockey, track & field
+4	834 kg	0.0319	ferret	Tony	0.4396	0.5214	445	1095	898 m^2	Vani	-63	ferret	624	0.9194	football, ice hockey
+4	566 kg	0.2785	dog	Eriq	0.7595	0.7022	504	1089	822 m^2	Vani	316	ferret	278	0.8429	track & field, ice hockey
+4	470 kg	-0.1051	rat	Tony	0.5121	0.6486	664	1119	236 m^2	Andrew	287	ferret	619	NULL	ice hockey
+1	171 kg	0.7162	pig	Chris	0.7943	-0.0767	0	192	423 m^2	Eriq	394	rabbit	1043	0.4027	motor sports
+0	469 kg	0.1485	reptile	Reilly, Vani	0.2378	0.1976	220	169	863 m^2	Inan	709	guinea pig, pig	321	-0.1146	baseball, badminton
+3	960 kg	0.7546	bird	Michael	-0.0713	0.2973	752	872	-39 m^2	Eriq	113	rabbit	535	0.6884	tennis
+1	579 kg	0.8104	guinea pig	Vani	0.868	-0.0442	340	350	7 m^2	Sam	387	rat	844	0.7495	motor sports
+0	557 kg	0.5452	hamster	Vani	0.28	0.6904	463	31	997 m^2	Inan	918	guinea pig, cat, bird, pig	167	-0.0624	baseball
+2	901 kg	-0.3787	chicken	Chris	0.9299	0.9547	1053	337	584 m^2	Lise	1001	dog	55	0.0894	basketball
+1	178 kg	0.807	guinea pig	Chris	0.7084	0.1566	266	502	420 m^2	Sam	595	rat	733	0.5285	soccer
+3	1389 kg	0.7858	reptile	Michael	0.3804	0.149	604	629	168 m^2	Eriq	-222	rabbit	562	0.4633	volleyball, golf
+4	867 kg	0.2031	RAT	Tony	0.7652	0.6302	521	800	460 m^2	Vani	321	ferret	829	0.772	football
+1	400 kg	0.9572	guinea pig	Chris	0.81	-0.37	-108	479	214 m^2	Sam	300	rat	769	0.7101	motor sports
+2	397 kg	0.3705	chicken	Lise, Fabrice	0.7011	0.9591	882	460	604 m^2	Tony	1182	fish, chicken, reptile	61	0.2161	basketball
+3	850 kg	1.0175	bird	MICHAEL	0.3545	0.196	594	679	72 m^2	Eriq	95	reptile, dog	426	0.8822	golf, volleyball
+3	1199 kg	None	bird	Michael	0.3259	0.3186	863	1112	385 m^2	Eriq	48	rabbit	753	0.5188	golf, tennis
+2	301 kg	0.0607	chicken	Lise	0.3203	0.8496	775	401	497 m^2	Fabrice	873	fish, reptile, chicken	107	-0.0302	running
+1	105 kg	0.7533	guinea pig	Eriq	0.9956	-0.1346	-107	173	123 m^2	Inan	267	rabbit	1040	0.5488	soccer
+2	784 kg	-0.0949	fish	Lise, Fabrice	0.4136	1.0678	1089	-114	815 m^2	Fabrice	889	chicken, reptile	-41	0.1905	running
+3	989 kg	0.751	bird	Inan	-0.1564	0.2101	657	796	250 m^2	Eriq	-173	rabbit	501	1.0279	volleyball
+4	565 kg	0.2771	dog	Eriq	N/A	0.8401	388	1201	982 m^2	Reilly	87	ferret	648	0.9395	ice hockey, track & field
+2	537 kg	0.3025	chicken	Fabrice, Lise	0.5231	0.743	968	160	481 m^2	Tony	757	rat	-89	-0.0918	running
+0	311 kg	0.2145	cat	Vani	0.3211	0.5412	61	342	959 m^2	Inan	796	cat, bird	276	-0.0046	boxing
+4	575 kg	0.1408	rat	Tony	0.6495	0.7129	222	954	450 m^2	Vani	611	rabbit	742	0.7713	ice hockey
+2	618 kg	-0.0793	chicken	Lise, Sam	0.7155	1.1682	868	101	1049 m^2	Chris	1062	RABBIT	279	0.3728	basketball
+2	728 kg	0.0462	fish	Lise, Sam	0.8002	1.0548	620	490	867 m^2	Tony	986	dog	-116	0.1746	basketball
+3	860 kg	0.9244	bird	Michael	0.1893	0.166	330	741	377 m^2	Eriq	-286	rabbit	704	0.9946	golf, tennis
+4	610 kg	0.2372	ferret	Tony	0.8072	0.5807	127	815	458 m^2	Reilly	602	ferret	602	1.2393	ice hockey
+4	654 kg	0.3908	ferret	Tony	0.941	0.4833	484	1031	476 m^2	Reilly	-101	ferret	403	0.7075	ice hockey, track & field
+2	629 kg	0.1642	chicken	Lise, Sam	0.6251	1.2022	1123	430	809 m^2	Lise	1229	fish, chicken	122	0.5195	basketball
+2	667 kg	0.1567	cat	Lise, Fabrice	0.7355	0.9836	912	253	651 m^2	Michael	995	dog	-99	0.2143	running
+0	103 kg	0.2717	cat	Andrew	0.0679	0.6781	248	143	1005 m^2	Vani	819	bird	396	-0.1245	badminton
+2	488 kg	0.24	fish	Lise	0.4868	0.935	1049	285	637 m^2	Chris	1034	dog, reptile	-86	0.3857	basketball
+1	-142 kg	0.9591	pig	Chris	0.8444	-0.0282	-323	339	134 m^2	mICHAEL	664	rat	726	0.5746	soccer
+2	427 kg	0.1181	chicken	Fabrice, Sam	0.4314	0.7478	1124	314	n/a	Chris	1039	chicken	87	0.525	running
+0	157 kg	0.4891	Reptile	Reilly	0.2259	0.7461	59	94	891 m^2	Inan	819	hamster, guinea pig, cat, bird	387	0.2267	boxing
+0	-42 kg	0.3314	reptile	Reilly, Andrew	0.8102	0.6488	159	365	1176 m^2	Inan	712	rabbit	140	0.4052	boxing
+2	540 kg	0.1516	fish	Lise, Sam	0.4589	0.9951	891	90	1262 m^2	Fabrice	659	DOG	12	0.1566	running
+1	241 kg	0.5476	bird	Michael	0.7109	-0.0016	38	464	84 m^2	Sam	793	rat	786	0.5875	soccer
+3	953 kg	1.0022	bird	Tony	-0.0831	0.5904	716	825	-68 m^2	Eriq	-140	rabbit	456	0.745	volleyball, tennis
+0	320 kg	0.8476	reptile	Reilly	0.3244	0.4568	187	N/A	899 m^2	Inan	748	rabbit	447	-0.1014	boxing, badminton
+1	291 kg	0.3497	chicken	Chris	0.4618	-0.2501	257	454	261 m^2	Eriq	416	RAT	627	0.4619	soccer
+4	676 kg	0.2768	rat	Eriq	0.7291	0.554	207	1136	665 m^2	Reilly	-2	fish, reptile, dog	500	0.7214	track & field, ice hockey
+3	1172 kg	0.7051	RABBIT	Inan	-0.0454	0.1684	588	738	136 m^2	Eriq	9	rabbit	554	0.5201	tennis
+3	813 kg	0.789	rabbit	Inan	0.3341	0.3007	753	782	190 m^2	Eriq	-191	rabbit	772	0.6369	volleyball, tennis
+1	134 kg	n/a	guinea pig	Chris	0.9234	0.0892	255	472	3 m^2	Sam	244	rat	870	0.448	SOCCER
+3	1025 kg	0.872	bird	Inan	-0.1662	0.2923	519	660	37 m^2	Eriq	-207	rabbit	656	0.7139	tennis, volleyball
+1	-41 kg	0.828	pig	Chris	1.0972	-0.3784	115	545	493 m^2	Michael	294	rat	792	0.5004	motor sports
+2	631 kg	0.14	chicken	Lise	0.6816	0.7986	802	204	876 m^2	Chris	821	Chicken, Reptile	32	0.3397	running
+1	85 kg	0.3771	pig	Chris	1.0552	0.005	161	154	N/A	Sam	425	rat	721	0.7201	motor sports
+4	971 kg	0.0416	dog	Tony	0.9159	0.5334	333	794	678 m^2	Andrew	725	ferret	504	0.6672	track & field
+2	644 kg	0.2194	chicken	Fabrice, Lise	0.5843	0.7916	922	None	728 m^2	Chris	754	chicken	253	0.2647	basketball
+0	584 kg	0.1408	cat	Vani	0.3977	0.6866	-13	325	950 m^2	Inan	636	bird	439	-0.0239	boxing
+4	1008 kg	0.0833	rat	Eriq	0.6773	0.4989	306	803	423 m^2	Andrew	366	ferret	615	0.8668	track & field, football
+3	1106 kg	1.0538	RABBIT	Inan	0.0542	0.4799	693	369	277 m^2	Eriq	157	rabbit	631	0.9243	golf, tennis
+1	174 kg	0.5602	PIG	Chris	0.8694	-0.1762	-106	559	471 m^2	Michael	738	rabbit	936	0.2594	motor sports
+1	24 kg	0.8325	GUINEA PIG	Chris	0.7845	0.2316	25	252	-104 m^2	Michael	478	rat	971	0.5039	soccer
+4	718 kg	0.1305	ferret	Tony	0.9006	0.4	395	991	501 m^2	Andrew	-86	ferret	481	1.0622	track & field, football
+1	498 kg	1.0161	pig	Chris	0.8888	0.2873	107	524	121 m^2	Michael	408	rat	897	0.2737	motor sports
+1	-195 kg	0.7791	pig	Chris	0.8703	0.2356	-43	642	204 m^2	Sam	517	rat	850	0.1412	soccer
+1	156 kg	0.5998	guinea pig	Chris	0.6169	-0.0373	-48	544	349 m^2	Sam	706	rat	687	0.6756	soccer
+1	-76 kg	0.8331	rat	Chris	0.6569	0.0523	-109	622	-223 m^2	Michael	564	rat	830	0.5574	motor sports
+2	418 kg	0.2097	chicken	Sam, Fabrice	0.6109	0.9561	1364	-4	483 m^2	Chris	603	dog, reptile	125	0.2824	running
+2	474 kg	-0.0107	fish	Fabrice, Sam	0.7777	1.3501	609	32	747 m^2	Tony	817	dog, fish, reptile	-45	0.0654	RUNNING
+2	538 kg	-0.1499	fish	Sam	0.6732	0.8586	1123	92	710 m^2	Tony	971	CHICKEN, FISH, REPTILE	78	0.3083	RUNNING
+3	1089 kg	1.111	rabbit	Michael	0.085	-0.051	325	494	494 m^2	Eriq	337	rabbit	600	0.5561	tennis, volleyball
+4	746 kg	0.4417	dog	Lise, Fabrice	0.661	0.464	391	1211	562 m^2	Michael	-51	ferret	605	0.7684	ice hockey, football
+4	564 kg	0.1743	rat	Tony	0.8765	0.7088	474	1083	608 m^2	Andrew	518	ferret	593	0.6081	track & field, football
+3	879 kg	1.0197	chicken	Vani, Reilly	-0.0408	0.1585	545	786	147 m^2	Eriq	-258	rabbit	909	0.6504	golf
+0	469 kg	0.4819	reptile	Vani, Andrew	0.3946	0.4833	302	402	809 m^2	Inan	969	cat, pig, guinea pig	338	-0.1552	baseball, boxing
+0	22 kg	0.4126	CAT	Vani	0.5178	0.6949	466	96	872 m^2	Inan	1030	pig, hamster, guinea pig, cat	265	0.1626	boxing, baseball
+1	226 kg	0.7601	pig	Chris	0.7773	-0.2928	128	355	55 m^2	Sam	366	rat	757	0.2709	motor sports
+3	1081 kg	0.8073	rabbit	Inan	0.2219	0.3818	845	468	278 m^2	Eriq	347	rabbit	607	0.7245	golf, tennis
+2	874 kg	-0.0956	chicken	Lise, Fabrice	0.4889	1.2168	828	320	768 m^2	Chris	783	fish, reptile	7	0.1278	ice hockey
+4	470 kg	0.0718	rat	eRIQ	0.6672	0.7563	394	1103	752 m^2	Tony	42	ferret	523	1.1503	track & field
+2	448 kg	0.1724	fish	Lise	0.5157	0.9385	694	-43	785 m^2	Chris	1055	dog, reptile, chicken	-56	0.38	basketball
+4	841 kg	0.2954	ferret	Tony	0.6229	0.5089	471	1312	546 m^2	Reilly	150	FERRET	473	1.1448	ice hockey, track & field
+2	604 kg	0.2536	fish	Sam, Fabrice	0.4415	1.0522	890	179	739 m^2	Chris	902	rabbit	231	0.354	basketball
+0	484 kg	0.5393	cat	Tony	0.1987	0.6863	490	67	864 m^2	Inan	830	cat	454	0.1577	basketball
+1	225 kg	0.6194	guinea pig	Chris	1.0296	-0.259	267	421	9 m^2	Reilly	343	rat	732	0.41	soccer
+3	845 kg	0.9203	bird	Inan	0.0958	0.1908	640	809	133 m^2	Eriq	19	rabbit	560	1.0004	tennis
+3	729 kg	0.8618	bird	Michael	0.0113	0.2223	575		270 m^2	Eriq	54	rabbit	600	None	tennis, volleyball
+1	-96 kg	0.9012	pig	Chris	0.7881	0.287	372	269	7 m^2	Sam	595	rat	952	0.4627	soccer
+1	31 kg	0.8272	GUINEA PIG	Chris	1.0086	-0.1626	50	316	120 m^2	Michael	497	rat	956	0.5807	soccer
+0	88 kg	0.7434	cat	Vani, Reilly	0.0577	0.0104	249	612	1395 m^2	Inan	1004	pig, bird, guinea pig	416	0.145	badminton
+0	310 kg	0.6579	cat	Andrew	0.0669	0.3649	596	190	1124 m^2	Inan	688	hamster	368	0.1792	boxing, badminton
+2	598 kg	-0.1496	chicken	Lise	0.8413	0.9434	1144	57	635 m^2	Tony	851	dog, fish	258	-0.1362	basketball
+4	628 kg	0.1173	dog	Lise, Fabrice	0.6107	0.8103	369	1247	408 m^2	Reilly	202	ferret	360	0.4612	ice hockey
+3	958 kg	0.8509	rabbit	Michael	0.2118	0.3085	506	806	545 m^2	ERIQ	454	rabbit	458	0.6072	golf, tennis
+2	496 kg	-0.069	fish	Michael	0.4645	0.9881	617	120	?	Tony	450	hamster, cat, bird	297	-0.0248	running
+3	1182 kg	0.8495	rabbit	Michael	0.1742	0.1689	979	632	364 m^2	Eriq	-89	reptile, chicken	586	0.7314	tennis
+3	1131 kg	0.8914	rabbit	INAN	-0.1919	-0.0443	688	975	-160 m^2	Eriq	312	rabbit	507	0.9786	tennis, volleyball
+3	715 kg	1.0264	hamster	Inan	-0.1906	-0.115	566	855	420 m^2	Eriq	22	rabbit	664	0.547	volleyball
+4	248 kg	0.2868	ferret	Lise, Sam	0.9013	0.7085	563	956	687 m^2	Vani	74	N/A	679	0.8772	track & field, ice hockey
+2	464 kg	-0.1136	chicken	Sam	0.9392	1.2117	960	421	763 m^2	Chris	714	fish	88	0.3291	basketball
+1	117 kg	0.8948	pig	Chris	0.8836	-0.3856	232	739	-40 m^2	Sam	320	rat	1042	0.6281	soccer
+2	654 kg	0.4351	CHICKEN	Sam	0.7119	0.727	973	252	752 m^2	Fabrice	917	fish, dog	-172	0.2045	basketball
+0	176 kg	0.5544	reptile	Andrew, Reilly	0.24	0.6958	169	182	1255 m^2	Inan	758	dog	435	0.1811	boxing
+2	909 kg	0.2808	chicken	Chris	0.4749	0.7731	742	-52	728 m^2	Tony	1140	reptile	48	0.3617	running
+4	680 kg	0.1239	?	Tony	0.4432	0.7275	581	738	729 m^2	Vani	366	ferret	666	1.2005	track & field
+3	639 kg	0.7003	rabbit	Michael	0.3408	-0.0129	701	712	435 m^2	Eriq	-251	rabbit	713	0.4466	tennis, golf
+4	794 kg	0.0737	rat	Eriq	0.435	0.5927	587	1109	543 m^2	Reilly	-227	ferret	480	1.1551	football, track & field
+0	372 kg	0.7327	hamster	Andrew, Vani	0.5747	0.2947	533	70	836 m^2	Inan	751	cat, pig	479	-0.091	badminton
+3	1282 kg	0.7936	bird	Michael	0.0346	0.4338	488	558	393 m^2	Eriq	-51	rabbit	523	0.7731	volleyball
+3	1126 kg	0.8916	cat	Michael	-0.0772	0.05	575	947	728 m^2	Eriq	414	rabbit	551	0.6149	volleyball, golf
+2	434 kg	-0.0743	chicken	Lise, Fabrice	0.3678	0.7085	541	270	638 m^2	Chris	n/a	chicken, reptile, dog	101	0.3931	Basketball
+3	1047 kg	0.9493	rabbit	Michael	-0.1691	0.2533	562	667	18 m^2	Eriq	-49	rabbit	606	0.6144	tennis
+1	387 kg	0.7125	pig	Chris	1.2533	-0.1121	-58	796	129 m^2	Sam	375	rat	821	0.6736	soccer
+1	63 kg	0.6359	guinea pig	Chris	0.7047	-0.022	16	462	-204 m^2	Sam	499	rat	871	0.4256	soccer
+0	129 kg	0.5878	cat	Andrew	0.5169	0.5018	141	55	639 m^2	Inan	n/a	bird, cat, guinea pig	91	0.4573	badminton, baseball
+2	544 kg	0.0265	fish	Sam, Fabrice	0.7453	0.7717	752	157	684 m^2	Sam	715	reptile, fish	53	0.0191	basketball
+2	357 kg	0.1778	chicken	Lise, Sam	0.6531	0.8479	825	-66	1071 m^2	Lise	780	fish	-232	0.2379	running
+2	723 kg	0.0621	chicken	Lise	1.0741	NULL	623	216	916 m^2	Michael	838	bird	277	0.0609	basketball
+2	517 kg	-0.0976	chicken	Inan	0.1923	0.6073	1120	11	700 m^2	Lise	N/A	chicken	6	0.3687	running
+1	-94 kg	0.5685	guinea pig	Chris	0.923	-0.3098	299	731	-40 m^2	Sam	569	rat	787	1.0043	soccer
+0	524 kg	0.6373	cat	Vani, Reilly	-0.1702	0.571	372	-159	879 m^2	Inan	738	pig		0.2151	boxing
+4	733 kg	0.3102	ferret	eriq	0.7936	0.5706	621	1021	462 m^2	Reilly	67	ferret	467	0.92	ice hockey, football
+0	359 kg	-0.0085	reptile	Reilly, Andrew	0.5734	0.3242	230	-56	1183 m^2	Inan	664	hamster	359	-0.0132	baseball, badminton
+1	280 kg	0.6371	guinea pig	Chris	0.9529	0.2696	90	121	13 m^2	Michael	394	rat	936	0.5172	motor sports
+3	966 kg	1.0619	bird	?	0.2859	0.226	631	699	152 m^2	Eriq	-103	rabbit	504	0.7026	tennis, golf
+1	-96 kg	0.564	guinea pig	Chris	0.8032	0.0195	288	137	-135 m^2	Michael	280	rat	764	0.3797	motor sports
+3	941 kg	0.7095	bird	Inan	-0.0281	0.317	523	901	142 m^2	Eriq	58	rabbit	606	0.9428	volleyball, tennis
+1	137 kg	0.73	guinea pig	Chris	0.9325	-0.1064	39	190	161 m^2	Michael	400	rat	737	0.835	soccer
+3	1192 kg	0.902	bird	Inan	-0.1275	0.1557	889	713	3 m^2	Sam	35	rabbit	443	0.6757	volleyball, tennis
+0	184 kg	0.5307	cat	Reilly	0.3138	0.6394	364	257	1173 m^2	NULL	797	cat, guinea pig, hamster	415	-0.2107	badminton, baseball
+1	301 kg	0.6347	pig	Chris	1.0373	0.0405	49	712	-65 m^2	Michael	611	dog	898	0.2609	motor sports
+3	609 kg	0.932	rabbit	Michael	-0.0907	0.3174	645	770	187 m^2	Eriq	-211	rabbit	593	0.7955	tennis, volleyball
+0	233 kg	0.4631	reptile	Andrew, Vani	0.6921	0.3189	236	51	794 m^2	Inan	813	hamster, bird, cat, pig	531	0.2344	baseball
+0	271 kg	0.4393	hamster	Sam	0.0768	0.7014	772	321	992 m^2	Inan	751	rabbit	205	-0.1401	badminton, boxing
+4	814 kg	0.5086	hamster	Tony	0.6827	0.5324	517	705	675 m^2	Vani	183	ferret	420	1.0702	track & field
+3	912 kg	0.7794	rabbit	Michael	0.122	0.5022	638	829	461 m^2	Eriq	473	fish, chicken	450	1.0354	golf, tennis
+1	248 kg	1.0116	guinea pig	Chris	0.6985	0.1447	-151	392	559 m^2	Sam	837	rat	914	0.2431	motor sports
+1	196 kg	0.6594	pig	Chris	0.8787	-0.2419	311	228	-25 m^2	Sam	738	rat	802	0.467	soccer
+3	879 kg	0.7307	rabbit	Michael	-0.0925	0.2951	386	878	138 m^2	Tony	-45	rabbit	450	0.8678	tennis
+0	187 kg	0.5185	reptile	Andrew, Vani	0.15	0.5826	215	199	612 m^2	Inan	600	bird, pig, hamster	342	-0.0358	badminton, baseball
+3	782 kg	0.7323	rabbit	Inan	0.3336	0.4037	530	651	537 m^2	Eriq	120	rabbit	598	0.3084	TENNIS
+1	584 kg	0.875	pig	Chris	0.8067	0.0184	95	495	357 m^2	Michael	305	rat	1022	0.6158	motor sports
+2	451 kg	-0.0555	chicken	Fabrice	0.4549	1.0799	749	187	707 m^2	Chris	1125	chicken, fish	-49	0.336	basketball
+3	1046 kg	0.8807	bird	Inan	0.5971	-0.1698	872	1051	51 m^2	Eriq	-262	rabbit	760	0.556	volleyball, tennis
+3	1019 kg	0.8918	rabbit	Inan	-0.2324	0.2215	900	941	69 m^2	Eriq	235	guinea pig, cat, bird	605	0.719	tennis, volleyball
+2	237 kg	-0.2798	fish	Lise	0.6161	1.0645	654	199	961 m^2	Chris	1028	CHICKEN, FISH, REPTILE	-261	0.0823	basketball
+3	463 kg	0.8293	bird	Michael	-0.0764	0.4384	300	686	398 m^2	eRIQ	-208	rabbit	373	0.7521	golf
+1	249 kg	0.6497	guinea pig	Chris	0.597	-0.2702	90	537	101 m^2	Michael	748	rat	582	0.5209	track & field, ice hockey
+1	545 kg	0.7055	pig	Chris	0.9165	0.1014	-444	329	396 m^2	Sam	781	rat	705	0.594	motor sports
+3	717 kg	0.7788	rabbit	Michael	-0.028	0.2427	1028	875	235 m^2	Eriq	549	rabbit	614	0.4474	golf
+2	354 kg		fish	Inan	0.4204	0.7425	893	240	564 m^2	Fabrice	705	reptile, chicken, fish	265	0.2272	basketball
+4	1219 kg	0.4476	ferret	Tony	0.3849	0.8047	302	766	433 m^2	Vani	135	ferret	387	1.1119	football
+3	601 kg	0.9158	bird	Michael	0.1556	0.3112	868	1054	396 m^2	Eriq	460	rabbit	655	0.6436	volleyball
+2	978 kg	0.0147	fish	Fabrice	0.612	1.0609	947	47	418 m^2	Chris	822	fish, reptile, dog	-193	0.3046	running
+0	337 kg	0.0912	cat	Vani, Reilly	0.4448	0.2558	108	336	851 m^2	Inan	1006	rat	513	0.0199	badminton, baseball
+1	-72 kg	0.5967	pig	Chris	0.8568	0.0366		550	42 m^2	Sam	405	rat	719	0.6332	soccer
+0	258 kg	0.3168	cat	Andrew	0.236	1.0544	242	249	1179 m^2	Inan	621	rabbit	207	0.2183	badminton
+1	-59 kg	0.5402	GUINEA PIG	Vani, Andrew	0.783	0.016	-71	615	515 m^2	Sam	547	cat	886	0.3924	motor sports
+2	657 kg	-0.3599	chicken	Sam	0.4963	1.116	1113	244	957 m^2	Fabrice	999	fish, reptile, dog	163	0.3213	running
+0	324 kg	0.5272	Cat	ANDREW, VANI	0.3076	0.497	784	367	931 m^2	Inan	617	guinea pig, pig	-2	-0.0509	badminton
+4	688 kg	0.3294	dog	Lise	0.7501	0.7875	663	840	444 m^2	Andrew	420	ferret	330	0.9206	volleyball
+4	989 kg	-0.0553	ferret	Eriq	0.2521	0.9585	404	884	273 m^2	Andrew	368	ferret	n/a	0.9241	track & field
+3	787 kg	0.5547	rabbit	Inan	-0.1149	0.0413	609	694	388 m^2	Eriq	228	rabbit	534	0.6332	tennis
+0	409 kg	0.4665	cat	Vani	0.5256	0.4395	132	-176	1042 m^2	Inan	991	pig, bird	312	0.2358	badminton, baseball
+3	613 kg	1.1252	rabbit	Michael	-0.4291	0.6467	421	654	384 m^2	eriq	-268	ferret	521	0.8629	golf
+2	630 kg	0.2126	cat	Lise	0.5887	1.0873	747	103	809 m^2	Inan	764	dog, fish, chicken	65	0.2853	running
+3	861 kg	0.8094	bird	Inan	0.3522	0.048	569	688	13 m^2	Eriq	48	rabbit	515	0.9218	volleyball
+4	696 kg	0.2077	dog	Tony	0.7406	0.6964	670	1086	1097 m^2	Reilly	573	ferret	382	0.7171	ice hockey
+4	615 kg	0.5524	rat	Tony	0.7861	0.828	693	950	781 m^2	Reilly	-311	guinea pig	211	1.2504	football
+4	669 kg	0.0487	dog	Tony	0.4837	1.0043	347	871	298 m^2	Reilly	359	ferret	475	0.8757	track & field, ice hockey
+4	758 kg	0.2977	Dog	Eriq	0.5871	0.5302	360	1023	383 m^2	Reilly	114	ferret	464	1.0459	track & field
+0	461 kg	0.5627	cat	Andrew, Vani	0.4745	0.866	607	?	804 m^2	Inan	409	hamster, cat, guinea pig	374	-0.2542	baseball, boxing
+2	551 kg	0.2521	chicken	Sam, Lise	0.5343	1.0674	1014	295	335 m^2	Chris	926	fish, chicken, reptile	-38	0.0376	basketball
+2	402 kg	0.0402	chicken	Chris	0.7906	1.0738	1039	262	538 m^2	Eriq	897	dog, fish, reptile	119	0.2875	basketball
+4	454 kg	0.3422	dog	Tony	0.6482	0.416	523	1132	907 m^2	reilly	173	Ferret	767	0.7695	ice hockey, football
+2	506 kg	0.2276	chicken	Sam, Lise	0.3735	1.1244	928	22	700 m^2	Chris	840	chicken, reptile, dog	212	0.3922	running
+3	896 kg	0.7661	rabbit	eriq	0.317	0.3302	603	871	481 m^2	Eriq	191	rabbit	715	0.7919	golf
+3	849 kg	0.872	rabbit	Inan	0.106	0.3594	475	662	537 m^2	Eriq	82	rabbit	669	1.3168	tennis, golf
+1	577 kg	0.5219	guinea pig	Chris	0.972	0.3382	133	638	253 m^2	Michael	593	rat	802	0.506	soccer
+0	166 kg	0.4881	reptile	Andrew	0.4585	0.4728	634	65	958 m^2	Inan	906	bird, hamster	196	0.2718	badminton, baseball
+3	1435 kg	0.5688	rabbit	INAN	-0.2137	0.3537	658	486	258 m^2	Eriq	534	rabbit	486	0.8008	volleyball, tennis
+2		0.0558	chicken	Lise, Fabrice	0.5852	0.7019	772	-73	1022 m^2	Lise	915	reptile, chicken	-25	-0.0335	basketball
+3	930 kg	1.1456	bird	Michael	0.1941	0.4217	388	928	NULL	Eriq	-36	ferret	615	1.108	golf, tennis
+2	723 kg	-0.0874	fish	Sam, Lise	0.6074	1.0683	901	-38	488 m^2	Fabrice	842	dog, reptile	-105	0.276	basketball
+2	1194 kg	0.126	chicken	Sam	0.7657	1.1106	914	331	784 m^2	Eriq	1004	reptile, dog, fish	-184	0.3248	running
+2	673 kg	0.2293	chicken	Sam, Fabrice	0.6067	0.9509	778	402	900 m^2	Tony	634	fish	168	0.162	running
+2	681 kg	-0.0628	chicken	Fabrice, Lise	0.4708	1.3568	870	257	605 m^2	Chris	883	dog, reptile	8	0.2422	basketball
+2	279 kg	-0.1752	fish	Fabrice	0.572	0.9137	1290	215	517 m^2	Lise	875	reptile, dog	137	0.3006	running
+0	94 kg	n/a	cat	Andrew	0.4668	0.6599	418	-36	710 m^2	Sam	1132	bird	338	0.0071	boxing
+4	895 kg	0.2902	rat	sAM	0.2903	0.8737	359	975	642 m^2	Vani	240	ferret	477	0.7987	ice hockey, track & field
+0	146 kg	0.4079	cat	Andrew, Vani	0.464	0.3708	300	-87	1112 m^2	Eriq	800	hamster	274	0.1767	baseball
+3	751 kg	0.7576	cat	Michael	0.2706	0.5113	428	786	390 m^2	Eriq	15	rabbit	614	0.7381	tennis
+4	689 kg	0.0694	dog	Eriq	0.6796	0.5953	327	1176	860 m^2	Andrew	312	ferret	470	1.1357	football, ice hockey
+0	697 kg	0.3197	cat	Andrew	0.3485	0.5984	492	98	902 m^2	Inan	849	rat	252	0.1358	boxing
+4	671 kg	0.3099	rat	Eriq	1.049	0.4961	585	1017	628 m^2	Andrew	72	guinea pig, pig	557	0.7602	track & field
+4	968 kg	0.1877	dog	Tony	0.6086	0.6052	394	1160	701 m^2	Eriq	534	FERRET	490	1.2686	track & field
+2	284 kg	0.1226	fish	Chris	0.8115	0.8817	801	-42	878 m^2	Inan	1089	fish, dog, chicken	17	0.078	running
+4	718 kg	0.4575	ferret	Eriq	0.6972	0.7762	597	1272	246 m^2	Reilly	194	ferret	522	1.0986	track & field
+3	1200 kg	0.5024	rabbit	Inan	0.091	0.215	463	262	68 m^2	Eriq	236	rabbit	548	0.759	volleyball
+2	763 kg	0.0649	chicken	Sam	0.3419	1.1663	737	345	776 m^2	Lise	1007	fish	-16	0.2703	basketball
+1	-195 kg	0.4191	pig	Eriq	0.8258	0.1039	59	503	134 m^2	Michael	226	rat	745	0.5539	motor sports
+0	400 kg	0.4627	cat	VANI, REILLY	0.3946	0.1376	330	82	None	Inan	832	PIG, CAT, HAMSTER, GUINEA PIG	348	0.0341	boxing
+0	467 kg	0.3117	reptile	Andrew, Reilly	0.6561	0.5664	202	94	967 m^2	Inan	667	pig, bird	40	0.0786	badminton
+0	98 kg	0.382	cat	Vani, Andrew	0.1387	0.4337	390	271	846 m^2	Inan	1034	bird, pig, cat, guinea pig	556	-0.1449	baseball, badminton
+4	1006 kg	0.4136	rat	Tony	0.5115	0.1585	291	1015	769 m^2	Vani	461	ferret	667	0.7429	football, ice hockey
+3	651 kg	0.6457	rabbit	Michael	0.1699	0.3481	384	887	226 m^2	Eriq	188	rabbit	638	0.6106	golf
+0	303 kg	0.2042	hamster	Michael	0.4045	0.4722	485	-72	1292 m^2	Inan	1093	hamster	470	-0.3915	BOXING, BADMINTON
+0	75 kg	0.5213	hamster	Reilly	0.5722	0.4782	246	159	733 m^2	Inan	1398	guinea pig, hamster	314	0.0541	baseball
+3	1071 kg	1.021	rabbit	inan	-0.0311	0.3082	676	836	23 m^2	Eriq	171	rabbit	323	0.8183	volleyball, tennis
+2	546 kg	-0.1679	fish	Lise, Fabrice	0.3171	0.7924	597	336	672 m^2	Fabrice	954	dog, fish	106	0.0019	running
+0	234 kg	0.3309	reptile	Vani, Andrew	0.4074	0.5369	299	71	1143 m^2	Inan	762	hamster, pig, cat	412	0.0732	badminton, baseball
+3	1110 kg	0.7186	rabbit	Michael	0.2681	0.677	470	823	310 m^2	Eriq	425	rabbit	682	0.6702	tennis
+3	706 kg	0.8223	n/a	Inan	-0.068	0.0703	471	962	332 m^2	eriq	168	rabbit	544	0.5309	volleyball, tennis
+1	-255 kg	0.7933	guinea pig	Chris	1.0015	0.1764	81	691	50 m^2	Sam	464	rat	969	0.7186	soccer
+3	468 kg	0.9827	rabbit	Michael	-0.2284	-0.1066	483	898	201 m^2	Eriq	317	cat	754	0.9315	tennis
+3	992 kg	0.7388	rabbit	Michael	-0.3311	0.2001	742	956	37 m^2	Eriq	38	rabbit	630	0.9608	volleyball
+3	825 kg	0.892	rabbit	Inan	-0.0267	0.2649	526	770	195 m^2	Eriq	86	rabbit	510	0.6009	golf, tennis
+0	296 kg	0.5199	BIRD	Vani, Andrew	0.254	0.4632	397	279	1049 m^2	Inan	968	guinea pig	336	-0.0968	badminton, boxing
+3	818 kg	0.7807	rabbit	Michael	0.1044	0.136	745	629	133 m^2	Eriq	128	hamster, bird	599	0.7573	volleyball, tennis
+1	395 kg	0.7854	guinea pig	Chris	0.8083	0.3691	51	400	109 m^2	Michael	212	rat	1181	0.5866	motor sports
+2	763 kg	-0.0593	fish	Fabrice, Lise	0.3503	0.7214	779	465	689 m^2	Chris	385	dog, reptile	-78	0.2344	running
+4	747 kg	0.2894	rat	Eriq	0.6484	0.6497	689	990	659 m^2	Andrew	284	rabbit	596	1.0457	TRACK & FIELD
+4	447 kg	0.0292	rat	eriq	0.6415	0.6259	413	802	413 m^2	Vani	372	ferret	542	1.0835	track & field, ice hockey
+3	861 kg	N/A	rabbit	Michael	0.2955	0.1811	521	412	268 m^2	Eriq	-412	cat	513	0.8904	golf
+1	30 kg	0.965	guinea pig	Eriq	1.0264	0.398	63	140	227 m^2	Sam	613	rabbit	683	0.4377	motor sports
+1	-200 kg	0.7437	pig	Chris	0.8659	-0.2774	-8	558	292 m^2	Michael	647	rat	1063	0.7681	soccer
+2	594 kg	-0.2494	chicken	Lise	0.3299	1.1464	763	39	747 m^2	Tony	758	reptile, dog, chicken	82	0.2024	basketball
+3	1013 kg	1.0063	bird	Inan	0.0478	0.2222	629	823	236 m^2	Eriq	149	rabbit	545	0.6127	golf
+4	819 kg	0.4136	rat	Tony	0.6834	0.7959	574	920	956 m^2	Inan	8	ferret	293	0.848	track & field, ice hockey
+1	505 kg	0.6702	pig	Chris	0.5536	-0.391	-85	621	235 m^2	Sam	589	rat	875	0.4927	motor sports
+0	178 kg	0.1925	cat	Reilly	0.5714	0.5632	438	148	634 m^2	Inan	709	cat, bird, pig	463	-0.1324	motor sports
+0	348 kg	0.2555	cat	Reilly	0.1871	0.4194	466	285	1217 m^2	Inan	1140	reptile, fish, chicken	418	-0.1371	baseball
+3	711 kg	0.5166	bird	Michael	0.2542	0.44	377	n/a	166 m^2	Eriq	-157	rabbit	597	0.3929	VOLLEYBALL
+4	697 kg	0.4335	rat	Eriq	0.7904	0.1873	527	662	564 m^2	Vani	-16	ferret	540	1.0976	track & field, ice hockey
+0	50 kg	0.6205	chicken	andrew	0.2419	None	162	141	967 m^2	Inan	609	cat	413	0.3765	badminton, boxing
+0	407 kg	0.2666	reptile	Vani, Reilly	0.1273	0.3265	499	-112	595 m^2	INAN	664	cat, bird, hamster, pig	555	0.2217	boxing
+2	835 kg	0.0822	chicken	NULL	1.1192	0.913	605	165	659 m^2	Fabrice	701	dog, chicken	27	0.0237	running
+1	64 kg	0.7935	guinea pig	Chris	0.9295	-0.2855	-172	584	74 m^2	Michael	513	rat	677	0.6931	motor sports
+3	1266 kg	0.7602	bird	Michael	0.178	0.2241	710	988	282 m^2	Michael	43	rabbit	730	0.8137	golf
+3	1378 kg	0.8777	rabbit	Michael	0.5175	-0.217	778	914	21 m^2	Eriq	145	hamster, bird, cat	713	0.8974	tennis
+0	374 kg	0.0442	cat	Andrew	0.6396	0.4625	627	130	841 m^2	iNAN	965	reptile, fish, chicken	438	0.1802	baseball
+4	584 kg	0.2576	rat	Tony	1.0241	0.9056	444	604	662 m^2	Vani	85	ferret	432	1.088	football
+4	883 kg	0.4528	rat	Eriq	0.7271	0.5533	389	1128	734 m^2	Tony	134	ferret	549	1.2844	track & field
+3	568 kg	0.8342	ferret	Inan	0.0354	0.2301	830	646	207 m^2	Inan	246	rabbit	634	0.6744	tennis, golf
+4	569 kg	0.7777	RAT	Eriq	0.779	1.0426	892	1041	459 m^2	Vani	187	ferret	472	1.1526	ice hockey
+0	220 kg	0.4612	REPTILE	Andrew, Reilly	0.5991	0.2622	60	-64	1279 m^2	Inan	847	rat	459	0.0147	boxing
+1	-42 kg	0.8503	pig	Chris	0.9233	0.0892	160	379	266 m^2	Sam	39	rat	775	0.5855	motor sports
+0	370 kg	0.1215	reptile	Andrew, Vani	0.227	0.698	216	174	1071 m^2	Inan	506	hamster, pig, bird	282	0.4234	badminton, baseball
+2	395 kg	0.2176	fish	Lise	0.5889	0.9954	680	87	956 m^2	Lise	1055	fish, chicken, dog	364	0.0378	running
+0	-158 kg	0.4422	hamster	ANDREW	0.298	0.5733	215	28	647 m^2	Inan	1029	cat	323	0.0434	boxing, baseball
+3	765 kg	1.1626	bird	Inan	0.0231	0.4297	624	706	391 m^2	Eriq	190	rabbit	662	0.6234	golf
+3	1091 kg	0.7922	bird	Inan	0.08	0.4303	812	866	-95 m^2	Sam	-78	Rabbit	650	0.8796	Tennis
+1	158 kg	0.767	pig	Chris	0.9239	0.1902	247	833	-8 m^2	Sam	301	ferret	886	0.4806	motor sports
+1	164 kg	0.8775	guinea pig	Chris	0.8747	-0.0965	-440	489	233 m^2	Sam	384	rat	834	-0.2372	soccer
+4	863 kg	0.3274	ferret	Eriq	0.5023	0.7242	404	723	722 m^2	Andrew	147	ferret	644	1.1951	ice hockey
+3	1206 kg	0.5313	bird	Inan	0.2257	0.3818	454	922	230 m^2	Eriq	9	rabbit	594	0.7455	golf, volleyball
+2	477 kg	0.257	fish	Fabrice	0.7044	0.852	797	41	441 m^2	Chris	1131	chicken, fish, reptile	-61	0.2224	basketball
+4	689 kg	0.4398	dog	Eriq	0.7762	0.7141	725	1200	637 m^2	Andrew	760	ferret	521	0.9693	track & field, football
+2	506 kg	n/a	fish	Lise, Sam	0.5673	0.8305	721	-28	369 m^2	Tony	1065	chicken, reptile	70	0.052	running
+2	564 kg	0.0663	chicken	Lise	0.4072	1.057	891	70	491 m^2	Chris	595	dog	40	0.3969	basketball
+2	236 kg	0.0102	chicken	FABRICE, LISE	0.3595	0.8978	580	74	780 m^2	Lise	1078	dog	130	0.165	basketball
+0	89 kg	0.339	cat	Vani	0.4742	0.484	530	106	1140 m^2	Inan	847	pig, guinea pig, cat, bird	329	-0.224	baseball
+1	209 kg	0.4323	guinea pig	Chris	0.8109	0.2024		436	370 m^2	Michael	827	rat	763	0.66	soccer
+4	570 kg	0.6557	ferret	Eriq	0.8632	0.5391	519	1058	288 m^2	Reilly	361	ferret	577	0.6905	football, track & field
+4	666 kg	0.6262	reptile	Tony	0.3945	0.403	352	936	256 m^2	Vani	-35	ferret	455	1.1763	football, track & field
+1	337 kg	0.8073	guinea pig	Sam, Fabrice	0.9402	-0.1014	448	260		Michael	769	rat	715	0.8934	motor sports
+3	625 kg	0.6507	bird	Michael	0.2375	0.1501	546	692	261 m^2	Eriq	-138	rabbit	729	0.5594	golf, volleyball
+1	-13 kg	0.8008	guinea pig	Chris	1.0074	0.0473	362	315	545 m^2	Sam	570	rat	625	0.5133	motor sports
+1	149 kg	0.7334	pig	cHRIS	1.1	0.1006	234	368	23 m^2	Sam	265	rat	1065	0.5233	soccer
+0	311 kg	0.4911	bird	Vani	0.2144	0.8459	458	61	1279 m^2	Inan	1037	rabbit	412	0.2998	boxing
+2	801 kg	0.082	chicken	Fabrice	0.4276	1.1047	773	441	451 m^2	Tony	1090	fish	-89	-0.0919	basketball
+4	983 kg	0.4993	dog	Tony	0.4755	0.4814	301	983	768 m^2	Vani	343	ferret	523	0.909	ice hockey, football
+4	655 kg	0.051	ferret	Tony	0.516	0.6649	599	1377	1057 m^2	Vani	382	ferret	646	1.2541	track & field, ice hockey
+4	951 kg	0.2069	rat	Michael	0.4376	0.6513	466	1004	768 m^2	Vani	369	ferret	571	N/A	football
+0	367 kg	0.5626	cat	Vani, Reilly	0.1665	0.5535	548	-10	544 m^2	Inan	830	hamster	413	0.2023	baseball, boxing
+2	128 kg	-0.0538	fish	Sam	0.5979	1.036	727	141	871 m^2	Lise	781	dog	-71	0.4837	basketball
+2	523 kg	0.0854	chicken	Lise	0.7272	0.9277	660	75	1064 m^2	Fabrice	1168	chicken, fish, reptile	203	0.179	running
+2	672 kg	-0.1459	fish	Fabrice	0.568	0.9756	1026	130	828 m^2	Tony	841	dog	61	0.5736	running
+4	502 kg	0.3674	dog	Tony	0.5477	0.7049	288	1177	842 m^2	Reilly	315	ferret	280	0.8056	football, ice hockey
+3	815 kg	0.6846	rabbit	Michael	0.1762	0.4008	611	512	-16 m^2	Eriq	-91	rabbit	768	0.7788	volleyball, golf
+3	1121 kg	0.8548	BIRD	Michael	0.1429	0.3501	689	833	308 m^2	Eriq	-161	rabbit	832	1.0389	golf, volleyball
+0	249 kg	0.4378	reptile	Andrew	0.586	0.5199	129	67	1338 m^2	Inan	451	cat	420	0.2439	badminton
+0	464 kg	0.3571	cat	reilly, vani	0.2063	0.3574	274	24	1077 m^2	Inan	701	guinea pig, hamster	264	-0.158	badminton, boxing
+3	1025 kg	0.761	rabbit	Inan	-0.0464	0.0512	803	873	443 m^2	Eriq	94	rabbit	392	0.7126	volleyball, golf
+1	-14 kg	0.6523	pig	Chris	0.7196	0.1142	-90	292	82 m^2	Michael	864	rat	997	0.7074	RUNNING
+2	621 kg	0.2355	fish	Fabrice, Sam	0.9024	0.843	1420	362	482 m^2	Lise	811	fish, chicken	-163	0.3123	basketball
+4	823 kg	0.2127	bird	Tony	0.8472	0.5632	289	1041	334 m^2	Reilly	-286	FERRET	782	1.0339	football
+0	73 kg	n/a	reptile	Andrew	0.2463	0.2642	152	423	1205 m^2	Inan	1226	CAT, GUINEA PIG, PIG, BIRD	559	0.0602	boxing
+2	606 kg	0.1184	fish	NULL	0.687	1.2491	799	709	480 m^2	Tony	?	RAT	177	0.3662	running
+1	296 kg	0.6508	guinea pig	Chris	1.1033	0.0653	-151	445	84 m^2	Sam	242	RAT	768	0.7651	soccer
+2	843 kg	0.3782	chicken	Reilly	0.7305	0.6629	583	232	861 m^2	Michael	636	chicken, fish	-30	0.0388	basketball
+0	402 kg	0.6153	bird	Vani	0.2644	0.5655	338	69	1111 m^2	Inan	610	hamster, pig, bird, guinea pig	394	0.2385	badminton
+1	-22 kg	0.8988	pig	Chris	0.7409	-0.0968	94	409	544 m^2	Michael	540	rat	931	0.4992	motor sports
+2	838 kg	0.2351	N/A	Vani	0.6231	1.2901	751	397	462 m^2	Fabrice	982	chicken, dog	-75	-0.235	basketball
+0	519 kg	-0.0171	reptile	Andrew	0.5272	0.337	328	-30	829 m^2	Michael	979	chicken, reptile	170	-0.0257	baseball, badminton
+1	77 kg	0.6462	pig	Chris	0.8532	-0.2254	-38	460	171 m^2	Michael	424	rat	925	0.5127	motor sports
+2	548 kg	0.5281	fish	LISE	0.4931	0.8691	634	255	575 m^2	Tony	934	reptile, chicken	40	0.0839	basketball
+2	690 kg	-0.2819	fish	Lise, Fabrice	0.2208	?	1059	205	436 m^2	Fabrice	925	dog, reptile	-18	0.0153	basketball
+1	-383 kg	0.6268	pig	Chris	0.5966	0.0246	147	512	-13 m^2	Michael	118	rat	737	0.5064	running
+0	439 kg	0.3304	hamster	Vani	0.0328	0.5607	86	-36	1244 m^2	Inan	1027	pig, cat, bird	512	0.1326	boxing, baseball
+4	535 kg	0.3946	ferret	Eriq	0.5137	0.8682	805	1300	860 m^2	Inan	103	cat, bird, hamster, guinea pig	603	1.0215	football
+1	246 kg	0.6841	pig	Chris	0.7192	-0.2508	56	337	101 m^2	Inan	531	rat	653	0.666	soccer
+4	719 kg	0.0665	ferret	Eriq	1.0321	0.379	417	1104	512 m^2	Vani	-30	ferret	569	0.9002	football, ice hockey
+0	303 kg	0.2373	cat	Vani	0.2818	0.4439	265	41	1081 m^2	Inan	518	cat	529	-0.0019	badminton, boxing
+4	416 kg	0.6414	ferret	Eriq	0.9425	1.0608	627	1151	612 m^2	Reilly	15	chicken, reptile, dog	591	0.8534	ice hockey
+0	553 kg	0.5102	hamster	Reilly, Vani	0.5093	0.5985	608	11	969 m^2	Inan	661	cat, pig, hamster	419	-0.0864	badminton, baseball
+3	771 kg	0.649	rabbit	Michael	-0.1853	0.4672	876	888	420 m^2	Eriq	-146	rabbit	847	0.8177	volleyball, golf
+0	-21 kg	0.3878	hamster	Andrew	0.3927	0.3761	248	269	826 m^2	Sam	692	ferret	403	-0.1115	baseball, badminton
+0	172 kg	0.5061	hamster	Reilly, Andrew	0.4965	0.4596	422	-26	666 m^2	Inan	750	ferret	263	0.1622	badminton, boxing
+3	638 kg	0.6664	rabbit	Michael	-0.2547	0.3576	330	583	29 m^2	Eriq	163	fish, dog, reptile	563	0.4452	GOLF
+3	1224 kg	0.9032	rabbit	Inan	-0.2931	0.2546	726	809	550 m^2	Eriq	50	rabbit	692	0.902	motor sports
+0	-116 kg	0.4682	hamster	Reilly	0.3578	0.4773	230	191	1023 m^2	Eriq	1038	guinea pig	403	0.0699	boxing
+0	249 kg	0.5639	cat	Reilly	0.4913	0.7899	226	-166	981 m^2	Inan	1237	bird, pig, hamster, cat	190	-0.2347	baseball, badminton
+3	840 kg	0.8574	bird	Inan	0.2812	0.2211	508	922	327 m^2	Eriq	330	rabbit	470	0.8295	volleyball
+4	941 kg	-0.0339	ferret	Eriq	NULL	0.4725	552	1062	564 m^2	Andrew	233	ferret	448	0.9606	motor sports
+3	754 kg	0.723	bird	Vani	-0.0217	0.4047	562	1037	-149 m^2	Eriq	-131	rabbit	439	0.5673	tennis, volleyball
+2	564 kg	0.0382	chicken	Sam, Lise	0.531	0.8876	1020	431	753 m^2	Tony	917	reptile, chicken, dog	77	0.2159	running
+3	1020 kg	1.104	bird	Inan	0.1786	0.2623	776	629	435 m^2	Eriq	102	rat	598	0.8565	golf
+0	320 kg	0.413	hamster	Andrew	0.3681	0.6549	371	272	1063 m^2	Inan	607	cat, guinea pig, bird	295	-0.1248	baseball, badminton
+3	598 kg	0.5714	rabbit	Inan	0.1864	0.114	573	691	129 m^2	Eriq	369	rabbit	510	0.7496	tennis, golf
+3	1276 kg	1.1587	bird	Vani	0.1627	0.376	775	737	-47 m^2	Eriq	-88	FERRET	418	0.5712	volleyball
+2	225 kg	0.2018	guinea pig	Sam, Lise	0.573	1.1201	853	145	929 m^2	Vani	849	rabbit	60	0.1839	basketball
+2	488 kg	0.2204	chicken	Sam	0.7901	1.1567	1149	423	1136 m^2	Chris	941	fish	243	0.1713	running
+3	1291 kg	0.9458	ferret	Inan	-0.169	0.4755	618	829	-72 m^2	Eriq	342	rabbit	530	0.7608	tennis, golf
+2	961 kg	0.0757	fish	Fabrice, Sam	-0.0113	0.6874	1076	3	587 m^2	Tony	987	reptile, dog, fish	44	0.0215	running
+0	498 kg	0.4559	reptile	Andrew	0.2453	0.5489	86	237	1072 m^2	Inan	773	bird, guinea pig, hamster	437	N/A	baseball, badminton
+0	414 kg	0.4652	reptile	Andrew, Vani	0.4605	0.3265	615	-357	921 m^2	Inan	420	pig	459	0.117	badminton
+3	1194 kg	0.79	bird	Michael	-0.1046	0.534	935	758	578 m^2	Michael	227	rabbit	793	0.624	volleyball, golf
+3	764 kg	0.9676	rabbit	Inan	-0.0718	0.2568	556	861	509 m^2	Michael	-133	rabbit	786	0.7079	golf
+0	209 kg	0.7837	reptile	Andrew	0.3886	0.0166	374	0	1268 m^2	Fabrice	426	rat	677	-0.114	boxing, badminton
+0	436 kg	0.4859	cat	Vani, Reilly	0.314	0.4743	70	132	948 m^2	Inan	884	pig, guinea pig	340	0.2615	Baseball
+3	797 kg	0.8705	bird	Inan	-0.2239	0.417	895	517	151 m^2	Eriq	59	rabbit	683	0.5572	tennis, golf
+4	650 kg	0.0138	ferret	Tony	0.8424	0.3957	390	847	497 m^2	VANI	445	ferret	568	1.3609	ICE HOCKEY, FOOTBALL
+4	1111 kg	-0.0385	ferret	Inan	0.7896	0.5376	315	1086	650 m^2	Vani	147	ferret	838	1.129	ice hockey, football
+0	418 kg	0.9122	hamster	Reilly, Andrew	0.3389	0.3103	212	20	1019 m^2	Inan	538	hamster, guinea pig	203	-0.032	boxing
+4	448 kg	0.3557	dog	Eriq	0.81	0.5925	419	990	609 m^2	Reilly	484	ferret	585	0.891	track & field
+4	578 kg	0.168	rat	Eriq	0.539	0.6445	406	849	334 m^2	Andrew	219	cat, bird	635	0.7323	football, track & field
+3	1381 kg	1.177	bird	Michael	0.0716	0.3037	311	1109	360 m^2	Eriq	213	rabbit	362	0.5062	tennis
+3	858 kg	0.737	rabbit	Michael	-0.1665	0.328	439	740	-44 m^2	Eriq	299	rabbit	470	0.6054	golf
+0	424 kg	0.7142	reptile	Andrew, Vani	0.1859	0.479	642	-143	1118 m^2	Inan	806	pig	432	-0.368	boxing
+1	-50 kg	0.4318	pig	Chris	0.8218	0.08	356	892	272 m^2	Michael	299	rat	735	0.6059	motor sports
+3	802 kg	1.1511	bird	Inan	NULL	0.2014	583	1036	380 m^2	Eriq	-127	rabbit	382	0.7046	volleyball, golf
+0	125 kg	0.4289	guinea pig	Andrew	0.6141	0.3327	190	181	1156 m^2	Inan	1010	guinea pig, hamster, pig	218	-0.0465	boxing
+3	1001 kg	1.0858	rat	Michael	0.0782	0.2591	501	1045	449 m^2	Eriq	139	rabbit	680	0.7384	golf
+4	470 kg	0.1615	ferret	Tony	0.6936	0.7543	366	827	659 m^2	Andrew	214	ferret	295	1.2713	track & field, ice hockey
+3	1180 kg	0.9326	bird	Michael	-0.0201	0.484	413	415	-90 m^2	Eriq	-57	rabbit	?	0.8279	volleyball, tennis
+2	357 kg	0.2625	chicken	Sam	0.738	1.3408	982	388	1036 m^2	Chris	1029	fish	53	-0.06	running
+1	-84 kg	0.8663	pig	Chris	1.214	-0.0845	85	429	481 m^2	Sam	334	rat	935	0.6698	soccer
+3	868 kg	1.0858	bird	Michael	0.1377	-0.0014	899	874	459 m^2	Eriq	-19	rabbit	578	0.6178	volleyball, tennis
+3	1056 kg	0.9917	bird	Inan	0.015	0.3827	534	746	328 m^2	Chris	25	rabbit	638	0.6185	golf, tennis
+1	438 kg	0.7818	guinea pig	Chris	0.8399	-0.0451	296	403	-51 m^2	Michael	451	rabbit	906	0.6422	soccer
+2	815 kg	0.2105	Fish	Sam, Fabrice	0.4685	1.212	926	138	814 m^2	Fabrice	1017	chicken, dog, fish	-117	0.2442	running
+4	721 kg	0.3025	dog	Tony	0.7896	0.6866	184	936	371 m^2	Reilly	229	FERRET	505	0.7994	ice hockey, track & field
+4	973 kg	0.3304	dog	Eriq	0.6588	0.4231	-10	N/A	NULL	Andrew	96	ferret	549	0.9079	track & field, football
+2	300 kg	0.2122	fish	Chris	0.5777	1.1772	813	136	674 m^2	Fabrice	1000	dog	-43	0.1392	running
+2	790 kg	-0.0482	chicken	lise, fabrice	0.7062	1.0762	660	665	966 m^2	Chris	929	dog	-166	-0.0641	running
+4	621 kg	0.2934	dog	Tony	0.7954	0.1294	627	901	308 m^2	Andrew	284	ferret	562	0.9794	football
+1	-84 kg	0.7224	guinea pig	Chris	0.5198	-0.1469	214	395	263 m^2	Michael	295	rat	1011	0.4021	football, ice hockey
+2	782 kg	0.1611	fish	Michael	0.2215	1.0323	861	237	459 m^2	Tony	903	reptile, dog	-193	0.3175	basketball
+0	250 kg	0.4163	cat	Andrew	0.4411	0.3892	378	275	1124 m^2	Inan	703	hamster, pig, guinea pig, cat	286	-0.0627	badminton
+2	829 kg	0.1552	guinea pig	Sam, Fabrice	0.5581	1.0313	975	167	856 m^2	Chris	863	guinea pig	-33	0.3348	running
+0	-101 kg	0.257	reptile	Vani, Reilly	0.2915	0.2617	518	167	1084 m^2	Inan	551	bird, hamster, cat, pig	440	-0.1481	badminton, boxing
+3	756 kg	1.0157	rabbit	Michael	0.3586	0.2181	594	487	237 m^2	Eriq	341	rabbit	498	0.8714	golf
+4	1101 kg	0.2593	ferret	Tony	0.719	0.2779	349	1041	575 m^2	Vani	366	ferret	540	0.7267	golf, volleyball
+4	849 kg	0.4312	dog	Eriq	0.7503	1.033	605	896	776 m^2	Vani	234	ferret	454	0.9382	football
+4	845 kg	0.4615	rat	Tony	0.7914	0.4395	488	1077	456 m^2	Vani	96	ferret	614	0.7733	football, ice hockey
+1	-119 kg	0.8808	guinea pig	Chris	0.894	0.0216	335	641	141 m^2	Sam	762	hamster	778	0.4291	soccer
+2	289 kg	0.0925	fish	Sam, Lise	0.6817	1.0171	763	-74	910 m^2	Fabrice	727	fish, reptile, chicken	-14	0.117	basketball
+0	341 kg	0.1556	cat	Andrew, Vani	0.1581	0.4785	181	28	833 m^2	Inan	901	bird	555	-0.0195	badminton, boxing
+1	525 kg	0.7106	guinea pig	Chris	0.8586	0.1138	116	419	296 m^2	Michael	168	rat	814	0.6832	motor sports
+3	995 kg	N/A	ferret	Michael	-0.0671	0.4821	744	774	-79 m^2	Eriq	-44	fish	595	0.7597	volleyball, golf
+1	262 kg	0.8734	guinea pig	Chris	0.6994	-0.0544	63	445	219 m^2	Fabrice	238	rat	961	0.3999	soccer
+4	601 kg	0.1289	ferret	Tony	0.5714	0.752	461	944	889 m^2	Andrew	285	ferret	421	1.051	track & field
+4	544 kg	0.2866	RABBIT	eriq	1.0361	0.4406	581	858	357 m^2	ANDREW	225	?	678	1.0068	track & field, ice hockey
+1	287 kg	0.6397	guinea pig	Chris	1.13	0.157	101	85	477 m^2	Michael	530	rat	1025	0.6821	soccer
+3	747 kg	0.7204	bird	Inan	0.1037	0.0207	719	627	320 m^2	Vani	40	rabbit	522	1.0342	golf, volleyball
+3	866 kg	1.0351	chicken	Inan	0.2503	0.0398	780	786	-14 m^2	Eriq	-156	rabbit	647	0.5054	golf, tennis
+1	95 kg	0.8554	pig	Chris	0.8325	0.0243	87	517	169 m^2	Michael	424	rat	914	0.479	soccer
+2	434 kg	-0.2498	fish	Sam, Fabrice	0.234	0.7101	419	369	954 m^2	NULL	758	dog	-238	0.3148	running
+2	587 kg	0.3628	chicken	Sam	0.4516	1.0896	1064	271	774 m^2	Lise	1094	fish	241	0.4971	running
+2	450 kg	0.2585	ferret	Lise	0.6887	0.9993	717	63	458 m^2	Fabrice	675	reptile, fish	337	0.2192	basketball
+0	-76 kg	0.4533	cat	Andrew, Reilly	0.2396	0.7249	326	313	881 m^2	Inan	659	cat, bird, hamster	301	0.0375	boxing
+2	644 kg	-0.0185	chicken	Lise	0.7162	0.9863	915	173	670 m^2	Fabrice	734	dog, reptile	133	0.3909	running
+4	1026 kg	0.0383	dog	Eriq	1.1026	0.3881	510	913	746 m^2	Andrew	-45	ferret	632	1.3834	track & field
+2	448 kg	0.1063	fish	Fabrice	0.378	1.1443	951	300	694 m^2	Chris	778	pig, hamster	233	0.2615	running
+2	605 kg	-0.1618	fish	fabrice, lise	0.7074	1.111	794	609	798 m^2	Chris	1076	cat, hamster, bird	279	0.1825	running
+3	588 kg	0.8711	bird	Inan	0.2549	0.1712	648	590	26 m^2	Eriq	-88	rabbit	540	0.7663	tennis
+4	800 kg	0.3647	rat	Tony	0.7167	0.4844	453	1044	632 m^2	Vani	118	ferret	404	0.8738	football
+2	32 kg	0.1307	fish	Sam	0.9234	0.6524	828	409	754 m^2	Chris	884	dog	-74	0.2394	running
+1	125 kg	0.8297	pig	Chris	0.4828	0.1194	-5	655	376 m^2	Reilly	941	rat	898	0.4191	soccer
+3	955 kg	0.6527	bird	Inan	-0.0911	0.0545	507	701	393 m^2	Eriq	164	rabbit	524	0.8805	volleyball, golf
+4	751 kg	0.1913	dog	Tony	0.6949	0.4993	514	1003	594 m^2	Vani	-1	ferret	694	0.862	track & field
+3	972 kg	1.1468	rabbit	Michael	0.1015	0.3039	600	683	125 m^2	Eriq	-93	rabbit	655	0.8237	golf
+2	813 kg	-0.0432	fish	Lise	0.2216	1.0306	824	64	665 m^2		903	reptile	-40	0.4123	running
+1	70 kg	0.5963	pig	Tony	0.9829	0.2038	-115	348	-70 m^2	Michael	623	rat	578	0.1497	motor sports
+2	859 kg	0.1762	chicken	Lise, Sam	0.566	0.9873	778	-25	698 m^2	Chris	555	dog, chicken, reptile	-37	0.4162	basketball
+1	264 kg	0.4847	guinea pig	Chris	0.4617	-0.1253	302	712	-152 m^2	Michael	594	rat	1003	0.5087	motor sports
+0	255 kg	0.4562	reptile	Andrew, Vani	0.5592	0.507	?	87	1004 m^2	Inan	311	bird, cat, hamster	390	-0.2637	badminton, baseball
+2	535 kg	0.0109	fish	Fabrice, Sam	0.8185	0.4657	655	399	795 m^2	Chris	711	fish, reptile	-52	0.1489	running
+2	376 kg	0.1708	chicken	Fabrice, Sam	0.6024	0.636	865	79	379 m^2	Chris	1041	rabbit	108	0.386	basketball
+0	467 kg	0.5116	hamster	Vani, Reilly	-0.0347	0.2556	549	-128	1204 m^2	Inan	453	cat	351	0.0908	badminton
+1	-283 kg	0.8375	guinea pig	Chris	0.6607	0.1143	-22	340	67 m^2	Chris	291	rat	949	0.5057	motor sports
+1	165 kg	0.7519	guinea pig	Chris	0.7387	0.0467	233	335	-64 m^2	Sam	353	rat	935	0.6904	motor sports
+1	64 kg	0.7867	pig	Chris	0.9255	0.1979	289	218	190 m^2	Sam	404	rabbit	706	0.4605	soccer
+4	732 kg	0.3079	ferret	Fabrice, Lise	0.6108	0.4967	529	862	617 m^2	Reilly	339	guinea pig, pig, cat	791	0.9526	ice hockey, football
+4	851 kg	0.3655	dog	Eriq	0.6657	0.3777	538	1053	823 m^2	Reilly	0	ferret	499	1.3338	ice hockey
+1	-88 kg	0.5631	pig	Chris	0.7495	-0.1791	119	319		Sam	533	rat	805	0.3528	motor sports
+2	552 kg	-0.0196	Chicken	Fabrice	0.5844	1.0451	871	45	451 m^2	LISE	963	dog, chicken	-132	0.2785	basketball
+4	507 kg	0.1874	ferret	Tony	0.3523	0.7508	609	1148	600 m^2	Eriq	222	ferret	554	0.747	ice hockey, track & field
+3	1119 kg	0.9494	dog	Inan	0.0734	0.0657	442	636	492 m^2	Eriq	215	rabbit	557	0.6779	golf, volleyball
+4	645 kg	0.1569	rat	Reilly, Vani	0.578	0.2938	375	972	445 m^2	Reilly	536	ferret	575	1.0423	ice hockey
+2	368 kg	0.1367	chicken	lise, fabrice	0.8555	0.7428	838	343	706 m^2	Lise	1402	rabbit	-136	0.1054	running
+2	751 kg	0.1621	fish	Sam	0.2601	0.849	815	629	415 m^2	Fabrice	761	fish, reptile	75	0.2937	basketball
+0	431 kg	0.352	hamster	Andrew	0.1517	0.5928	355	-109	1002 m^2	Chris	552	hamster, guinea pig, bird	354	-0.1475	boxing
+0	416 kg	0.2447	cat	Inan	0.4757	0.1945	495	-6	1097 m^2	Inan	926	Hamster, Guinea Pig, Bird	114	0.1328	badminton, baseball
+2	37 kg	-0.1806	CHICKEN	Sam	0.7198	1.0056	835	177	774 m^2	Chris	999	reptile	22	0.1377	running
+0	128 kg	0.4719	cat	Andrew, Vani	0.2396	0.613	308	222	1191 m^2	Inan	1167	bird, guinea pig, cat, pig	213	0.1239	boxing, badminton
+3	566 kg	0.6434	rabbit	Michael	0.0124	0.1096	394	694	540 m^2	Eriq	-21	ferret	745	0.6843	volleyball, tennis
+4	554 kg	0.2399	ferret	Eriq	0.7971	0.6793	286	1049	614 m^2	vANI	58	ferret	518	0.8114	track & field
+0	148 kg	0.3668	hamster	Reilly	0.2267	0.7309	85	17	1338 m^2	Inan	992	pig, bird	561	0.0961	baseball, boxing
+0	152 kg	0.5283	reptile	andrew	0.5238	0.0992	373	207	1080 m^2	Inan	762	hamster, guinea pig, bird	419	0.2706	badminton, baseball
+4	894 kg	0.396	ferret	Eriq	0.7701	0.7493	NULL	1013	641 m^2	Andrew	414	ferret	665	1.1264	football, track & field
+3	1237 kg	0.8774	bird	Lise, Fabrice	-0.3244	0.5399	753	863	-9 m^2	N/A	10	rabbit	494	1.0774	tennis, golf
+4	969 kg	0.3791	rat	Tony	0.5842	?	378	1148	339 m^2	Chris	266	fish, dog	489	1.1426	track & field
+3	779 kg	1.0151	bird	Michael	-0.2152	0.3915	929	778	236 m^2	Eriq	-326	rabbit	645	0.806	tennis
+3	864 kg	0.9381	rabbit	Michael	0.0856	0.1749	312	817	323 m^2	Eriq	509	rabbit	579	1.0365	volleyball
+0	693 kg	0.3664	bird	Andrew	0.3989	0.1676	518	210	1034 m^2	Inan	773	guinea pig, cat, bird, pig	491	0.1077	badminton, boxing
+0	199 kg	0.2155	reptile	MICHAEL	0.3753	0.6844	301	-16	1276 m^2	Inan	1021	HAMSTER, GUINEA PIG, BIRD	460	0.052	BOXING, BADMINTON
+2	767 kg	-0.0576	NULL	Fabrice	0.5298	0.7746	1037	-176	592 m^2	Lise	838	chicken	-134	0.5121	running
+4	690 kg	0.4244	dog	Eriq	0.5929	0.6264	479	911	771 m^2	Reilly	158	ferret	553	1.0227	ice hockey, football
+0	484 kg	0.6565	cat	Reilly	0.46	0.873	316	274	1285 m^2	Inan	1011	cat, pig, guinea pig, hamster	351	-0.2771	boxing
+3	896 kg	0.9871	bird	Inan	0.3216	0.3622	703	628	210 m^2	Eriq	-14	fish, reptile	759	0.8902	golf
+3	1521 kg	0.9272	bird	Inan	0.3756	0.1888	839	906	452 m^2	Eriq	272	rabbit	719	0.5844	golf, tennis
+2	273 kg	0.1381	fish	Fabrice, Sam	0.4257	0.9914	1225	195	406 m^2	Sam	704	reptile, chicken	167	0.393	basketball
+3	679 kg	1.0964	Bird	Eriq	0.1454	0.4375	579	1081	215 m^2	Eriq	378	rabbit	412	0.9723	golf, volleyball
+3	882 kg	0.9227	rabbit	Michael	0.0586	0.0134	545	701	204 m^2	Eriq	132	rabbit	565	0.6739	tennis
+0	131 kg	0.3506	cat	Andrew, Reilly	0.7431	0.5875	563	-18	464 m^2	Eriq	822	bird, guinea pig, cat, hamster	232	-0.0421	motor sports
+0	615 kg	0.3529	pig	Vani, Andrew	0.5131	0.3657	276	200	958 m^2	Inan	617	dog, fish, chicken	204	-0.0258	badminton, baseball
+3	817 kg	0.8594	bird	Michael	0.2584	0.0855	755	580	312 m^2	eRIQ	-289	rabbit	764	0.6628	volleyball, tennis
+0	87 kg	0.5062	ferret	Vani, Andrew	0.2388	-0.002	203	-49	1335 m^2	Inan	1007	guinea pig, hamster, pig, bird	424	-0.0996	baseball, boxing
+2	474 kg	0.0096	chicken	None	0.3781	0.8341	828	90	545 m^2	Fabrice	389	dog	36	0.8185	running
+0	355 kg	0.7798	hamster	Vani, Andrew	0.3612	0.509	362	106	1090 m^2	Chris	894	guinea pig, pig, hamster, cat	319	-0.1934	boxing, baseball
+2	629 kg	-0.1799	fish	Sam, Lise	0.396	1.1592	783	223	893 m^2	Fabrice	1000	fish, chicken	172	0.4351	basketball
+1	52 kg	0.4557	guinea pig	Chris	0.8394	-0.0335	110	453	441 m^2	Sam	246	rat	1133	0.5291	soccer
+4	842 kg	0.2441	dog	Eriq	0.8468	0.3874	792	1179	956 m^2	Reilly	383	ferret	610	1.0462	ice hockey
+3	1345 kg	0.6733	bird	Michael	0.0583	0.0918	616	528	426 m^2	Eriq	-107	rabbit	621	0.7873	golf
+1	127 kg	0.7022	pig	Chris	1.0495	-0.2231	176	263	331 m^2	Sam	650	rat	878	0.6578	motor sports
+4	599 kg	0.5061	dog	Eriq	0.8019	0.5595	379	1042	449 m^2	Reilly	339	reptile, fish	658	0.6585	track & field
+2	362 kg	0.041	chicken	Sam	0.4196	0.729	906	-83	622 m^2	Tony	863	reptile, dog, chicken	189	0.315	football
+3	870 kg	0.8406	rabbit	Michael	0.3846	0.1683	551	772	208 m^2	Eriq		rabbit	566	0.7851	volleyball
+2	571 kg	-0.1921	fish	Lise	0.6609	1.2928	637	129	940 m^2	Lise	758	dog, fish	-127	0.2003	running
+1	182 kg	0.742	guinea pig	Chris	0.9824	-0.1424	264	509	317 m^2	Inan	617	rat	859	0.4663	running
+2	507 kg	0.2207	chicken	Sam	0.3729	0.9754	743	279	1057 m^2	Fabrice	921	rabbit	12	0.0045	basketball
+1	431 kg	0.5068	pig	Chris	0.8064	-0.4749	-191	537	11 m^2	Michael	485	rat	732	0.5786	soccer
+1	258 kg	1.1143	pig	CHRIS	0.5689	-0.1522	159	662	287 m^2	Sam	289	rat	813	0.4472	soccer
+0	None	0.2707	hamster	Chris	0.0707	0.5413	250	-5	1140 m^2	Inan	1140	bird, pig, hamster, cat	511	0.0518	badminton, baseball
+1	324 kg	0.921	pig	CHRIS	0.845	-0.2579	270	121	-6 m^2	Michael	418	rat	837	0.8867	motor sports
+4	845 kg	0.241	ferret	Tony	0.9359	0.8516	714	1393	944 m^2	Reilly	517	ferret	688	1.1039	ice hockey
+4	775 kg	0.3098	dog	Eriq	0.5763	0.7234	184	708	949 m^2	Andrew	105	pig	509	1.0428	ice hockey, football
+1	69 kg	0.3853	pig	N/A	0.8096	-0.0126	265	796	669 m^2	Michael	726	fish, dog, chicken	890	0.436	motor sports
+4	654 kg	0.3759	cat	Tony	0.7549	0.9236	281	711	775 m^2	Andrew	179	?	489	0.6209	track & field
+3	1515 kg	1.0793	bird	MICHAEL	0.3348	0.5085	633	837	425 m^2	Eriq	125	rabbit	742	0.9632	TENNIS, VOLLEYBALL
+3	836 kg	0.8672	bird	Michael	0.0997	0.2228	622	871	376 m^2	Eriq	249	rabbit	390	0.572	volleyball, tennis
+2	453 kg	0.0182	chicken	Lise, Sam	0.5598	0.953	1045	282	1067 m^2	Fabrice	932	chicken, dog, fish	127	None	basketball
+4	1097 kg	0.3982	rat	Tony	0.7328	0.6553	77	959	429 m^2	Reilly	302	guinea pig, hamster, pig	638	1.1016	football, track & field
+3	1130 kg	1.0363	bird	Inan	0.1092	0.1843	859	908	209 m^2	Eriq	198	rabbit	621	1.0318	volleyball, tennis
+4	874 kg	0.4906	rat	Eriq	N/A	0.516	470	940	901 m^2	Vani	205	ferret	718	1.0421	ice hockey, track & field
+2	803 kg	0.0158	fish	Fabrice	0.6486	0.8669	1025	428	764 m^2	Chris	919	chicken, reptile, fish	66	0.3494	basketball
+1	461 kg	0.7598	hamster	Chris	0.7367	-0.2024	41	576	148 m^2	Sam	336	rat	1057	0.6635	motor sports
+4	361 kg	0.7698	dog	Eriq	0.2541	0.4114	535	911	1216 m^2	Andrew	-25	ferret	420	0.8624	ICE HOCKEY
+2	551 kg	0.2818	fish	lise	0.4102	1.1502	771	439	835 m^2	Fabrice	1111	reptile, fish	-102	0.1981	running
+0	667 kg	0.5604	reptile	Reilly, Vani	0.5171	0.4879	343	155	1386 m^2	Inan	1026	guinea pig	483	-0.1131	boxing
+3	982 kg	0.7286	rabbit	Inan	-0.0455	-0.0275	791	1294	492 m^2	Inan	-123	rabbit	397	0.9901	tennis
+3	664 kg	0.9462	bird	Michael	0.0738	0.301	890	1031	159 m^2	Eriq	-143	fish	610	0.8231	volleyball, golf
+2	509 kg	0.0968	chicken	Sam	0.6715	1.0785	1104	540	998 m^2	Lise	623	Chicken, Fish	276		running
+1	366 kg	0.9705	pig	Chris	0.9393	-0.1607		598	206 m^2	Sam	365	rat	641	0.7521	motor sports
+1	264 kg	0.6848	rabbit	Tony	0.8832	-0.1619	300	177	321 m^2	Sam	747	RAT	986	0.562	soccer
+3	1061 kg	0.9256	bird	Michael	0.0809	0.1867	607	848	189 m^2	Eriq	5	rabbit	648	0.7457	golf
+3	971 kg	0.7641	rabbit	Michael	0.0874	0.1589	589	1145	-45 m^2	Eriq	-154	pig, hamster, guinea pig, bird	525	0.9181	golf, volleyball
+0	291 kg	-0.0562	cat	Andrew	0.4692	0.4786	414	190	1029 m^2	Inan	506	bird, cat, hamster	367	-0.0058	baseball, boxing
+0	165 kg	0.3972	cat	Andrew	0.2893	0.6312	112	176	?	Inan	797	guinea pig, pig	305	0.0315	boxing, baseball
+3	1063 kg	0.885	bird	Michael	None	0.3213	569	921	472 m^2	Eriq	208	rabbit	693	0.7436	volleyball
+0	265 kg	0.2923	hamster	Andrew	0.5154	0.2349	252	-15	467 m^2	Inan	865	cat	366	0.0519	baseball, badminton
+1	373 kg	0.8508	guinea pig	Chris	0.4076	-0.0179	189	390	141 m^2	Sam	497	fish, dog, chicken	615	0.8222	soccer
+0	206 kg	0.142	hamster	Andrew, Vani	0.1659	0.5604	376	374	1064 m^2	Inan		guinea pig	152	0.2522	boxing
+3	1019 kg	1.2264	bird	Michael	0.277	0.289	689	694	152 m^2	Eriq	15	rabbit	439	0.7256	golf
+2	863 kg	-0.0526	rabbit	lISE, fABRICE	0.7284	1.0639	1091	-267	875 m^2	Fabrice	987	reptile	145	0.1131	basketball
+4	439 kg	0.1642	ferret	Chris	0.7958	0.6902	417	1176	686 m^2	Andrew	350	ferret	437	0.8737	football
+4	1005 kg	0.4763	rat	Tony	1.0899	0.691	154	938	602 m^2	Andrew	299	ferret	374	0.8859	football, ice hockey
+3	872 kg	0.8055	bird	Inan	-0.0728	0.2783	259	698	71 m^2	Lise	170	rabbit	574	0.7813	volleyball
+0	337 kg	0.6261	pig	Reilly	0.476	0.6218	621	-65	866 m^2	Inan	541	pig, cat	353	0.2153	basketball
+0	260 kg	0.6054	cat	Andrew	0.2905	0.4848	97	234	1482 m^2	Tony	888	hamster, bird	429	0.017	baseball, boxing
+2	499 kg	0.2304	fish	Fabrice, Sam	0.6594	1.3269	847	NULL	563 m^2	Fabrice	513	reptile, fish, chicken	20	0.0651	BASKETBALL
+4	830 kg	0.39	dog	Eriq	0.6434	0.8347	428	1080	547 m^2	Andrew	684	ferret	588	0.8797	track & field, ice hockey
+2	610 kg	0.3737	fish	Lise, Fabrice	0.5057	0.9447	1001	256	725 m^2	Chris	1336	reptile	73	-0.0279	running
+4	760 kg	0.4017	ferret	Eriq	?	0.6801	472	1083	739 m^2	Vani	338	ferret	651	0.7338	track & field
+4	1071 kg	0.3548	FERRET	Eriq	0.7704	0.1268	502	938	1036 m^2	Andrew	216	ferret	393	0.8567	football
+1	213 kg	0.6594	guinea pig	Chris	0.7979	-0.0079	-295	242	345 m^2	Sam	762	rat	943	0.4646	motor sports
+2	743 kg	0.03	chicken	Sam	0.4697	1.0353	1026	252	584 m^2	Fabrice	745	rabbit	37	0.0936	None
+3	888 kg	1.1447	rabbit	Inan	0.1782	0.1875	506	783	326 m^2	Eriq	13	rabbit	589	0.3295	golf
+0	300 kg	0.3888	hamster	Vani, Reilly	0.0374	0.5418	228	114	911 m^2	Inan	879	cat, hamster, pig, bird	213	0.1292	badminton, boxing
+1	163 kg	1.0995	pig	Chris	0.574	-0.1211	308	231	?	Michael	628	rat	997	0.3447	soccer
+0	315 kg	0.1282	reptile	Vani	0.396	0.762	75	241	1049 m^2	Inan	919	hamster, cat, guinea pig	322	-0.127	baseball
+3	819 kg	0.6391	rabbit	Inan	0.1383	0.1186	603	765	482 m^2	?	331	rabbit	641	0.9397	golf, tennis
+3	712 kg	0.6856	bird	Michael	0.1391	-0.1246	523	836	283 m^2	Eriq	-110	rabbit	530	0.9656	golf, volleyball
+4	699 kg	0.0459	dog	Tony	0.6995	1.1001	251	899	493 m^2	Reilly	164	ferret	447	1.099	track & field, football
+2	592 kg	0.2449	fish	Fabrice	0.2595	0.7602	633	509	634 m^2	Fabrice	948	rat	95	0.3487	running
+4	788 kg	0.2673	dog	tONY	0.6298	0.2902	740	917	582 m^2	Reilly	272	ferret	436	0.864	football, track & field
+4	809 kg	0.1899	dog	Eriq	0.8424	0.3692	466	1306	587 m^2	Vani	-150	ferret	628	0.8577	ice hockey, football
+3	630 kg	1.0603	rabbit	Inan	0.2371	0.2938	472	838	162 m^2	Eriq	87	rabbit	421	0.8742	volleyball, tennis
+2	912 kg	0.0461	fish	Sam, Fabrice	0.3845	0.7867	596	259	402 m^2	Tony	904	chicken, reptile	61	0.0217	RUNNING
+3	1211 kg	0.9446	bird	Inan	0.0884	NULL	377	552	701 m^2	Eriq	70	RABBIT	820	0.9932	golf
+0	437 kg	0.3517	rabbit	Andrew	0.2048	0.5043	420	1	483 m^2	Inan	537	pig	412	-0.1233	NULL
+0	224 kg	0.7706	cat	Andrew	0.2248	0.4312	424	-134	1067 m^2	Inan	1207	guinea pig, cat	344	0.1607	boxing, badminton
+1	-218 kg	0.4202	Guinea Pig	Chris	0.878	0.3302	147	302	-123 m^2	Sam	647	rat	774	0.6079	motor sports
+0	119 kg	0.5834	cat	Vani	0.5442	0.7813	242	67	1360 m^2	Inan	1234	guinea pig	474	0.3005	baseball
+2	124 kg	0.2744	chicken	Lise, Fabrice	0.3507	0.9217	504	164	1007 m^2	Michael	768	dog, fish	-211	0.1502	basketball
+1	-170 kg	1.0741	guinea pig	Chris	0.687	-0.0244	1	612	614 m^2	Sam	140	ferret	811	0.8296	soccer
+4	1184 kg	0.2801	ferret	Tony	0.7031	0.8128	426	720	734 m^2	Andrew	-69	ferret	748	0.9255	football, ice hockey
+4	566 kg	0.3569	ferret	Tony	0.6947	0.5761	493	891	649 m^2	Reilly	266	ferret	677	0.911	ice hockey, football
+2	617 kg	0.0241	cat	Fabrice	0.6479	1.0484	607	-166	720 m^2	Fabrice	970	dog, chicken, fish	-12	0.1587	basketball
+4	680 kg	0.663	ferret	Tony	0.7709	0.692	443	833	325 m^2	Andrew	-53	ferret	727	0.7219	ice hockey
+3	1087 kg	0.6904	fish	Inan	0.099	-0.0301	984	642	170 m^2	Eriq	59	rabbit	790	0.7799	soccer
+4	1129 kg	0.304	ferret	Eriq	1.0545	0.6337	700	833	389 m^2	Reilly	22	ferret	423	1.0316	ice hockey
+1	266 kg	0.8589	guinea pig	Chris	0.9245	-0.1386	-87	299	-160 m^2	Michael	669	rat	949	0.5519	soccer
+1	285 kg	0.6637	pig	Chris	0.9393	-0.4999	270	357	186 m^2	Michael	327	rat	861	0.8701	motor sports
+3	969 kg	0.8531	bird	Inan	0.0473	0.5804	545	746	276 m^2	Eriq	15	rabbit	684	0.8312	golf
+0	515 kg	0.7109	cat	Reilly	0.5322	0.5583	366	-171	1104 m^2	Inan	788	ferret	613	0.0451	boxing
+0	165 kg	0.3657	cat	Reilly	0.4332	0.7397	381	92	979 m^2	Inan	854	guinea pig	532	0.0254	badminton
+4	873 kg	0.2285	dog	Tony	0.3958	0.5243	324	944	736 m^2	Andrew	110	ferret	793	1.0126	football, ice hockey
+4	924 kg	0.2802	rat	Tony	0.5799	0.6869	565	1349	75 m^2	Andrew	87	rabbit	556	1.2336	ice hockey
+0	619 kg	0.1267	hamster	Chris	0.8327	0.463	140	105	914 m^2	Inan	1041	rat	493	0.3032	BOXING, BASEBALL
+2	577 kg	0.276	Fish	Reilly	0.5166	1.1828	973	353	418 m^2	eriq	830	dog, fish	149	0.6236	basketball
+0	300 kg	0.7065	hamster	Vani	0.1102	0.8766	609	-148	1261 m^2	Inan	588	hamster, guinea pig	412	-0.1902	boxing
+4	718 kg	0.138	dog	Eriq	0.6821	0.2369	624	777	743 m^2	Eriq	50	ferret	763	0.7462	track & field
+1	322 kg	0.8606	guinea pig	Chris	0.9993	0.2215	-48	450	-151 m^2	Sam	416	rat	830	0.2387	motor sports
+1	282 kg	0.4662	guinea pig	Chris	0.7902	-0.0856	212	571	?	Michael	595	rat	749	0.877	motor sports
+2	544 kg	0.0178	chicken	Fabrice, Lise	0.4085	0.6133	977	6	909 m^2	Tony	888	fish, reptile, chicken	97	0.4607	basketball
+2	305 kg	0.1043	fish	Sam, Fabrice	0.7189	0.7115	684	69	956 m^2	Fabrice	718	chicken	183	0.108	running
+3	1238 kg	0.787	bird	Chris	-0.03	0.1676	800	873	-134 m^2	Eriq	22	rabbit	534	0.583	volleyball, tennis
+4	711 kg	0.1697	dog	Eriq	0.8477	0.5371	334	1068	716 m^2	Vani	105	ferret	831	0.9512	track & field
+0	N/A	0.5238	reptile	Reilly, Andrew	0.299	0.3856	569	109	1275 m^2	Inan	943	bird, guinea pig	n/a	0.072	boxing, baseball
+0	515 kg	0.3014	hamster	Reilly, Andrew	0.5676	0.3187	741	206	1118 m^2	Inan	731	cat, guinea pig, bird, hamster	479	-0.2753	boxing
+4	568 kg	0.144	dog	Tony	0.6336	0.7149	639	998	530 m^2	Vani	-244	ferret	272	0.9071	ice hockey, football
+0	141 kg	0.2529	cat	Reilly, Andrew	0.4369	0.5413	115	210	949 m^2	Inan	912	guinea pig, pig	370	0.3061	boxing
+3	739 kg	0.992	rabbit	Michael	0.0562	0.1713	648	1026	222 m^2	Eriq	551	rabbit	683	0.9766	volleyball, golf
+2	795 kg	-0.2283	fish	Chris	0.7061	0.9966	857	482	854 m^2	Fabrice	837	dog	57	0.1123	basketball
+0		0.3456	rat	Reilly	0.4948	0.5507	372	203	909 m^2	Inan	1011	bird, cat, pig	409	-0.1237	boxing, baseball
+3	1068 kg	0.8161	rabbit	Michael	-0.2199	0.4009	491	884	133 m^2	Eriq	108	rabbit	492	0.6765	tennis
+2	968 kg	0.0685	chicken	Fabrice, Sam	0.7248	1.1735	1049	215	358 m^2	Chris	798	reptile	41	0.1759	basketball
+3	805 kg	0.7588	rabbit	Inan	-0.088	0.3211	633	563	470 m^2	Inan	320	rabbit	514	0.7881	golf, tennis
+3	902 kg	0.8485	rabbit	Inan	0.0671	0.1899	684	1017	351 m^2	Eriq	233	Rabbit	527	0.5959	GOLF
+4	942 kg	-0.0728	ferret	Eriq	0.7205	0.4353	1006	1008	631 m^2	Andrew	218	ferret	767	0.9347	football
+0	-124 kg	0.5333	hamster	Andrew	0.3235	0.5437	130	278	972 m^2	Inan	1092	guinea pig, cat, pig, bird	417	0.05	baseball
+4	486 kg	0.5161	Rat	Eriq	0.879	0.4567	401	949	596 m^2	Vani	49	ferret	779	1.1127	football
+2	637 kg	0.0526	fish	Sam	0.5752	1.1845	844	-26	746 m^2	Chris	889	fish	-13	-0.1455	running
+0	335 kg	0.1364	hamster	Fabrice, Sam	0.2615	0.6983	610	-30	1131 m^2	Inan	1095	rabbit	397	0.126	
+2	546 kg	0.0774	fish	Tony	0.4938	1.1733	1107	370	608 m^2	Fabrice	513	fish, reptile	29	0.3029	running
+2	489 kg	-0.1449	fish	Sam	0.6312	0.964	723	180	696 m^2	Chris	1003	chicken, reptile, fish	-22	0.4273	basketball
+3	877 kg	0.4823	rabbit	Michael	-0.0046	0.3858	671	553	158 m^2	Eriq	15	rabbit	729	0.7553	Tennis
+3	1090 kg	1.2563	rabbit	?	0.0462	0.4121	698	1106	431 m^2	Eriq	-50	rabbit	464	0.6285	volleyball, golf
+2	514 kg	-0.0612	chicken	Lise	0.6012	0.6689	619	197	728 m^2	Tony	1001	reptile	-34	0.3709	basketball
+4	1203 kg	0.13	dog	Eriq	0.4	0.432	473	815	535 m^2	Reilly	211	ferret	406	0.9126	football
+4	758 kg	0.1112	dog	Eriq	0.6845	0.67	331	1165	619 m^2	Reilly	248	ferret	654	0.5375	track & field
+3	822 kg	0.9786	rabbit	Eriq	0.292	0.5172	657	1137	679 m^2	Eriq	1	rabbit	767	0.821	golf
+1	39 kg	0.8332	pig	Chris	0.7992	0.0759	285	624	-145 m^2	Tony	164	rat	883	0.4658	motor sports
+2	663 kg	-0.0053	bird	Sam, Lise	0.592	1.2803	790	266	256 m^2	Lise	921	fish, dog	-85	0.2089	basketball
+1	310 kg	0.723	GUINEA PIG	Chris	0.6951	0.2414	-52	184	150 m^2	Sam	304	rat	714	0.7341	soccer
+0	571 kg	0.4271	cat	Vani	0.1971	0.3904	178	139	989 m^2	Inan	1117	hamster, pig, cat, bird	476	-0.2791	baseball
+3	757 kg	0.8429	bird	Inan	-0.1374	0.1964	806	789	76 m^2	Eriq	-272	rabbit	499	0.8385	volleyball
+0	58 kg	0.4279	reptile	Andrew	0.6582	0.2057	50	31	1002 m^2	Reilly	888	pig, cat	504	-0.0481	badminton, boxing
+3	977 kg	0.888	bird	Inan	-0.4313	0.1465	677	1203	387 m^2	Eriq	-37	rabbit	435	0.8173	golf, tennis
+4	364 kg	0.1591	HAMSTER	Tony	0.4765	0.5551	441	1024	480 m^2	Andrew	778	ferret	632	1.0063	football, ice hockey
+2	92 kg	0.3322	fish	Fabrice	0.2025	0.9258	723	330	956 m^2	Lise	1060	dog, reptile, fish	-153	0.1137	running
+3	1049 kg	0.7498	bird	?	0.2563	0.4704	647	883	333 m^2	Eriq	116	rabbit	816	0.6507	tennis
+3	1125 kg	1.0223	rabbit	MICHAEL	-0.4336	0.562	827	1222	250 m^2	Eriq	-22	rabbit	712	0.6259	volleyball
+1	101 kg	0.7312	hamster	Chris	1.2321	-0.0941	-18	338	-146 m^2	Michael	727	rat	757	0.5105	motor sports
+3	963 kg	0.713	RABBIT	Inan	0.3642	0.3767	699	658	97 m^2	Eriq	128	rabbit	891	0.9259	golf
+4	511 kg	0.3477	ferret	Tony	0.3275	0.6405	435	1194	727 m^2	Andrew	161	rabbit	511	0.9234	ice hockey
+2	685 kg	0.1122	chicken	Lise, Fabrice	0.4401	1.1755	793	118	854 m^2	Inan	1041	chicken	-13	0.16	baseball
+4	576 kg	0.146	ferret	Eriq	0.4659	0.838	547	1045	858 m^2	Andrew	64	ferret	319	0.8162	football, ice hockey
+3	734 kg	0.9052	rabbit	Michael	-0.1909	0.36	583	1167	38 m^2	Eriq	-110	rabbit	623	0.7501	Volleyball, Golf
+2	783 kg	-0.1037	chicken	Eriq	0.767	1.0393	651	167	845 m^2	Chris	889	fish, reptile, dog	271	0.0896	running
+0	430 kg	0.462	cat	Andrew, Reilly	0.1396	0.061	383	51	720 m^2	Inan	550	guinea pig	553	0.175	boxing, baseball
+0	152 kg	0.4313	cat	Reilly	-0.0238	0.255	420	-381	1235 m^2	Inan	860	guinea pig, bird, pig, cat	197	-0.2257	badminton
+4	632 kg	0.0864	rat	Tony	0.7169	0.4443	345	862	610 m^2	Andrew	235	ferret	731	1.0526	ice hockey
+2	256 kg	-0.0861	fish	Lise, Sam	0.64	1.0133	600	267	254 m^2	Inan	1009	chicken, fish, dog	153	0.6133	running
+1	62 kg	0.5032	pig	Chris	0.5659	-0.1139	-36	486	28 m^2	Michael	394	rat	934	0.7322	motor sports
+1	374 kg	0.5603	guinea pig	Chris	0.5803	-0.059	-65	399	176 m^2	Michael	447	rat	886	1.0303	soccer
+1	249 kg	0.8597	PIG	Chris	0.4794	-0.1378	143	395	261 m^2	Michael	403	rat	1030	0.4403	motor sports
+1	-163 kg	0.7768	guinea pig	Chris	1.3145	0.0231	45	794	-142 m^2	Michael	596	rat	1237	0.6259	soccer
+1	201 kg	0.8496	guinea pig	Chris	0.9701	-0.0625	126	625	325 m^2	Sam	411	rat	582	0.5073	soccer
+2	804 kg	NULL	fish	Lise, Fabrice	0.6769	1.1727	1077	29	1051 m^2	Chris	796	chicken	68	0.1158	basketball
+2	1003 kg	0.0632	fish	Sam	0.6353	0.9402	712	259	876 m^2	Lise	1022	dog, chicken, reptile	226	0.2582	running
+4	961 kg	0.0335	dog	Eriq	0.6409	0.6123	569	1280	691 m^2	Andrew	138	ferret	677	0.8535	ice hockey, track & field
+4	981 kg	0.3636	dog	Eriq	1.0013	0.4003	531	870	535 m^2	Vani	310	ferret	565	1.0509	ice hockey
+1	321 kg	0.6634	guinea pig	CHRIS	0.8201	-0.0206	133	316	-66 m^2	Sam	764	rat	879	0.8899	soccer
+2	435 kg	-0.2052	fish	Fabrice	0.5684	1.3661	639	350	762 m^2	Tony	650	ferret	140	0.2897	running
+3	898 kg	0.7366	rabbit	Chris	-0.0021	0.415	475	505	94 m^2	Reilly	195	GUINEA PIG, HAMSTER	455	0.6465	volleyball, tennis
+3	985 kg	0.5671	rabbit	Inan	0.287	-0.0455	450	770	228 m^2	Eriq	0	rabbit	268	0.8128	golf
+1	105 kg	0.5056	fish	Chris	0.6287	-0.1873	311	440	28 m^2	Sam	356	None	788	0.623	soccer
+2	403 kg	-0.0363	fish	Fabrice	0.8048	0.8841	1022	366	502 m^2	Tony	524	rat	75	0.3593	basketball
+2	672 kg	-0.0547	chicken	Chris	0.551	0.9655	517	n/a	965 m^2	Chris	1056	fish	-272	0.1823	running
+2	526 kg	0.1205	chicken	n/a	0.7745	1.0675	744	343	82 m^2	Lise	1196	reptile, chicken	63	0.1816	running
+3	622 kg	1.1048	bird	Inan	-0.024	0.1937	600	783	-160 m^2		261	rabbit	596	0.5686	tennis
+2	480 kg	-0.0779	cat	Fabrice	0.3708	0.9062	669	230	455 m^2	Chris	849	fish, chicken	101	0.1249	basketball
+0	243 kg	0.4845	reptile	Vani	0.2391	0.5337	527	16	1039 m^2	Inan	779	bird, guinea pig, cat, pig	409	-0.0644	badminton, boxing
+4	550 kg	0.184	ferret	Eriq	0.6877	NULL	232	707	636 m^2	Vani	424	ferret	441	0.926	football, track & field
+2	728 kg	0.2492	chicken	Lise	0.5863	1.0448	865	271	648 m^2	Fabrice	1092	fish, reptile	10	0.2176	basketball
+0	93 kg	0.1395	hamster	Vani	0.3896	0.5841	400	122	1240 m^2	Inan	847	guinea pig, cat, hamster, bird	300	0.0275	boxing
+2	796 kg	0.1725	fish	Tony	0.551	1.1034	756	94	478 m^2	Lise	827	dog, reptile, chicken	87	0.1617	basketball
+2	328 kg	0.0289	chicken	Fabrice, Sam	0.4829	0.7636	889	194	474 m^2	Lise	612	dog, fish	63	0.0127	basketball
+1	370 kg	0.7204	pig	Chris	0.5805	0.3029	183	245	-153 m^2	Sam	378	rat	705	0.3494	motor sports
+1	262 kg	0.8521	guinea pig	Chris	0.903	-0.3139	132	74	106 m^2	Sam	379	rat	765	0.4134	motor sports
+2	865 kg	-0.1625	chicken	Sam, Fabrice	0.5781	0.9699	951	222	567 m^2	Chris	1038	dog, reptile	-76	0.4812	running
+4	695 kg	0.4084	dog	Tony	0.6559	0.1915	221	937	510 m^2	Vani	244	ferret	453	0.7871	ice hockey, football
+4	607 kg	0.0758	dog	Eriq	0.6039	0.7928	151	1078	744 m^2	Vani	372	ferret	534	0.8385	track & field
+0	337 kg	0.2428	cat	Andrew	0.1872	0.5945	396	-1	1020 m^2	Inan	959	rabbit	364	0.1783	badminton, baseball
+1	231 kg	0.6297	pig	Chris	0.5275	0.1579	20	347	234 m^2	Sam	796	RAT	792	0.637	motor sports
+0	186 kg	0.2747	hamster	Andrew, Vani	0.3247	0.2199	29	141	1071 m^2	Lise	783	bird, guinea pig	207	-0.1339	boxing, badminton
+1	-304 kg	0.6882	guinea pig	Chris	0.7587	0.0127	5	356	-110 m^2	Sam	368	rat	814	0.4476	motor sports
+2	474 kg	0.207	chicken	Sam	0.2151	0.973	969	140	985 m^2	Tony	1381	dog, fish, chicken	119	0.2402	running
+3	1159 kg	0.8466	rabbit	Inan	0.2653	0.12	351	879	154 m^2	Eriq	143	rabbit	661	0.9222	tennis
+3	733 kg	0.8279	rabbit	Michael	-0.1682	0.5559	358	1212	475 m^2	Eriq	80	cat, pig, hamster	641	0.9099	track & field, football
+2	575 kg	0.1001	fish	Sam, Fabrice	0.6102	1.0266	478	133	908 m^2	Lise	675	hamster	-41	-0.143	running
+0	195 kg	0.3172	cat	Andrew, Vani	0.513	0.533	288	157	1214 m^2	Inan	709	bird, hamster, cat, pig	316	0.0484	badminton
+3	823 kg	0.8562	rabbit	Michael	0.098	0.4889	455	735	-286 m^2	Eriq	143	rabbit	930	0.3864	volleyball, tennis
+3	1304 kg	0.7148	rabbit	Inan	-0.0795	0.3873	579	522	71 m^2	Eriq	110	rabbit	489	0.8574	volleyball
+4	448 kg	0.391	ferret	Eriq	0.8854	0.9894	308	1145	790 m^2	Andrew	394	ferret	569	0.9161	ice hockey
+1	397 kg	0.5965	pig	Sam	0.74	0.5003	255	775	-40 m^2	Sam	619	rat	941	0.2834	soccer
+2	893 kg	-0.042	fish	Fabrice, Lise	0.5384	1.048	1127	189	283 m^2	Chris	657	fish, dog	165	0.2136	basketball
+3	951 kg	0.8236	rabbit	Inan	-0.1087	0.2786	674	671	48 m^2	Eriq	21	rabbit	963	0.5726	golf, tennis
+3	972 kg	0.7164	rabbit	Michael	-0.1751	-0.2846	508	410	218 m^2	Eriq	-401	rabbit	581	0.7714	tennis
+2	785 kg	-0.0587	fish	Fabrice	None	0.9722	1016	227	409 m^2	Fabrice	1086	ferret	-43	0.0934	running
+4	772 kg	0.5442	dog	Eriq	0.3832	0.8791	200	1129	663 m^2	Vani	323	ferret	327	0.9302	ice hockey
+0	509 kg	0.4674	reptile	Vani	0.0943	0.46	488	76	1363 m^2	Inan	348	cat, hamster, pig, bird	178	0.3876	badminton, baseball
+3	1170 kg	1.0622	rabbit	Chris	0.4658	0.2739	832	750	402 m^2	Andrew	47	rabbit	718	0.9436	golf, volleyball
+4	670 kg	0.0661	rat	Tony	0.6847	0.5868	285	878	644 m^2	None	81	ferret	677	0.8546	track & field, ice hockey
+3	1062 kg	0.7911	rabbit	Inan	-0.0538	0.1897	198	905	-34 m^2	Vani	67	rabbit	573	0.8172	TENNIS, GOLF
+3	842 kg	0.8032	bird	Inan	0.3175	0.428	729	650	477 m^2	Eriq	50	rat	622	0.516	golf
+4	345 kg	0.6266	dog	Eriq	0.3335	0.5421	508	882	?	Vani	309	ferret	327	0.8957	ice hockey
+3	1286 kg	0.8036	bird	Inan	0.2259	0.1485	509	962	600 m^2	Eriq	4	rabbit	648	0.6009	VOLLEYBALL
+2	405 kg	-0.1322	chicken	Sam, Lise	0.8721	1.1142	775	-7	517 m^2	Tony	940	fish	44	-0.0654	running
+0	261 kg	0.4603	hamster	Andrew, Vani	0.2294	0.7461	423	-66	968 m^2	Inan	867	rabbit	458	0.0475	badminton, boxing
+3	567 kg	0.8311	bird	Inan	-0.0496	0.3521	599	962	372 m^2	Eriq	-35	rabbit	436	0.8045	volleyball
+3	998 kg	0.9156	rabbit	Michael	0.1086	0.1506	331	898	-90 m^2	Eriq	-80	rabbit	453	0.6024	tennis
+1	-66 kg	0.9343	pig	Chris	0.6688	0.3594	140	406	87 m^2	Eriq	486	rat	808	0.4515	motor sports
+2	867 kg	-0.0187	chicken	Fabrice, Sam	0.3838	1.1813	866	254	743 m^2	Fabrice	823	dog, chicken	-20	0.3473	basketball
+2	323 kg	0.1132	chicken	Eriq	0.6233	0.7843	944	N/A	983 m^2	Lise	1012	ferret	-126	0.1732	basketball
+2	692 kg	0.249	fish	Tony	0.7896	0.9294	820	174	876 m^2	Fabrice	1006	fish, reptile, chicken	315	0.1873	basketball
+3	977 kg	0.6686	bird	Inan	-0.0691	0.3657	688	680	160 m^2		89	rabbit	873	0.9439	GOLF
+2	443 kg	0.0692	CHICKEN	Fabrice, Lise	0.4268	0.9447	834	415	801 m^2	Tony	760	dog	11	0.0148	running
+1	442 kg	0.693	guinea pig	Chris	0.822	-0.1626	1	553	107 m^2	reilly	243	rat	906	0.6385	motor sports
+1	239 kg	0.4549	guinea pig	Chris	0.9354	-0.4414	213	534	64 m^2	Michael	894	rat	1104	0.4042	motor sports
+0	539 kg	0.4614	cat	Andrew, Vani	0.4487	0.5604	377	-57	703 m^2	Inan	960	guinea pig, hamster	479	-0.3568	baseball
+4	1001 kg	0.3412	ferret	Eriq	1.0152	0.4751	234	896	386 m^2	Andrew	201	ferret	319	1.0127	ice hockey
+2	624 kg	0.0438	chicken	?	0.643	1.3526	877	275	976 m^2	Lise	?	fish, dog, chicken	56	0.524	running
+0	472 kg	0.3262	reptile	Michael	0.4669	0.5881	310	125	855 m^2	Inan	832	NULL	199	0.3052	boxing, baseball
+1	306 kg	0.6536	guinea pig	Chris	0.9099	0.0051	308	583	132 m^2	Michael	439	rat	828	0.8522	motor sports
+4	374 kg	0.5344	rat	LISE, FABRICE	0.7396	0.6575	174	1339	281 m^2	Andrew	148	ferret	609	1.1187	track & field
+1	36 kg	0.9026	pig	Chris	0.7566	-0.2874	-82	678	-27 m^2	Sam	612	rabbit	1098	0.5096	soccer
+4	907 kg	0.0078	ferret	Andrew	0.9596	0.6925	212	1265	649 m^2	Reilly	31	ferret	574	0.9686	Ice Hockey, Track & Field
+2	417 kg	0.0523	hamster	Lise	0.1873	0.8677	825	78	443 m^2	Inan	561	fish, dog	51	0.1857	basketball
+4	1091 kg	-0.2181	ferret	Tony	0.8823	0.766	108	949	689 m^2	Andrew	599	ferret	460	1.0361	ice hockey, football
+1	-81 kg	1.1115	pig	chris	N/A	-0.1499	-137	531	-306 m^2	Sam	628	ferret	945	0.6499	soccer
+4	528 kg	-0.1917	ferret	Eriq	0.6206	0.4674	741	990	873 m^2	Reilly	77	ferret	426	0.9358	ice hockey
+1	120 kg	0.6188	pig	Chris	0.977	-0.2269	-60	371	143 m^2	Michael	541	rat	809	0.3389	soccer
+0	234 kg	0.2217	cat	Vani, Reilly	0.2448	0.6177	493	263	996 m^2	Inan	919	bird, pig, cat, guinea pig	359	-0.076	boxing, baseball
+1	304 kg	0.515	bird	Chris	0.5963	0.1651	-8	671	-232 m^2	Michael	295	rat	639	0.7925	soccer
+2	676 kg	-0.1796	guinea pig	Sam	0.5596	0.9045	807	-51	436 m^2	Tony	907	reptile, dog, fish	160	0.0233	basketball
+2	476 kg	0.1509	fish	Lise, Sam	0.4133	1.2654	1002	-79	755 m^2	Lise		fish, reptile	-239	0.3811	Basketball
+0	591 kg	0.041	hamster	Reilly, Vani	0.3581	0.4242	458	110	891 m^2	Inan	872	rat	34	0.3974	badminton
+3	832 kg	0.876	bird	Inan	0.0886	0.3088	561	903	569 m^2	Reilly	300	rat	555	0.7845	tennis
+4	747 kg	0.3809	ferret	Tony	0.5534	0.4619	669	771	423 m^2	Vani	470	ferret	485	1.1028	football
+1	161 kg	0.4859	guinea pig	Chris	0.6999	-0.0779	184	617	439 m^2	Sam	920	rat	925	0.7437	soccer
+0	214 kg	0.4481	cat	Andrew, Vani	0.5657	0.6716	392	18	959 m^2	Inan	1133	hamster, pig, guinea pig	527	-0.017	boxing
+3	823 kg	0.5781	rabbit	Michael	0.3129	0.319	669	778	83 m^2	Eriq	112	rabbit	567	1.0122	volleyball
+4	436 kg	0.4757	rat	Eriq	0.4643	0.5998	437	1115	449 m^2	Reilly	298	ferret	536	1.0404	football
+2	345 kg	0.1183	fish	Fabrice	0.461	1.0987	852	377	709 m^2	Tony	975	dog, fish, chicken	-98	0.3323	basketball
+2	545 kg	0.0893	fish	Lise, Fabrice	0.5046	0.6803	719	73	494 m^2	Fabrice	1039	fish	92	0.1477	basketball
+3	845 kg	0.6208	rabbit	Inan	-0.0923	0.3099	860	1038	131 m^2	Eriq	0	rabbit	532	0.5438	golf, volleyball
+0	205 kg	0.2001	reptile	Reilly, Vani	0.672	0.6492	446	86	806 m^2	Inan	859	guinea pig	533	0.2633	baseball
+1	154 kg	0.5917	guinea pig	Chris	0.8948	None	-211	841	580 m^2	Inan	210	rat	768	0.7243	soccer
+0	423 kg	0.5727	fish	Andrew	0.2115	0.7984	404	239	737 m^2	Inan	807	pig		0.1353	BADMINTON, BOXING
+4	966 kg	0.3614	dog	Inan	0.2373	0.6335	438	856	553 m^2	Reilly	448	ferret	695	0.8115	track & field
+1	245 kg	0.6371	guinea pig	Chris	1.2713	0.1116	412	220	-73 m^2	Sam	668	rat	728	0.5123	soccer
+4	805 kg	0.4332	dog	Eriq	0.9566	0.6021	307	896	901 m^2	Andrew	397	guinea pig, pig, hamster	484	1.0597	football
+1	143 kg	0.5853	pig	Chris	0.6895	-0.2057	40	336	187 m^2	Michael	143	rat	1095	0.5381	motor sports
+0	488 kg	0.6807	hamster	Andrew, Reilly	0.2595	0.3611	276	219	1305 m^2	Inan	837	bird, hamster, cat, pig	633	0.0887	Boxing
+1	-23 kg	0.6933	pig	Chris	0.7262	0.0632	-55	400	222 m^2	Sam	664	rat	948	0.2923	soccer
+2	529 kg	0.3804	fish	Sam, Lise	0.4865	1.1824	925	142	279 m^2	Tony	954	dog, reptile, chicken	-31	0.2827	running
+0	5 kg	0.3821	guinea pig	Reilly, Andrew	0.4253	None	225	65	1248 m^2	Inan	580	hamster, pig, cat, guinea pig	366	0.4292	boxing
+1	237 kg	n/a	guinea pig	Chris	0.6839	-0.0159	229	406	208 m^2	Michael	465	rat	984	0.7763	motor sports
+0	371 kg	0.2782	hamster	Fabrice, Sam	0.442	0.3609	614	112	1157 m^2	Inan	454	hamster	NULL	0.1495	badminton
+3	771 kg	0.8638	bird	Inan	-0.0085	0.14	725	969	254 m^2	Eriq	55	rabbit	573	0.7515	tennis
+0	284 kg	0.3455	reptile	Vani	0.2407	0.508	321	73	1157 m^2	Inan	805	pig	322	0.4755	baseball
+2	536 kg	0.1476	chicken	Sam	0.4818	0.9841	786	61	758 m^2	Tony	1092	reptile, chicken, dog	39	0.4824	basketball
+0	384 kg	0.7563	cat	Andrew, Vani	0.3324	0.4803	13	166	1009 m^2	Inan	809	bird	224	-0.1428	baseball
+4	1010 kg	0.011	rat	Eriq	1.0833	0.5519	644	773	735 m^2	Reilly	104	ferret	647	1.0262	football, ice hockey
+0	546 kg	0.4555	cat	Andrew	0.4785	0.6507	486	52	1061 m^2	Inan	602	bird, hamster, cat	341	0.3149	boxing
+4	803 kg	0.2851	ferret	Eriq	0.9207	0.6715	502	1027	821 m^2	Reilly	206	rat	506	0.8685	ice hockey
+4	823 kg	0.2499	ferret	Tony	0.8993	0.4205	317	1244	687 m^2	ERIQ	59	reptile, dog	948	0.9668	ice hockey
+2	688 kg	-0.0058	FISH	Sam	0.4833	0.9912	669	n/a	665 m^2	Tony	842	fish	52	0.1804	basketball
+1	171 kg	0.7629	pig	Chris	0.9181	-0.3885	66	758	208 m^2	Inan	527	rat	1079	0.5555	soccer
+2	984 kg	0.0589	fish	Sam	0.6201	0.9706	817	67	648 m^2	Lise	897	dog	-53	0.1351	running
+3	927 kg	1.0234	fish	Inan	-0.2912	0.1154	847	1099	328 m^2	Eriq	263	rabbit	502	1.0672	volleyball
+4	691 kg	0.2332	dog	Tony	0.8762	0.6421	521	950	713 m^2	Andrew	338	rabbit	587	0.987	football, track & field
+1	-250 kg	0.7542	pig	Chris	0.8098	0.3	-56	488	546 m^2	Sam	557	rat	939	0.8657	motor sports
+2	95 kg	0.2761	fish	Sam	0.4875	1.2021	1264	97	850 m^2	Michael	1166	bird	-86	0.5016	basketball
+2	358 kg	0.1386	fish	Lise, Sam	0.4709	0.9918	967	302	1008 m^2	Lise	1034	FISH, DOG	112	-0.0839	running
+4	624 kg	0.691	reptile	Eriq	0.4082	0.6663	197	773	485 m^2	Andrew	80	ferret	633	1.2114	ice hockey
+3	1158 kg	1.2597	rabbit	Michael	0.0845	0.1093	389	1033	1 m^2	Eriq	10	rabbit	488	0.6429	volleyball, golf
+4	455 kg	0.4463	ferret	Eriq	0.3762	0.5105	432	1166	802 m^2	Vani	77	rabbit	447	0.534	track & field
+3	768 kg	0.8926	bird	Michael	-0.0102	0.3663	668	827	396 m^2	Eriq	-28	rabbit	447	0.7813	volleyball
+2	637 kg	0.0173	fish	Fabrice	0.488	0.8808	1132	165	934 m^2	Fabrice	1120	fish, dog, chicken	167	0.4576	basketball
+1	55 kg	0.9086	guinea pig	Chris	0.8994	0.0615	63	605	73 m^2	Michael	339	RAT	1018	0.759	motor sports
+1	319 kg	0.9502	pig	Chris	0.7832	-0.0592	260	200	142 m^2	Sam	431	rat	762	0.2676	MOTOR SPORTS
+0	714 kg	0.2544	hamster	Vani	0.1652	0.4708	151	548	798 m^2	Inan	890	guinea pig, hamster, bird	428	0.4107	boxing, baseball
+0		0.4137	cat	Vani	0.5816	0.5524	708	-53	849 m^2	Inan	808	guinea pig, hamster, cat	740	0.2733	boxing
+0	428 kg	0.5291	hamster	Vani, Reilly	0.4286	0.5314	633	-50	1315 m^2	Lise	630	bird, pig, cat	291	0.0615	boxing
+2	421 kg	0.3026	fish	Sam	0.6491	1.1117	745	225	624 m^2	Lise	839	reptile	46	-0.0997	basketball
+1	-11 kg	0.5122	pig	Chris	1.1224	0.2246	177	339	274 m^2	Sam	798	rat	985	0.672	soccer
+2	402 kg	0.0783	chicken	Sam, Lise	0.6915	1.0218	1132	312	752 m^2	Chris	1080	dog, fish	49	0.4149	BASKETBALL
+2	168 kg	0.4049	bird	Sam, Fabrice	0.7533	0.9875	981	-313	908 m^2	Tony	1075	reptile, dog, chicken	-30	0.3283	basketball
+3	1034 kg	0.8694	bird	Michael	0.0443	0.2517	625	1033	882 m^2	Eriq	-78	rat	510	0.8215	golf, tennis
+0	164 kg	0.2422	reptile	Andrew	0.0644	0.5817	-111	263	874 m^2	Inan	809	guinea pig, hamster, pig	523	0.0076	boxing, badminton
+1	234 kg	0.67	guinea pig	Chris	0.8109	0.202	145	69	-122 m^2	Sam	551	rat	873	0.2612	SOCCER
+4	730 kg	0.292	dog	Tony	0.6324	0.5697	541	944	776 m^2	Vani	178	ferret	513	0.8882	football, ice hockey
+0	93 kg	0.3192	ferret	Reilly, Vani	0.5194	0.2676	695	388	973 m^2	iNAN	961	guinea pig, cat	399	0.2419	boxing
+0	619 kg	0.6491	hamster	Andrew, Reilly	0.1434	0.6511	230	318	952 m^2	Fabrice	732	pig, hamster, guinea pig, bird	306	-0.0269	badminton, boxing
+3	1122 kg	0.8383	rabbit	Inan		0.1549	630	816	448 m^2	Eriq	515	rabbit	563	0.9234	golf, volleyball
+4	393 kg	0.1738	ferret	Eriq	0.5181	0.3341	478	1036	668 m^2	Vani	606	ferret	420	0.772	track & field
+2	n/a	-0.0221	Guinea Pig	Sam	0.5076	0.9985	948	64	447 m^2	Chris	1198	chicken	6	-0.0892	basketball
+2	766 kg	-0.0021	fish	Lise, Fabrice	0.2907	1.3196	1176	328	772 m^2	lise	753	fish, chicken, reptile	89	0.2748	basketball
+0	91 kg	0.5067	cat	Andrew	0.4216	0.2944	440	30	1025 m^2	Tony	978	bird	471	0.0697	boxing, badminton
+0	-108 kg	0.4036	N/A	Fabrice, Sam	0.2793	0.3062	161	346	1280 m^2	Inan	863	N/A	415	-0.0381	boxing, baseball
+1	227 kg	0.8815	rabbit	Chris	0.9489	-0.0103	93	567	324 m^2	Michael	706	rat	810	0.6788	SOCCER
+3	NULL	0.978	bird	Inan	0.1454	0.2677	544	575	396 m^2	Eriq	-395	rabbit	652	1.0141	golf
+2	n/a	0.0191	chicken	Lise, Fabrice	0.1798	1.0673	959	-72	614 m^2	Chris	668	ferret	-74	0.487	running
+0	272 kg	0.2127	cat	Reilly	0.2814	0.4844	182	210	1214 m^2	Inan	541	ferret	557	0.075	badminton
+0	435 kg	0.1253	hamster	Vani, Andrew	0.6992	0.5426	273	346	837 m^2	inan	705	bird, hamster	539	0.011	baseball, badminton
+0	97 kg	0.2333	cat	Andrew	0.488	0.3787	418	145	1119 m^2	Inan	928	rat	421	0.0641	boxing, baseball
+0	353 kg	0.4246	reptile	Reilly	0.2794	0.6293	245	-86	n/a	Inan	621	ferret	311	-0.0621	baseball
+2	556 kg	0.1335	chicken	Lise	0.5601	1.0611	709	-292	900 m^2	Eriq	755	fish	189	0.1778	running
+1	183 kg	0.645	guinea pig	Sam, Lise	0.8188	0.2745	-260	379	215 m^2	Michael	188	rat	864	0.7314	motor sports
+2	579 kg	0.3232	fish	Fabrice, Lise	0.2043	1.1131	901	149	?	Chris	1037	reptile, dog	121	-0.0153	running
+3	832 kg	0.9469	bird	Michael	0.0291	0.2143	588	314	-15 m^2	Eriq	256	rabbit	582	0.5705	tennis, golf
+2	835 kg	0.1211	cat	Fabrice, Lise	0.709	1.0968	817	473	1348 m^2	Chris	1124	chicken, fish, dog	-84	0.1969	basketball
+3	895 kg	0.9321	bird	Inan	-0.1699	0.4326	781	832	-8 m^2	Eriq	-232	rabbit	586	0.8182	volleyball, tennis
+0	354 kg	0.5452	hamster	Andrew, Vani	0.4958	0.2971	576	203	1028 m^2	Inan	443	pig, guinea pig	185	0.0413	baseball, badminton
+0	494 kg	0.2327	cat	rEILLY, vANI	0.429	0.4287	141	-64	1227 m^2	Inan	999	NULL	322	0.2501	boxing, badminton
+2	574 kg	-0.0376	rat	fABRICE	0.6724	1.2092	592	-81	771 m^2	Tony	1074	dog, fish, chicken	94	0.1984	running
+4	597 kg	0.4062	rat	Tony	0.2702	0.6201	215	949	764 m^2	Reilly	-13	ferret	595	0.9276	ICE HOCKEY, TRACK & FIELD
+2	548 kg	-0.2312	chicken	Lise, Fabrice	0.6104	0.9774	1087	303	634 m^2	Eriq	967	chicken	68	-0.1637	basketball
+1	179 kg	0.5103	guinea pig	Chris	0.8551	-0.0068	-115	766	28 m^2	Inan	563	rat	968	0.5819	soccer
+3	946 kg	0.6481	bird	Inan	-0.1598	0.1184	795	598	93 m^2	Eriq	453	RABBIT	709	0.814	volleyball, golf
+0	-173 kg	0.3012	cat	n/a	0.078	0.4043	228	415	835 m^2	Inan	952	cat, guinea pig, hamster, bird	570	-0.2304	Baseball
+1	None	0.325	guinea pig	Chris	0.5151	0.0198	225	366	278 m^2	Sam	365	rat	1046	0.2108	soccer
+4	1031 kg	0.1519	dog	Eriq	0.4259	0.4025	96	896	700 m^2	Vani	229	ferret	501	1.0195	track & field
+2	1015 kg	0.0877	chicken	Sam	0.4634	0.8892	1022	106	751 m^2	Lise	1026	reptile	-211	-0.0064	running
+1	333 kg	0.847	guinea pig	Chris	0.7627	-0.1954	-92	442	194 m^2	Sam	291	rat	813	0.1851	soccer
+0	179 kg	0.0976	reptile	Vani	0.1331	0.4854	565	82	835 m^2	Inan	830	pig, guinea pig, cat, bird	615	0.1851	boxing, baseball
+1	-170 kg	0.674	guinea pig	Chris	0.9648	0.0477	8	364	137 m^2	Michael	491	rat	886	0.3185	motor sports
+0	-165 kg	0.202	cat	Vani, Andrew	0.4832	0.4727	462	114	975 m^2	Inan	1099	bird, hamster, guinea pig, pig	422	-0.0716	boxing
+1	-207 kg	0.541	guinea pig	Chris	0.7049	0.0892	-42	452	316 m^2	Sam	349	rat	980	0.6899	motor sports
+3	915 kg	0.5521	rat	Michael	0.0864	-0.1959	695	896	278 m^2	Eriq	-142	rabbit	599	0.8632	golf
+1	115 kg	0.4407	pig	Chris	0.9482	0.4722	71	224	-31 m^2	Michael	621	rat	895	0.4901	soccer
+2	722 kg	-0.1653	CHICKEN	Lise, Fabrice	0.6233	1.2756	964	15	922 m^2	Fabrice	1061	fish	-11	0.1498	running
+4	713 kg	0.1337	dog	Eriq	0.6575	0.9826	229	855	714 m^2	Reilly	293	ferret	521	1.0716	ice hockey
+0	347 kg	0.2932	reptile	N/A	0.2563	0.6742	274	-112	993 m^2	Inan	824	bird, hamster, cat, pig	496	-0.1198	baseball, badminton
+1	360 kg	0.3742	pig	Chris	0.982	0.0684	113	520	-318 m^2	Sam	811	rat	780	0.7284	soccer
+0	488 kg		hamster	Reilly, Andrew	0.3711	0.7633	185	28	1148 m^2	Inan	1064	bird, pig, guinea pig, hamster	576	0.0224	baseball
+0	95 kg	0.2406	pig	Vani, Andrew	0.6757	0.355	136	-313	1160 m^2	iNAN	690	reptile, fish	294	0.0069	baseball
+3	591 kg	0.9519	rabbit	Inan	0.1191	0.0704	602	638	329 m^2	Eriq	292	rabbit	660	1.0843	golf
+4	627 kg	0.4518	rat	Tony	0.4645	0.8673	630	1058	613 m^2	Andrew	246	ferret	456	0.7412	football
+2	438 kg	0.1962	fish	Sam	0.5069	1.0131	1107	269	603 m^2	Lise	996	CHICKEN, FISH, REPTILE	197	0.2167	basketball
+1	-35 kg	0.6798	guinea pig	Chris	1.0489	-0.0055	173	-44	208 m^2	Sam	308	RAT	625	0.4907	track & field, football
+3	776 kg	0.729	rabbit	Inan	0.058	0.3513	1046	560	238 m^2	Eriq	203	rabbit	782	0.4554	volleyball
+3	864 kg	0.7983	rabbit	Michael	0.18	0.154	554	721	208 m^2	Chris	33	rabbit	447	0.9134	volleyball, tennis
+3	737 kg	0.7103	bird	Inan	-0.0558	-0.2351	674	936	353 m^2	Eriq	185	rat	387	0.681	golf
+4	864 kg	0.1205	rat	Michael	0.5171	0.3621	101	955	1046 m^2	Andrew	95	ferret	571	1.0022	football
+2	379 kg	0.1604	fish	Lise, Fabrice	0.6457	0.9201	713	99	471 m^2	Inan	729	fish, chicken, dog	62	NULL	running
+3	995 kg	1.1377	rabbit	Inan	-0.0363	0.2457	473	374	82 m^2	Eriq	125	rabbit	849	0.4308	golf, tennis
+0	459 kg	0.3729	reptile	Andrew	0.1721	0.4436	283	268	1113 m^2	Inan	1032	guinea pig, bird, hamster, cat	548	0.042	boxing
+0	760 kg	0.1347	hamster	Andrew, Reilly	0.3613	0.2704	565	196	1105 m^2	Eriq	920	guinea pig	338	-0.1048	tennis
+4	491 kg	0.4912	ferret	Tony	0.8204	0.5049	273	1122	983 m^2	Vani	474	ferret	824	1.0106	ice hockey
+4	707 kg	0.215	ferret	Lise, Sam	0.6948	0.5443	462	1134	520 m^2	Andrew	241	ferret	522	0.5276	track & field
+3	955 kg	0.823	rabbit	Tony	-0.0237	0.1838	634	644	364 m^2	Eriq	483	rabbit	627	0.7871	tennis, golf
+1	253 kg	0.5802	guinea pig	Vani, Reilly	1.0391	-0.4676	131	203	95 m^2	Michael	607	rat	828	0.41	motor sports
+3	993 kg	0.773	bird	Vani, Reilly	-0.0549	-0.04	414	1050	378 m^2	Eriq	79	rabbit	612	0.8537	golf, volleyball
+2	925 kg	0.209	fish	Tony	0.8185	0.9697	848	-53	311 m^2	Tony	836	hamster, pig, guinea pig	-25	0.535	basketball
+1	23 kg	0.6655	guinea pig	Chris	0.8056	0.061	-473	362	-60 m^2	Sam	554	rat	987	0.4176	soccer
+3	942 kg	0.5957		Michael	0.1821	0.2238	525	807	209 m^2	N/A	170	rabbit	634	0.8544	golf
+0	251 kg	0.327	reptile	Andrew, Reilly	0.2475	0.4532	455	47	904 m^2	Inan	882	hamster, guinea pig	431	0.3952	boxing
+1	475 kg	0.3347	guinea pig	Chris	0.8017	0.0831	195	609	201 m^2	Michael	554	rat	706	0.425	soccer
+4	859 kg	0.5273	rat	Eriq	0.6467	0.6199	244	675	589 m^2	Andrew	294	ferret	652	1.0616	ICE HOCKEY, TRACK & FIELD
+4	658 kg	0.2439	dog	Eriq	0.8695	0.7053	396	926	729 m^2	Vani	206	ferret	551	1.0094	track & field, football
+2	481 kg	0.2704	fish	Fabrice	0.3561	0.864	1033	-24	1051 m^2	Lise	1037	dog	-89	0.1673	running
+0	485 kg	0.2851	cat	Andrew	0.0954	0.6492	-31	344	1054 m^2	Eriq	887	guinea pig	200	-0.326	boxing
+4	1097 kg	0.4305	dog	Eriq	0.4762	0.8976	416	1167	572 m^2	Vani	276	ferret	870	0.9619	ice hockey
+2	644 kg	-0.1941	fish	Lise	0.9551	0.992	800	82	745 m^2	Lise	880	ferret	88	0.2478	running
+3	1006 kg	0.9559	rabbit	Inan	-0.0054	0.4006	740	883	-143 m^2	Eriq	164	rabbit	774	0.687	volleyball, golf
+3	816 kg	0.5612	bird	Michael	0.1307	0.0768	554	978	-50 m^2	Eriq	172	RABBIT	642	0.6388	volleyball, golf
+4	785 kg	0.3538	dog	Eriq	0.6001	0.5625	433	1104	496 m^2	Vani	-264	FERRET	484	0.8751	football, track & field
+1	-171 kg	0.6984	pig	Michael	0.9572	0.0633	40	449	375 m^2	Michael	849	rat	977	0.4854	soccer
+4	814 kg	0.4331	dog	Tony	0.7052	0.2966	739	786	339 m^2	Vani	79	ferret	582	1.0254	football
+2	240 kg	0.0558	fish	Sam, Lise	0.7588	0.94	935	554	815 m^2	Chris	607	pig, cat	142	0.1683	basketball
+0	318 kg	0.366	hamster	Eriq	0.4832	0.6071	401	-142	996 m^2	Inan	1155	cat	195	0.0884	boxing
+4	461 kg	0.3388	dog	Eriq	0.6389	0.5047	480	824	693 m^2	None	110	Ferret	581	1.0094	track & field, football
+4	577 kg	0.1911	rat	Tony	0.5286	0.5191	184	862	462 m^2	Vani	273	ferret	410	0.9684	Football, Ice Hockey
+0	-42 kg	0.3592	pig	Vani, Reilly	0.4658	0.4435	615	-11	1018 m^2	Inan	933	ferret	485	0.0699	boxing, badminton
+0	473 kg	0.635	CAT	Reilly, Vani	0.3435	0.6227	463	280	1037 m^2	Inan	779	ferret	465	0.3949	baseball
+1	7 kg	0.5538	guinea pig	Chris	0.4438	0.0611	58	360	282 m^2	Michael	452	rat	800	0.5591	motor sports
+0	520 kg	0.6154	reptile	Reilly	0.2475	0.2159	234	395	1017 m^2	Inan	887	ferret	288	-0.011	boxing
+4	957 kg	0.12	ferret	Eriq	0.7748	0.5127	379	1121	322 m^2	Reilly	123	ferret	676	1.4339	track & field
+0	398 kg	0.4103	hamster	Andrew, Reilly	0.2724	0.5529	503	393	1050 m^2	Inan	1134	guinea pig, cat, hamster	478	-0.1005	boxing
+4	398 kg	0.4495	dog	Tony	0.7713	0.6674	323	814	626 m^2	Reilly	426	ferret	724	0.8817	football
+4	669 kg	0.0578	dog	Tony	0.6964	0.6857	407	967	95 m^2	Eriq	208	ferret	651	0.5823	ice hockey
+2	None	-0.0164	fish	Lise, Fabrice	0.5246	0.8874	926	40	971 m^2	Lise	786	chicken, dog	100	0.1103	running
+1	79 kg	0.4196	pig	Chris	N/A	0.1796	36	338	32 m^2	Michael	304	rat	728	0.7105	motor sports
+1	226 kg	0.74	pig	Chris	0.7278	0.1109	305	286	332 m^2	Sam	70	rat	840	0.629	motor sports
+0	71 kg	0.53	cat	Eriq	0.1801	0.592	727	-270	1061 m^2	inan	1124	bird, cat, hamster, guinea pig	510	0.1555	badminton, baseball
+3	922 kg	0.8441	rabbit	Michael	-0.1879	0.5352	712	1161	270 m^2	Eriq	-19	rabbit	647	0.5692	volleyball
+0	121 kg	0.4788	bird	Reilly	0.1207	0.1835	508	36	1329 m^2	Inan	697	bird	371	-0.0862	badminton
+2	566 kg	-0.2343	chicken	Lise, Sam	0.7081	1.1229	717	102	707 m^2	Tony	1014	fish, dog	273	0.1923	running
+4	641 kg	0.1386	rat	?	0.6406	0.9503	627	1037	663 m^2	Reilly	219	FERRET	440	1.1555	track & field
+2	662 kg	0.0794	chicken	Sam	0.5271	0.4352	790	463	772 m^2	Reilly	720	chicken, dog, fish	9	0.1275	running
+3	1010 kg	0.7821	rabbit	Chris	0.0498	0.4131	869	201	389 m^2	Eriq	125	rabbit	582	0.7525	golf, tennis
+3	895 kg	0.9778	bird	Inan	0.1356	0.1884	934	944	201 m^2	Eriq	-102	rabbit	523	0.7258	golf, volleyball
+0	52 kg	0.34	cat	Reilly	0.1369	0.6014	374	-29	901 m^2	Inan	824	dog	402	0.0164	boxing, baseball
+3	1036 kg	0.9325	rabbit	Inan	0.2431	0.3651	634	924	365 m^2	Eriq	38	rabbit	809	1.0009	golf, tennis
+1	86 kg	0.5544	guinea pig	Chris	0.5224	0.1676	-288	819	81 m^2	Michael	476	rat	611	0.5793	motor sports
+4	670 kg	0.3918	rat	Eriq	0.378	0.6327	219	1082	411 m^2	Vani	-213	ferret	608	0.9078	track & field
+0	288 kg	0.3811	hamster	Reilly, Andrew	0.2344	0.6704	368	138	681 m^2	Inan	913	hamster, bird	492	0.1414	baseball
+3	985 kg	1.0447	bird	Michael	-0.0387	0.271	810	910	292 m^2	Eriq	385	rabbit	663	1.0506	tennis, golf
+3	871 kg	0.7956	rabbit	Inan	-0.1885	0.3326	457	947	434 m^2	Eriq	-62	rabbit	709	0.6075	tennis, volleyball
+0	268 kg	0.3387	hamster	Reilly, Vani	0.192	0.561	371	97	732 m^2	Michael	810	hamster, guinea pig, bird, pig	768	0.1258	badminton
+2	663 kg	-0.0515	fish	Lise	0.5292	1.203	835	-7	792 m^2	Andrew	961	chicken, fish	-2	0.3316	running
+1	236 kg	0.6253	guinea pig	Chris	0.983	0.0532	280	509	140 m^2	Sam	676	chicken, dog, reptile	1033	0.4592	motor sports
+2	459 kg	-0.0045	fish	sAM	0.7096	0.8037	696	208	651 m^2	Fabrice	944	dog	-120	0.0881	basketball
+1	147 kg	0.7974	pig	Chris	0.6432	-0.2063	143	640	163 m^2	Sam	444	rat	817	0.7345	SOCCER
+3	1140 kg	0.6038	bird	Michael	-0.0029	0.2461	1107	884	312 m^2	Michael	96	rabbit	915	0.7992	tennis, golf
+4	671 kg	0.4314	ferret	Eriq	0.6917	0.7928	600	1203	589 m^2	Reilly	338	rabbit	580	0.7066	track & field
+3	909 kg	0.9201	rabbit	Inan	-0.1284	-0.0823	587	678	348 m^2	Eriq	131	rabbit	718	0.7963	volleyball
+2	646 kg	0.0251	fish	Lise	0.1903	0.8047	895	94	n/a	cHRIS	883	dog, fish, chicken	145	0.4924	basketball
+1	37 kg	1.0336	guinea pig	Chris	0.6325	-0.0853	366	229	327 m^2	Michael	510	rat	779	0.9185	soccer
+0	451 kg	0.4754	cat	sAM	0.4225	0.2842	613	32	691 m^2	Inan	890	pig, guinea pig, hamster, bird	478	0.1828	baseball, badminton
+3	923 kg	0.843	rabbit	Chris	0.0343	0.3954	374	676	303 m^2	Eriq	172	RABBIT	742	0.5945	volleyball, tennis
+4	702 kg	0.5743	chicken	Eriq	0.7071	0.3216	579	874	571 m^2	Andrew	391	ferret	281	1.3174	ice hockey
+2	608 kg	0.0708	Fish	Tony	1.0332	0.9393	596	325	951 m^2	Tony	844	reptile, fish	216	0.3073	basketball
+2	457 kg	0.4342	fish	Lise, Fabrice	0.4516	0.9242	616	164	672 m^2	Lise	776	fish, chicken, reptile	-161	0.427	basketball
+4	741 kg	0.3228	ferret	Eriq	0.6593	0.4687	666	1258	541 m^2	Andrew	-97	ferret	264	0.8883	football
+4	NULL	0.0026	ferret	Tony	0.8476	0.6575	479	1009	557 m^2	Reilly	190	ferret	322	0.8589	football, track & field
+0	254 kg	0.351	cat	Vani, Andrew	0.4685	0.4776	418	233	874 m^2	Inan	997	hamster	327	0.0327	boxing, badminton
+1	135 kg	0.6238	pig	Chris	0.6784	0.3031	12	637	53 m^2	Eriq	409	rat	713	0.5214	motor sports
+1	456 kg	0.6789	guinea pig	Chris	1.0696	0.0479	-21	267	523 m^2	Sam	39	fish	780	0.2628	motor sports
+3	909 kg	0.5617	bird	mICHAEL	0.4058	0.018	641	766	195 m^2	Eriq	-314	rabbit	594	0.681	volleyball, golf
+4	580 kg	0.0232	dog	Tony	0.6546	0.2538	598	1226	784 m^2	reilly	406	ferret	379	0.907	ICE HOCKEY, FOOTBALL
+4	948 kg	-0.0593	dog	Eriq	0.2821	0.4963	702	1163	494 m^2	Reilly	372	Ferret	561	1.0899	ice hockey
+0	489 kg	0.4544	cat	Chris	0.438	0.6767	324	173	865 m^2	Inan	903	pig	606	-0.0019	boxing
+2	368 kg	-0.2235	fish	Lise	0.7574	0.9251	789	-29	891 m^2	Tony	1108	dog, reptile	-135	0.2168	running
+3	882 kg	0.7837	rabbit	Inan	-0.0374	0.244	606	613	418 m^2	Eriq	59	rabbit	467	0.4411	motor sports
+1	193 kg	0.6967	pig	Chris	0.6282	-0.2106	-160	362	-168 m^2	Sam	802	rabbit	819	0.5501	soccer
+0	398 kg	0.1761	cat	Vani	0.4661	0.0976	275	598	863 m^2	inan	920	rabbit	355	N/A	boxing
+2	532 kg	0.0071	fish	Sam	0.4506	1.2352	926	-27	806 m^2	Tony	1227	chicken, reptile	95	0.2535	running
+3	711 kg	0.6971	rabbit	Inan	0.3218	0.0941	614	770	76 m^2	eriq	200	ferret	520	1.1608	golf, tennis
+2	558 kg	0.1663	chicken	Lise	0.7459	1.2978	852	323	847 m^2	Fabrice	872	dog	153	0.1675	running
+0	207 kg	0.402	hamster	Vani, Reilly	0.4136	0.2476	302	446	581 m^2	Inan	799	guinea pig, hamster	480	-0.0023	boxing, badminton
+1	429 kg	0.3537	pig	Chris	0.893	-0.1879	173	398	115 m^2	Sam	76	rat	915	0.4394	soccer
+3	1048 kg	1.0091	pig	Reilly, Vani	-0.1526	0.1378	774	831	251 m^2	Eriq	-204	rabbit	?	0.7867	tennis, golf
+0	195 kg	0.7449	cat	Reilly, Andrew	0.6383	0.5613	-66	-185	1124 m^2	Inan	982	Bird	270	0.0377	badminton, boxing
+3	685 kg	0.9202	rabbit	Michael	0.1172	0.2116	472	894	258 m^2	Eriq	89	rabbit	855	0.9953	golf, tennis
+0	29 kg	0.3892	cat	Reilly, Andrew	0.1881	0.4277	401	396	1596 m^2	n/a	632	guinea pig, bird, pig, hamster	487	0.0117	baseball
+3	962 kg	NULL	rabbit	Michael	0.2128	0.3205	510	1121	111 m^2	Eriq	134	rabbit	649	0.6733	volleyball, golf
+1	-199 kg	0.9022	guinea pig	Chris	0.4508	0.1506	143	186	218 m^2	sam	547	rat	875	0.7372	soccer
+4	550 kg	0.3514	dog	Eriq	0.6134	0.6308	356	1296	659 m^2	Reilly	124	ferret	602	1.1302	ice hockey, football
+4	796 kg	0.2841	ferret	Eriq	0.8064	0.8853	189	1007	194 m^2	Reilly	202	ferret	553	1.1843	track & field
+4	417 kg	0.2753	rat	Tony	0.4614	0.9085	442	1092	545 m^2	Vani	255	ferret	697	0.534	football, track & field
+3	1033 kg	1.1406	bird	Michael	0.1464	0.0243	930	908	403 m^2	Eriq	-236	rabbit	722	0.4941	tennis, volleyball
+3	861 kg	0.9381	rabbit	Inan	-0.1316	0.4808	555	712	105 m^2	Eriq	-132	ferret	852	1.0385	volleyball, tennis
+1	193 kg	0.5784	guinea pig	Chris	0.3825		-32	277	130 m^2	Lise	544	rat	929	0.4618	motor sports
+0	584 kg	0.5077	hamster	Vani	0.3726	0.5247	332	284	1003 m^2	Inan	846	bird, guinea pig	315	-0.067	badminton, baseball
+1	271 kg	0.7123	guinea pig	Chris	0.9788	0.0741	284	678	461 m^2	Michael	658	rat	1191	0.5552	motor sports
+0	-81 kg	0.3388	reptile	Vani, Reilly	0.3731	0.2954	364	617	1282 m^2	Eriq	809	rat	405	-0.3158	boxing, baseball
+1	420 kg	0.5128	guinea pig	Chris	0.7317	0.1597	-61	439	460 m^2	Eriq	318	guinea pig, pig, cat	921	0.2279	soccer
+2	645 kg	-0.2002	chicken	Lise	0.7032	0.9659	650	103	565 m^2	Fabrice	1121	dog	-9	0.1853	running
+3	936 kg	0.785	Bird	Tony	0.1472	0.1658	383	1139	111 m^2	Eriq	-220	rabbit	511	0.9219	volleyball, tennis
+0	114 kg	0.3061	REPTILE	Reilly	0.335	?	507	116	669 m^2	Inan	777	guinea pig, pig, hamster, cat	97	0.2963	badminton
+3	593 kg	0.7915	rabbit	Inan	-0.2497	0.2253	None	807	500 m^2	Eriq	97	rabbit	504	1.2036	volleyball
+2	373 kg	0.1847	fish	Sam	0.4802	0.5663	753	153	931 m^2	Chris	658	reptile	121	0.4638	running
+1	-41 kg	0.7094	fish	Chris	1.1143	-0.16	-156	433	88 m^2	Michael	165	rat	1038	0.5558	soccer
+1	93 kg	0.5975	guinea pig	Andrew	0.474	0.1834	-286	321	289 m^2	Sam	624	rat	874	0.5479	soccer
+4	697 kg	0.1074	ferret	Tony	0.8349	0.55	745	886	770 m^2	Vani	179	ferret	412	1.1525	ice hockey
+0	463 kg	0.6313	cat	Vani	0.4553	0.6342	109	-155	1002 m^2	Inan	713	bird, guinea pig, hamster	331	-0.2236	baseball
+4	454 kg	0.689	ferret	Tony	0.656	0.625	59	1273	664 m^2	Reilly	275	ferret	588	0.9511	track & field
+4	941 kg	0.2642	reptile	Eriq	0.6313	0.5807	559	930	539 m^2	Vani	-95	ferret	860	0.8239	ice hockey, football
+3	1038 kg	0.882	rabbit	Inan	0.05	-0.1397	594	813	59 m^2	Eriq	-32	dog	743	0.7892	volleyball
+1	421 kg	1.0312	guinea pig	Chris	1.0776	-0.0726	247	232	239 m^2	Michael	309	rat	883	0.1868	motor sports
+2	404 kg	0.1363	fish	Fabrice	0.6281	1.1424	894	197	973 m^2	Eriq	864	cat	-280	0.2017	basketball
+3	1062 kg	0.9505	hamster	Michael	0.0527	0.194	565	750	246 m^2	Eriq	32	rabbit	492	0.7959	volleyball, tennis
+3	829 kg	0.9547	bird	Michael	0.1082	0.4012	481	738	250 m^2	Eriq	48	rabbit	747	0.637	tennis
+0	306 kg	0.2134	cat	Reilly, Andrew	0.335	0.4163	96	17	1301 m^2	Inan	387	guinea pig	286	0.1609	boxing, baseball
+1	378 kg	0.3464	guinea pig	Chris	0.9781	0.0272	316	697	29 m^2	Michael	n/a	rat	748	0.3525	soccer
+1	119 kg	0.4949	guinea pig	Chris	0.5991	0.2513	-96	536	413 m^2	Michael	135	rat	988	0.7616	Motor Sports
+1	202 kg	0.772	guinea pig	Chris	0.6435	0.1282		537	159 m^2	Michael	526	rat	519	0.6836	soccer
+2	602 kg	-0.0165	fish	Sam	0.2341	1.0763	1073	300	566 m^2	Lise	825	chicken, reptile	269	0.3574	basketball
+2	459 kg	0.1186	fish	Lise	0.4616	1.1921	978	301	800 m^2	Tony	574	chicken	-205	0.3376	basketball
+3	898 kg	0.9693	bird	Inan	0.0571	0.2952	526	719	112 m^2	Eriq	-41	ferret	443	1.1321	volleyball, tennis
+4	737 kg	-0.0099	fish	Tony	0.6725	0.7668	698	1030	675 m^2	Reilly	176	ferret	717	1.2381	football
+3	888 kg		bird	Michael	0.2127	0.64	826	652	-60 m^2	Eriq	29	rabbit	611	0.4024	tennis, volleyball
+2	361 kg	0.0057	chicken	Lise	0.2542	1.0363	1300	478	513 m^2	Tony	775	chicken, dog, fish	92	0.1576	running
+1	-8 kg	0.9234	guinea pig	Chris	0.8587	0.0312	356	532	44 m^2	Michael	189	rat	651	0.4676	soccer
+2	114 kg	0.1859	chicken	Sam	0.4283	0.8844	1088	105	973 m^2	Chris	819	fish, reptile	178	0.1903	basketball
+4	549 kg	0.4132	dog	Eriq	0.566	0.2602	273	643	636 m^2	Andrew	210	?	761	0.5421	track & field
+0	334 kg	0.3828	hamster	Reilly, Andrew	-0.0039	0.4941	152	-7	982 m^2	Sam	961	hamster	NULL	0.3942	badminton, boxing
+2	551 kg	0.1688	fish	Sam	0.4837	1.0531	1117	-143	1258 m^2	Tony	1112	dog, fish	113	0.2347	basketball
+3	642 kg	0.8157	rabbit	Inan	-0.368	0.3638	746	678	571 m^2	Eriq	98	rat	751	0.6502	volleyball, tennis
+1	150 kg	1.0887	pig	Chris	0.4928	-0.0449	-206	739	-213 m^2	Sam	474	rat	871	0.5064	soccer
+3	604 kg	0.7335	bird	Michael	-0.1241	0.5765	856	894	133 m^2	Eriq	-34	rabbit	490	1.013	volleyball
+2	268 kg	0.1243	fish	Lise, Sam	0.6212	1.2124	1157	365	949 m^2	Sam	1036	fish, reptile	-71	0.4311	running
+0	434 kg	0.2444	cat	Reilly	0.2633	0.237	434	N/A	904 m^2	Inan	413	hamster	510	0.1523	baseball, badminton
+2	690 kg	0.2518	chicken	Sam, Lise	0.5266	1.15	675	356	661 m^2	Chris	682	reptile, dog	310	0.576	basketball
+0	152 kg	0.5323	cat	Reilly	0.399	0.73	529	205	1132 m^2	Inan	657	pig, cat, guinea pig, bird	365	0.249	badminton, baseball
+1	156 kg	0.8835	guinea pig	Chris	0.7541	-0.151	377	556	283 m^2	Michael	211	hamster	839	0.8136	soccer
+2	451 kg	0.0903	chicken	Sam, Fabrice	0.7214	1.2808	1001	296	665 m^2	Tony	696	dog	-47	0.2506	basketball
+0	344 kg	0.5287	hamster	Vani, Reilly	0.2257	0.5115	550	-31	863 m^2	Inan	1070	NULL	486	0.1715	badminton, boxing
+0	198 kg	0.3669	reptile	Vani	0.0628	0.6224	410	63	1072 m^2	Inan	827	pig	377	-0.1375	boxing
+1	81 kg	0.7102	guinea pig	Chris	0.6905	-0.1554	143	532	315 m^2	Sam	284	rat	839	0.0722	soccer
+3	1097 kg	0.7189	bird	Inan	-0.1332	0.399	489	653	163 m^2	Eriq	-98	RABBIT	533	1.1046	tennis, golf
+1	354 kg	1.0651	pig	Chris	0.8111	-0.0086	133	408	69 m^2	Sam	704	rat	792	0.4053	soccer
+4	886 kg	0.389	dog	Eriq	0.806	0.4828	497	916	585 m^2	Andrew	305	rat	536	1.0303	ice hockey
+0	481 kg	0.3494	hamster	Reilly	0.1792	0.3297	277	212	1300 m^2	Inan	818	bird, guinea pig, cat, hamster	426	0.1596	baseball, boxing
+3	687 kg	1.024	bird	vANI, rEILLY	-0.1757	0.3352	377	700	155 m^2	eRIQ	170	hamster	743	0.4199	volleyball
+3	937 kg	0.5835	rabbit	mICHAEL	-0.1405	0.3826	431	856	212 m^2	Eriq	33	hamster	443	0.8638	volleyball, golf
+2	536 kg	0.4414	chicken	Fabrice	0.4342	0.935	681	138	550 m^2	Tony	808	fish, chicken	-106	0.0807	running
+4	820 kg	0.0213	rat	Eriq	0.7524	0.4277	640	1261	452 m^2	Andrew	398	ferret	670	0.9228	track & field, ice hockey
+2	538 kg	0.1274	chicken	Lise, Fabrice	0.6962	1.4308	746	50	495 m^2	Eriq	685	chicken, reptile	228	-0.0537	basketball
+0	439 kg	0.7773	cat	Andrew, Reilly	0.0167	0.3281	343	-49	1114 m^2	Inan	942	guinea pig, cat, bird, pig	156	0.091	baseball
+4	1070 kg	0.4721	dog	Inan	0.612	0.9584	482	679	720 m^2	Inan	435	ferret	668	0.4556	ice hockey, football
+0	204 kg	0.4443	pig	Vani, Reilly	0.3394	0.6096	510	76	1043 m^2	Inan	836	rat	63	0.1108	badminton
+2	207 kg	-0.2296	fish	Sam	0.8925	1.0124	868	-57	610 m^2	Lise	857	chicken, fish	61	0.4738	running
+2	593 kg	0.2195	fish	Sam	0.4244	0.8563	1099	105	782 m^2	Tony	915	reptile, chicken, fish	18	0.1322	Basketball
+2	604 kg	0.1675	fish	Lise	0.4955	0.8997	1002	434	548 m^2	Lise	769	fish	-51	-0.0473	running
+2	584 kg	-0.1119	fish	Sam, Lise	0.6854	1.0863	909	-59	348 m^2	Tony	770	fish, chicken, dog	412	0.5202	running
+4	902 kg	0.3522	N/A	Eriq	0.5374	0.6687	733	861	483 m^2	Vani	252	ferret	761	0.9184	track & field, football
+3	1124 kg	0.7585	rabbit	Michael	-0.0951	0.1241	478	910	27 m^2	Eriq	332	cat	702	0.6516	tennis, golf
+4	791 kg	-0.1051	rat	Eriq	0.412	0.7535	475	813	949 m^2	Eriq	262	ferret	649	1.0548	football
+3	1193 kg	0.9942	rabbit	Inan	0.045	0.0515	635	962	460 m^2	Inan	41	rabbit	826	0.8195	volleyball, golf
+1	155 kg	0.5583	guinea pig	Sam	0.5348	-0.3192	-156	283	227 m^2	Michael	491	rat	951	0.7258	motor sports
+0	407 kg	0.0124	hamster	Andrew	0.4604	0.7008	366	-86	897 m^2	Inan	1010	cat, bird	263	0.0465	badminton, boxing
+1	33 kg	0.7986	guinea pig	Eriq	0.7188	-0.1177	195	503	94 m^2	Michael	715	rat	743	0.6688	soccer
+4	780 kg	0.0647	rat	Tony	0.8053	0.3996	470	?	756 m^2	Reilly	220	ferret	710	0.8501	ice hockey
+0	404 kg	0.7389	cat	Vani	0.2797	0.8345	525	-103	956 m^2	Inan	1029	hamster, guinea pig, cat, pig	327	-0.1762	baseball, boxing
+3	1076 kg	0.8997	cat	Michael	0.2859	0.2654	540	759	224 m^2	Eriq	513	rabbit	782	0.6537	golf
+0	425 kg	0.4549	cat	Andrew	0.2528	0.551	510	207	1420 m^2	Inan	979	cat, pig, hamster, guinea pig	354	0.0556	baseball
+4	441 kg	0.4866	ferret	Tony	0.3342	0.3268	364	1068	297 m^2	Reilly	333	ferret	300	1.0188	track & field
+4	788 kg	0.1799	ferret	Eriq	0.7033	0.6646	345	948	474 m^2	Reilly	323	ferret	716	0.8361	football, ice hockey
+3	1165 kg	0.902	bird	Inan	0.2111	0.0516	446	912	166 m^2	Eriq	65	rabbit	623	0.8889	volleyball, golf
+3	1049 kg	0.6971	rabbit	Michael	0.1608	0.3367	575	351	381 m^2	Eriq	143	rabbit	681	0.9736	tennis, golf
+4	841 kg	0.3236	dog	Eriq	0.7991	0.3525	599	903	624 m^2	Andrew	378	ferret	541	0.8795	track & field
+4	840 kg	0.3257	ferret	Tony	0.7422	0.8127	741	1201	556 m^2	Andrew	226	ferret	764	0.7534	football, ice hockey
+4	644 kg	0.1865	ferret	Eriq	0.5144	0.8369	788	780	198 m^2	Vani	373	rabbit	715	0.8234	football
+0	360 kg	0.2006	GUINEA PIG	Chris	0.1338	0.3889	251	141	1097 m^2	Inan	820	BIRD	387	0.3842	badminton, boxing
+4	884 kg	0.2533	rat	Eriq	0.3441	0.7422	107	556	494 m^2	Andrew	174	ferret	467	1.0305	TRACK & FIELD
+2	101 kg	0.0064	fish	Fabrice	0.7475	0.8071	924	285	1065 m^2	Chris	993	chicken, reptile	85	0.2551	running
+2	434 kg	0.0841	chicken	Fabrice	0.3814	1.4615	763	44	793 m^2	Lise	643	fish	88	0.3463	football
+2	501 kg	0.189	chicken	Fabrice	0.8459	0.6413	523	306	1202 m^2	Chris	1224	reptile	-38	-0.2369	basketball
+2	418 kg	-0.1933	chicken	Sam	0.4102	0.703	729	357	N/A	Lise	1001	reptile	25	0.027	running
+2	477 kg	-0.0682	pig	Fabrice	0.6596	1.2916	698	47	646 m^2	Lise	978	rat	212	0.3992	running
+4	616 kg	0.5127	rat	Tony	0.6943	0.6724	259	881	680 m^2	Reilly	275	ferret	443	1.0596	track & field, ice hockey
+0	221 kg	0.3752	reptile	Chris	0.151	0.2195	513	n/a	776 m^2	Inan	580	rabbit	622	-0.0569	badminton, baseball
+2	689 kg	0.1864	fish	Lise	0.5672	1.1105	933	-271	790 m^2	Lise	744	dog, fish, chicken	-55	0.0007	basketball
+0	-107 kg	0.4449	REPTILE	Reilly	0.355	0.3493	393	-75	1383 m^2	Fabrice	631	pig	476	0.3348	badminton
+0	378 kg	0.1175	cat	Andrew, Reilly	0.5063	0.7627	432	-242	724 m^2	Inan	1145	pig	346	-0.0582	boxing
+2	560 kg	0.0435	fish	Sam	0.6798	0.788	870	-45	777 m^2	Fabrice	657	rat	182	0.4106	basketball
+4	684 kg	0.4286	rat	Tony	0.7949	0.7435	569	927	489 m^2	Reilly	266	rat	396	0.8451	football
+4	316 kg	0.3837	dog	tony	0.5185	0.706	316	1324	365 m^2	REILLY	-29	ferret	706	0.6871	football, ice hockey
+2	517 kg	0.0645	fish	Lise, Sam	0.5314	1.0745	637	312	964 m^2	Lise	1001	ferret	100	0.3066	basketball
+2	867 kg	0.0422	chicken	lise, fabrice	0.6132	1.2734	958	-121	593 m^2	Fabrice	1304	chicken	14	0.2783	basketball
+1	99 kg	0.7767	guinea pig	Chris	1.0522	-0.1231	282	463	455 m^2	Sam	581	rat	886	0.4639	boxing
+2	750 kg	-0.3729	chicken	Fabrice, Lise	0.5401	0.8942	1002	479	939 m^2	Reilly	903	chicken, dog, fish	124	-0.0689	running
+1	104 kg	0.9903	chicken	Chris	0.9735	-0.0993	393	-35	91 m^2	Michael	832	rat	751	0.8038	motor sports
+1	129 kg	0.6039	guinea pig	Chris	0.9306	-0.093	194	n/a	48 m^2	Michael	362	rat	NULL	0.585	soccer
+1	-133 kg	0.5875	guinea pig	Chris	1.1137	-0.2681	22	738	298 m^2	Sam	612	rat	627	0.399	soccer
+2	576 kg	-0.0472	chicken	Lise, Fabrice	0.9178	1.0538	861	55	1020 m^2	Chris	895	reptile, fish	52	0.2715	running
+2	437 kg	-0.2254	hamster	Sam, Fabrice	0.5755	1.0214	775	551	838 m^2	Chris	871	chicken, dog	37	0.2395	basketball
+1	522 kg	0.7405	guinea pig	Chris	0.774	-0.1605	-111	331	-170 m^2	Sam	589	rat	928	0.665	soccer
+2	768 kg	0.3306	chicken	Fabrice, Lise	0.3664	1.1012	1014	-104	497 m^2	Reilly	502	rat	251	0.1871	basketball
+2	444 kg	0.0528	chicken	Fabrice, Lise	0.4088	0.9461	473	329	975 m^2	Eriq	807	dog, reptile	-206	0.3856	running
+1	-173 kg	0.5961	N/A	Chris	1.0735	-0.0787	-155	344	472 m^2	Michael	446	rat	1029	0.5801	badminton
+3	981 kg	0.7234	bird	Inan	0.0327	-0.0591	718	910	211 m^2	Eriq	252	rabbit	626	0.843	volleyball
+4	726 kg	-0.1472	dog	Tony	0.8607	0.7288	341	1067	249 m^2	Vani	286	Ferret	766	0.8693	football, ice hockey
+1	114 kg	0.3241	guinea pig	Tony	0.7144	-0.1743	146	-26	582 m^2	Eriq	726	rat	740	0.4061	motor sports
+0	62 kg	0.4322	reptile	Andrew	0.7006	0.5421	554	n/a	897 m^2	Inan	747	reptile	415	-0.0789	badminton, baseball
+4	730 kg	0.2927	ferret	Tony	0.415	0.8912	560	1166	659 m^2	Andrew	302	ferret	387	0.692	ice hockey
+0	-58 kg	0.5635	hamster	Andrew, Vani	0.193	0.5349	203	45	1079 m^2	Inan	655	ferret	310	0.1143	baseball, badminton
+1	-223 kg	0.5693	pig	Chris	0.6469	0.1714	142	654	-71 m^2	Sam	696	rat	1023	0.6735	soccer
+2	542 kg	-0.1317	chicken	FABRICE	0.458	1.2614	650	118	554 m^2	Chris	830	fish	-62	0.0191	running
+3	905 kg	0.7941	bird	Michael	0.0229	0.6574	364	878	459 m^2	eriq	173	bird, guinea pig, pig, hamster	780	0.7176	volleyball
+2	735 kg	-0.0206	fish	eriq	0.4133	0.86	993	252	615 m^2	Lise	1055	dog, chicken	-77	0.316	basketball
+0	494 kg	0.7376	cat	Reilly	0.5497	0.4056	500	349	1183 m^2	Inan	403	hamster, cat, guinea pig, bird	344	-0.0237	boxing, badminton
+4	908 kg	0.218	dog	Tony	0.6181	0.5843	404	871	627 m^2	Reilly	328	ferret	451	0.9349	track & field, football
+0	129 kg	0.2888	cat	Reilly, Andrew	0.1556	0.5453	175	-37	1144 m^2	iNAN	841	CAT, BIRD	287	0.13	baseball, badminton
+3	857 kg	0.914	rabbit	Michael	-0.0966	0.5073	490	784	217 m^2	None		rabbit	575	0.7541	Volleyball
+4	942 kg	-0.0133	rat	Eriq	0.6825	0.7588	458	1080	628 m^2	Andrew	442	ferret	579	n/a	track & field, football
+2	566 kg	0.0107	guinea pig	Lise, Fabrice	0.6905	0.6373	698	340	759 m^2	Tony	916	ferret	-18		basketball
+0	245 kg	0.287	hamster	Vani	0.351	0.4026	198	-97	762 m^2	Inan	833	pig, bird, cat, guinea pig	378	-0.0845	running
+2	602 kg	-0.0376	chicken	Sam, Lise	0.6842	1.168	807	-2	587 m^2	Tony	1184	chicken	233	0.305	basketball
+2	950 kg	0.1099	chicken	Lise	0.254	1.0055	1084	452	731 m^2	Inan	1162	reptile, chicken, dog	15	-0.1638	basketball
+2	593 kg	-0.0427	chicken	FABRICE	0.6537	0.7483	671	311	584 m^2	Lise	1305	dog	-64	0.3231	running
+4	482 kg	-0.0634	dog	Tony	0.4849	0.6975	248	1021	996 m^2	Vani	210	FERRET	444	1.0269	football
+4	907 kg	0.1055	rat	Eriq	0.488	0.2174	350	927	482 m^2	Andrew	283	ferret	656	0.7242	track & field, football
+3	759 kg	0.9002	rabbit	Michael	-0.0156	0.5299	547	NULL	126 m^2	?	133	rabbit	539	0.8614	tennis
+0	105 kg	0.5816	hamster	Reilly, Vani	-0.0511	0.3308	219	205	809 m^2	Inan	781	pig, cat	679	0.1616	badminton
+2	674 kg	0.2878	guinea pig	Sam	0.7977	1.1129	1159	199	425 m^2	Fabrice	818	reptile, chicken	-78	0.1476	basketball
+4	740 kg	0.6517	dog	Eriq	0.4184	0.4593	917	763	363 m^2	Reilly	470	ferret	616	0.8714	ice hockey
+3	992 kg	0.9066	bird	Michael	0.035	0.2989	866	639	-4 m^2	Eriq	186	rabbit	488	0.6615	tennis, volleyball
+0	566 kg	0.455	reptile	Vani, Reilly	0.4412	0.33	174	37	1235 m^2	Inan	NULL	guinea pig	230	-0.1093	badminton, baseball
+3	1019 kg	0.794		n/a	-0.1749	0.2815	618	633	455 m^2	Eriq	139	rabbit	808	0.6483	None
+0	501 kg	0.5102	reptile	Vani, Reilly	0.2467	0.4662	566	325	840 m^2	inan	779	guinea pig, hamster, cat, bird	442	-0.0368	boxing, badminton
+4	764 kg	0.3383	ferret	Tony	0.6549	0.6523	705	998	570 m^2	Vani	-108	ferret	703	0.4984	football, track & field
+4	736 kg	0.0996	ferret	Tony	1.2745	0.5884	464	721	300 m^2	Vani	199	ferret	648	0.9312	track & field, ice hockey
+4	385 kg	0.2994	rat	Tony	0.62	0.535	447	1411	640 m^2	Vani	423	ferret	826	0.9343	track & field, football
+0	85 kg	0.6882	cat	Andrew	0.1338	0.3706	356	105	1290 m^2	Inan	702	rabbit	251	0.0833	baseball, boxing
+2	804 kg	0.1675	fish	Lise	0.8093	0.9671	926	353	366 m^2	Chris	1091	reptile, fish	228	0.215	running
+2	311 kg	0.1911	chicken	Michael	0.303		770	-136	442 m^2	Lise	944	fish, reptile, dog	-60	0.4452	running
+2	659 kg	0.0448	fish	Sam	0.8308	1.0593	631	270	982 m^2	Chris	1444	rat	-48	0.1034	running
+0	284 kg	0.4123	hamster	Andrew	0.5004	0.3409	294	170	1116 m^2	Eriq	950	cat, guinea pig, hamster	257	-0.0942	badminton, boxing
+1	404 kg	0.9025	guinea pig	Chris	0.7027	-0.0595	169	186	275 m^2	Sam	398	rat	754	0.1494	soccer
+3	1136 kg	0.647	rabbit	Michael	-0.0644	0.5505	473	908	-42 m^2	Eriq	-79	rabbit	742	0.6906	volleyball, tennis
+0	463 kg	0.2564	cat	Vani, Reilly	0.3834	0.3425	480	241	1053 m^2	Chris	815	hamster	313	0.4102	boxing, baseball
+2	544 kg	-0.1761	fish	Fabrice	0.8134	1.0773	1109	167	347 m^2	cHRIS	796	chicken, dog, reptile	64	-0.1316	running
+0	27 kg	0.3791	reptile	Reilly	0.1858	0.4726	493	78	1103 m^2	Inan	788	pig	314	0.1825	boxing, badminton
+4	501 kg	0.3839	ferret	Tony	0.7523	0.2669	143	1374	684 m^2	Vani	309	ferret	685	0.7079	track & field
+4	884 kg	0.3691	rat	Eriq	0.7507	0.3886	555	986	328 m^2	Vani	303	ferret	612	0.6448	track & field, ice hockey
+1	-308 kg	0.6489	guinea pig	Chris	0.6091	-0.0767	216	464	-56 m^2	Sam	410	pig, cat	930	0.6669	soccer
+1	98 kg	0.835	guinea pig	Chris	0.6658	-0.1739	231	701	-117 m^2	Sam	316	rat	784	0.6303	motor sports
+0	695 kg	0.6103	pig	Vani, Andrew	0.433	0.5427	485	417	1079 m^2	Inan	745	rabbit	312	-0.124	badminton, baseball
+0	440 kg	0.3239	reptile	Tony	0.3275	0.9286	314	-225	n/a	Inan	923	rabbit	423	0.305	boxing
+3	1049 kg	0.6846	cat	Michael	-0.1323	0.2366	710	1048	-237 m^2	Eriq	303	rabbit	554	0.7936	GOLF, VOLLEYBALL
+2	515 kg	0.2591	chicken	Andrew	0.5563	0.7677	977	-13	705 m^2	Sam	990	reptile	245	0.3623	running
+4	1004 kg	0.5236	rat	Tony	0.6263	0.6277	261	915	568 m^2	Andrew	178	ferret	748	1.0683	ice hockey, football
+2	660 kg	0.2916	fish	Fabrice, Sam	0.6281	0.8748	981	351	1105 m^2	Tony	853	fish, chicken, dog	-175	0.1854	running
+4	805 kg	0.3125	dog	Eriq	0.5671	0.3639	511	701	584 m^2	Vani	269	rabbit	591	0.9352	track & field
+1	8 kg	1.1619	pig	Chris		0.0189	86	497	257 m^2	Sam	428	rat	970	0.5153	motor sports
+3	1081 kg	1.2067	rabbit	Inan	0.0553	0.6727	None	731	4 m^2	Eriq	190	rabbit	544	0.7821	golf
+2	370 kg	0.1806	chicken	Lise, Fabrice	0.8025	1.0032	891	263	708 m^2	Tony	925	reptile, dog, chicken	-29	0.1048	running
+2	329 kg	0.2284	fish	Sam, Lise	0.8986	0.9446	1382	420	815 m^2	Fabrice	1033	reptile	-183	0.5169	basketball
+2	840 kg	0.2165	chicken	Lise	0.513	1.1035	1021	225	613 m^2	Lise	1050	fish	54	-0.0476	running
+2	649 kg	0.0994	fish	Sam, Fabrice	0.5271	1.2692	869	373	650 m^2	Inan	530	chicken, dog	164	0.0356	running
+4	642 kg	0.3874	dog	Inan	0.6584	0.8631	410	1068	731 m^2	Reilly	506	ferret	605	1.2547	ice hockey, football
+0	-74 kg	0.6631	hamster	Vani, Reilly	0.3443	0.5738	514	45	788 m^2	Inan	556	pig	210	-0.2603	boxing, baseball
+3	1296 kg	0.7138	rabbit	fABRICE	-0.0324	0.2853	638	824	359 m^2	Eriq	-114	rabbit	507	1.1454	golf
+2	729 kg	0.0919	chicken	Lise	0.4654	1.009	793	185	925 m^2	Chris	1052	fish	-6	-0.0365	running
+1	269 kg	0.6177	guinea pig	Chris	0.6359	-0.182	6	206	-153 m^2	Sam	313	rat	756	0.5097	motor sports
+3	894 kg	0.7603		Michael	0.0074	0.4103	699	890	-70 m^2	Eriq	118	rabbit	762	0.5262	tennis
+4	481 kg	0.554	?	Tony	0.5679	0.203	569	887	633 m^2	Reilly	225	ferret	None	0.9299	ice hockey
+3	791 kg	0.6391	bird	Michael	-0.2505	0.1751	638	1070	258 m^2	Eriq	-28	rabbit	510	0.8452	Volleyball, Tennis
+3	1016 kg	1.1407	rabbit	Michael	0.0673	-0.0183	691	506	292 m^2	Eriq	-179	rabbit	289	0.4631	tennis
+1	283 kg	0.9093	guinea pig	Fabrice	0.7971	0.2157	26	440	-147 m^2	Michael	352	rat	980	0.3591	soccer
+1	5 kg	0.872	pig	Chris	0.8052	0.2703	227	598	664 m^2	Michael	355	rat	862	0.5423	motor sports
+1	-371 kg	0.7333	guinea pig	Chris	0.5555	0.0085	286	300	-18 m^2	Sam	493	rat	685	0.4907	motor sports
+3	972 kg	0.6928	rabbit	Inan	0.1306	0.0866	810	815	-59 m^2	Eriq	96	rabbit	443	0.7678	volleyball
+2	205 kg	0.0998	chicken	Fabrice, Sam	0.7502	1.0416	881	101	971 m^2	Fabrice	1056	dog, chicken, reptile	105	0.1731	basketball
+3	1246 kg	n/a	bird	Michael	0.0072	0.3218	N/A	445	347 m^2	Eriq	-68	rabbit	704	0.6513	tennis
+4	309 kg	0.3548	dog	tony	0.8305	0.622	878	1456	778 m^2	Andrew	90	ferret	711	0.9047	ice hockey
+2	?	0.0357	chicken	Sam	0.4347	0.7478	830	44	659 m^2	Lise	601	dog	159	-0.0691	running
+1	-159 kg	0.5901	pig	Chris	0.3555	0.1881	-89	77	152 m^2	Reilly	440	rat	1076	0.5756	motor sports
+4	498 kg	0.1951	ferret	Eriq	0.8597	0.4778	617	898	537 m^2	Reilly	185	ferret	641	0.7261	ice hockey
+3	919 kg	1.0704	bird	Inan	-0.0926	0.4181	266	953	-4 m^2	Eriq	90	rabbit	233	1.031	tennis
+4	925 kg	0.1258	rat	Tony	0.553	0.4387	562	1263	384 m^2	vANI	229	ferret	646	1.2352	track & field
+1	-68 kg	0.6985	guinea pig	Chris	0.6515	-0.0107	344	631	200 m^2	Michael	318	rat	729	0.4291	soccer
+3	917 kg	1.0284	bird	Inan	-0.2831	NULL	384	865	98 m^2	Eriq	-78	rat	378	0.9187	golf, tennis
+0	236 kg	0.5513	cat	Reilly, Andrew	0.2566	0.6105	259	-134	1053 m^2	Michael	673	bird, cat	534	0.3549	boxing, baseball
+0	-149 kg	0.6008	hamster	andrew, vani	0.6685	0.7514	462	94	931 m^2	Inan	613	hamster, bird, pig	500	-0.1686	baseball, badminton
+4	461 kg	0.5017	ferret	Eriq	0.6214	0.545	338	969	859 m^2	Vani	47	FERRET	556	0.8049	ice hockey
+1	132 kg	0.8359	pig	Chris	0.4337	-0.1558	-46	340	32 m^2	Michael	141	rat	975	0.4643	soccer
+3	901 kg	0.9971	bird	Inan	-0.2379	0.2981	408	910	22 m^2	Eriq	149	rabbit	298	0.7402	golf
+1	20 kg	0.8382	guinea pig	Chris	0.7462	0.4357	-155	254	500 m^2	Sam	644	rat	657	0.2976	MOTOR SPORTS
+3	459 kg	1.0349	bird	Michael	-0.1024	-0.1267	457	898	308 m^2	Eriq	163	ferret	274	0.8971	tennis
+0	242 kg	0.3069	hamster	Andrew	0.3668	0.7258	207	80	935 m^2	iNAN	710	guinea pig, bird, pig	312	0.199	baseball, boxing
+4	326 kg	0.0599	rat	Tony	0.3888	0.7879	668	996	754 m^2	Andrew	49	ferret	675	0.9317	football, track & field
+0	338 kg	0.5466	hamster	Reilly	0.5308	0.3207	732	244	824 m^2	Inan	780	hamster, bird, cat, guinea pig	203	-0.1322	boxing, baseball
+3	809 kg	1.1092	rabbit	Sam	-0.1459	0.2635	702	1233	-21 m^2	Eriq	194	rabbit	419	0.6947	golf, volleyball
+3	901 kg	0.757	bird	Michael	0.1163	0.0208	519	666	338 m^2	Eriq	259	rabbit	584	0.6743	volleyball, golf
+1	-17 kg	0.7568	pig	Chris	0.8849	-0.1275	307	408	242 m^2	Reilly	479	rat	959	N/A	motor sports
+4	654 kg	0.2237	rat	ERIQ	0.6279	0.3472	530	826	939 m^2	Sam	-98	ferret	316	0.9984	ice hockey, track & field
+2	-192 kg	0.0696	fish	Fabrice, Lise	0.7271	0.946	931	-11	560 m^2	Chris	647	reptile, fish, chicken	157	0.0581	basketball
+0	264 kg	0.4792	reptile	NULL	0.4288	0.4915	339	98	850 m^2	Inan	512	pig, cat, guinea pig	596	-0.0482	boxing
+2	373 kg	-0.2182	chicken	Sam, Lise	0.549	1.2597	937	165	940 m^2	Tony	527	fish, chicken	39	0.6536	running
+3	946 kg	1.0252	rabbit	michael	-0.2228	0.3385	643	911	257 m^2	Eriq	36	rabbit	641	0.8097	GOLF, VOLLEYBALL
+0	254 kg	0.4542	cat	Andrew, Reilly	0.2337	0.2634	393	-19	1034 m^2	Inan	827	cat, guinea pig, hamster, pig	350	0.3582	baseball
